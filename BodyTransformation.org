@@ -1,0 +1,215 @@
+* Body Transformation Prototcol
+** What am I doing and why am I doing it?
+Been talking the talk for to long and its time to walk the walk.
+
+*The protocol will be as follows:*
+*** Diet
+- 5-10 days - Water fast (based on how I feel)
+  - Water and electorlytes only
+    - 5x: Snake juice
+      - 1/2 tsp Salt
+      - 1/4 tsp Nu-Salt
+    - 4x: Magnesium Pill
+- 2 months - 3MAW (3 meals a week) as a form of omad.
+  - Typical: Salad with Greens, Beans, Onions, Mushrooms, Berries, Seeds & Nuts
+  - Occasional: Other Meals as I figure out my 10-15 staple meals for omad
+- 3 months - Omad
+  - Figure out 10-15 staple veggie meals
+*** Exercise
+- 5-10 days - Walking only
+- 2 months - Standard Running regimine
+  - MWF - 3 mile run (prior to eating)
+  - TTSS - Walk
+- 3 Months - alongside omad
+  - Build to 5 miles on run days
+  - Calesthenics
+         
+** G-BOMBS
+*** G - reens
+#+attr_org: :width 500px
+[[file:./images/greens.jpg]]
+
+Green vegetables are the most nutrient-dense of all foods. They contain phytochemicals that protect blood vessels, protect against inflammation, and reduce oxidative stress, which is a major contributor to cardiovascular disease and cancer. All green vegetables are rich in folate and carotenoids, specifically lutein and zeaxanthin, which are the carotenoids known to promote healthy vision.1
+
+Chop cruciferous before cooking: Isothiocyanates
+All vegetables contain protective micronutrients and phytochemicals, but cruciferous vegetables, such as bok choy, broccoli, kale, cauliflower, and Brussels sprouts, are unique. When their cell walls are broken by blending, chopping or chewing, a chemical reaction produces isothiocyanates (ITCs) from precursors called glucosinolates. These ITCs have a variety of potent anti-cancer and other health-promoting effects.
+
+KEY BENEFIT #1: Intestinal immune function
+Research has suggested that ITCs are important for immune function. Cruciferous-derived isothiocyanates, such as sulforaphane, help maintain adequate numbers of immune cells , called intestinal epithelial lymphocytes, in the gut.2
+
+KEY BENEFIT #2: Cardiovascular health and cancer prevention
+Phytochemicals from cruciferous vegetables enhance your health by activating Nrf2, a powerful transcription factor that activates the body’s detoxification system and antioxidant enzymes.3 Thought to reduce vascular inflammation, ITCs work to detoxify carcinogens, reduce inflammation, neutralize oxidative stress, inhibit angiogenesis, and promote cell death in cancer cells.4,5 Greater consumption of cruciferous vegetables is associated with a decreased risk of several cancers, including lung, ovary, stomach, breast, prostate, and colon cancers.6-10
+
+Related: The cancer-fighting power of cruciferous vegetables
+
+KEY BENEFIT #3: Leafy greens and healthy body weight
+Greens, especially leafy greens, are bulky and rich in fiber, phytochemicals, and micronutrients, and very low in calories. Studies have shown that eating a leafy green salad at the start of a meal reduces the calories consumed from the rest of the meal. The larger the salad, the greater the calorie-reducing effect.11,12
+
+Related: Perfect Salads, made perfectly simple
+
+Greens to try
+Cruciferous vegetables include arugula, bok choy, broccoli, Brussels sprouts, cabbage, cauliflower, collard greens, kale, mustard greens and watercress. Other green vegetables include asparagus, celery, cucumber, green beans, lettuces, Swiss chard, spinach, and zucchini.
+*** B - eans
+#+attr_org: :width 500px
+[[file:./images/beans.png]]
+Beans and other legumes are the most nutrient-dense starch sources and are nutritionally superior to whole grains.
+
+KEY BENEFIT #1: Cardiovascular health
+In a meta-analysis of 5 studies, every 4 weekly servings of legumes was associated with an additional 15% reduction in the risk of heart disease.77 Beans are rich in soluble fiber, which helps to lower cholesterol, and their overall high fiber content is helpful for keeping blood pressure down.13,14
+A study that compared beans to whole grains in people with type 2 diabetes showed beans were superior for improving cardiovascular and metabolic health indicators, such as HbA1c, fasting blood glucose, body weight, triglycerides, and blood pressure.15
+
+Related: Clinical study confirms that beans are the preferred starch source for diabetes
+
+KEY BENEFIT #2: Weight loss
+The high fiber content of beans increases chewing time and slows both stomach emptying and the absorption of carbohydrate from a meal, which decreases the after-meal elevations in glucose and insulin.
+
+Beans also promote feelings of satiety, which helps to reduce appetite and total calorie intake.16,17 An analysis of 21 randomized controlled trials investigating diets that included beans or lentils, compared to control diets (no beans) with the same number of calories, found significant weight loss in the bean and lentil groups.18
+
+Related: Eat healthfully, and abundantly, for weight loss
+
+KEY BENEFIT #3: Healthy microbiome and cancer prevention
+The fiber and resistant starch in beans, lentils, and split peas cannot be broken down by the human digestive system. However, fiber – and especially resistant starch – are prebiotics. They can be metabolized by the gut microbiome and promote the growth of beneficial intestinal bacteria.19
+
+Gut bacteria metabolize resistant starch into short-chain fatty acids (SCFAs), which have a variety of protective health effects. SCFAs promote good intestinal immune function and have anti-inflammatory effects. They act as an energy source for the cells in the colon, help protect against colon cancer, and act as regulators of metabolism, protecting against weight gain and insulin resistance.19-22 Apart from the microbiome, the high fiber content of beans also accelerates intestinal transit time and dilutes potential carcinogens in the colon.23 Eating beans and other legumes regularly is linked to reduced risk of colorectal cancer, prostate cancer, and breast cancer.23-25
+
+Related: Your gut microbiome influences immune function (and beans keep it healthy)
+
+Beans to try
+Adzuki, black, cannellini, chickpea, edamame, green peas, lentils, kidney, navy, pinto, snow peas, white beans.
+*** O - nions
+#+attr_org: :width 500px
+[[file:./images/onions.png]]
+
+Onions, garlic and leeks are some of the members of the Allium family of vegetables. These vegetables are known for their characteristic organosulfur compounds that are responsible for their anti-cancer properties. Like the isothiocyanates (ITCs) in cruciferous vegetables, these organosulfur compounds are released when these vegetables are chopped, crushed or chewed.
+
+KEY BENEFIT #1: Cancer prevention: chop before cooking
+Once onions or garlic are chopped or crushed, the enzyme alliinase goes to work, producing organosulfur compounds with beneficial antioxidant, anti-inflammatory, and anti-cancer effects.26 The other members of the Allium family also contain beneficial organosulfur compounds. These phytochemicals help detoxify carcinogens, inhibit cancer cell growth, and block angiogenesis.27  Many epidemiological studies have found that higher intake of garlic, onions, and other Alliums is associated with lower risk of gastric and esophageal cancers.28 To get the full effect of the alliinase enzyme, thoroughly chew garlic or other Alliums raw or wait about 10 minutes to cook after chopping or mincing.29
+
+Onions also contain high concentrations of flavonoid phytochemicals, predominantly quercetin; red onions contain a variety of anthocyanins, flavonoids commonly found in berries.30,31 Quercetin promotes DNA repair, suppresses growth and proliferation, and induces cell death in tumor cells.32 Flavonoids also have anti-inflammatory effects that contribute to cancer prevention.33
+
+KEY BENEFIT #2: Cardiovascular health
+Onions and garlic are linked to a healthy cardiovascular system – there is a lower risk of stroke and of death from cardiovascular disease associated with higher Allium intake.34 Studies suggest that phytochemicals from Allium vegetables promote healthy blood pressure, blood glucose, and cholesterol levels, and have antiplatelet actions, all of which contribute to reduced cardiovascular risk.28
+
+Related: How garlic and onions promote cardiovascular health
+
+KEY BENEFIT #3: Immune defenses
+In laboratory studies, garlic and onion phytochemicals enhance the activity of several types of immune cells.35,36 There is also evidence quercetin promotes antiviral and anti-tumor immune function, and facilitates the immune-supporting actions of zinc.37,38
+
+Allium vegetables to try
+Onions, garlic, scallions, chives, leeks, shallots
+
+*** M - ushrooms
+#+attr_org: :width 500px
+[[file:./images/mushrooms.png]]
+Mushrooms contain unique, beneficial phytochemicals, such as the potent antioxidant ergothioneine, immunomodulating beta glucans, substances with anti-estrogen activity that help prevent breast cancer, and prebiotic polysaccharides that promote a healthy gut microbiome.39 A study of over 15,000 American adults reported a dose-response relationship between higher mushroom consumption and a lower risk of death from all causes over the average 19.5-year follow-up period.40
+
+KEY BENEFIT #1: Cancer prevention
+Mushrooms (particularly the species Agaricus bisporus which includes white button, cremini, and Portobello mushrooms), have anti-aromatase (aromatase is an estrogen-producing enzyme) activity in laboratory studies, and this is thought to underlie the association between higher mushroom intake and lower breast cancer risk.41,42
+
+A 2021 analysis of 17 observational studies on mushroom intake and cancer risk found that high mushroom intake was associated with a 34% lower risk of any cancer, and a 35% lower risk of breast cancer compared to low mushroom intake.43
+
+Mushrooms have additional anti-cancer effects beyond their anti-estrogen activity. Mushroom extracts have anti-angiogenic and anti-proliferative effects and promote anti-tumor immune cell function, prevent DNA damage, promote programmed cancer cell death, and inhibit angiogenesis.44-47
+
+KEY BENEFIT #2: Ergothioneine
+Oyster mushrooms (followed by white button mushrooms) are the richest sources of ergothioneine, a specialized antioxidant that is considered a “longevity vitamin” by some scientists.39,48-50  Ergothioneine is thought to be important for human health, since ergothioneine is found in most cells and tissues, and many human cells have a transporter protein whose main known function is to bring ergothioneine into the cell.51,52 There is evidence ergothioneine helps preserve cognitive function in older adults by protecting the brain against oxidative stress.53
+
+Related: Mighty Mushrooms Boost Immune Function and Brain Health and Guard Against Cancer
+
+KEY BENEFIT #3: Immune function
+Mushroom chemicals called beta-glucans have a unique ability to interact with the cells of the immune system.46,54-56 Immune cell growth and maturation, production of immune-modulating molecules, and the ability of immune cells to destroy invading cells have all been enhanced by mushroom extracts in laboratory studies.57-73
+
+KEY BENEFIT #4: Weight maintenance
+Mushrooms also promote a healthy body weight. A clinical trial in which half of the participants replaced all red meat with mushrooms for one year reported that the mushroom group had lower calorie intake, lost more weight, and had lower BMI, waist circumference, percent, body fat, and blood pressure compared to the standard diet group.74 The research suggests that when meat is replaced with mushrooms, people do not compensate for the lower calorie content by eating more calories from other foods.75
+
+I recommend only eating mushrooms cooked, because several raw culinary mushrooms contain small amounts of a potentially carcinogenic substance called agaritine, and cooking reduces the agaritine content.76-78
+
+Mushrooms to try
+Chanterelle, cremini, maitake, oyster, porcini, portobello, enoki, Lion’s mane, shiitake, white button
+*** B - erries
+#+attr_org: :width 500px
+[[file:./images/berries.png]]
+Berries and pomegranate arils are some of the lowest sugar fruits, rich in nutrients and phytochemicals. Greater berry consumption has been linked to reduced risk of diabetes, cardiovascular disease, and cancers.79-83
+
+KEY BENEFIT #1: Anti-inflammatory effects and cancer prevention
+Berries’ vibrant colors are a result of their rich flavonoid content – specifically a subcategory of flavonoids called anthocyanins. Flavonoids and their metabolites work by boosting cells’ natural antioxidant and detoxification enzymes and altering cell signaling pathways, particularly those associated with inflammation.84-89 Intervention studies adding berries to the diet have found decreases in inflammatory markers, such as C-reactive protein.79,90
+
+In addition to anthocyanins, ellagic acid, resveratrol, and other polyphenols also contribute to the cancer preventive effects of berries. These preventive effects include inhibiting growth of cancerous cells and inhibiting angiogenesis.80 Pomegranate contains its own distinctive antioxidants called punicalagins, plus ellagic acid and flavonoids, and pomegranate phytochemicals have anti-estrogen and anti-angiogenic activity.91-94 Berry powders and gels have shown promising results in human studies on pre-cancerous lesions in the digestive tract.95-97  In clinical trials on men with prostate cancer, supplementation with pomegranate juice or extract was found to slow the rise in their PSA levels.98,99
+
+KEY BENEFIT #2: Cardiovascular health and favorable blood glucose
+Antioxidant-rich berries increase blood antioxidant capacity, decrease adhesion of inflammatory cells to blood vessel walls, and improve blood pressure regulation. Higher berry intake is associated with a lower likelihood of hypertension, and randomized controlled trials on pomegranate juice found decreases in systolic and diastolic blood pressure.100 Patients with heart disease who consumed pomegranate juice daily for 3 years experienced a decrease in carotid IMT (intima-media thickness; indicator of atherosclerotic plaque).101  Randomized controlled trials also showed consumption of berries reduced blood pressure, LDL cholesterol, fasting blood glucose, and HbA1c (an indicatory of long-term blood glucose levels).79 There is also evidence that berry phytochemicals inhibit enzymes that break down carbohydrate and inhibit glucose uptake in the digestive tract, helping to limit the rise in blood glucose after a meal.102-104
+
+Related: Eating Berries Reduces Your Risk of Heart Attack
+
+KEY BENEFIT #3: Brain health
+Berries are an excellent food for the brain. Observational studies, such as the Nurses’ Health Study, have reported a lower risk of cognitive decline or dementia associated with greater intake of berries.105-107 Intervention studies have documented improved cognitive functions including memory when participants supplemented their diets with berries.108,109 Berry flavonoids may enhance brain health by promoting the body’s natural antioxidant and detoxification system, enhancing communication between cells in the brain, counteracting inflammation, and enhancing blood flow in the brain.110-112
+
+Berries to try
+Blackberries, blueberries, cranberries, mulberries, raspberries, strawberries
+
+*** S - eeds & Nuts
+#+attr_org: :width 500px
+[[file:./images/seeds.png]]
+
+Raw seeds and nuts are healthful, whole-food fat sources and are rich in a spectrum of micronutrients, including phytosterols, minerals, and antioxidants. Nuts reduce oxidative stress, lower cholesterol, improve blood vessel function, help with weight maintenance, and lower the glycemic load of meals.113-115  Walnuts and flax, chia, and hemp seeds are rich sources of omega-3 fats.
+
+Related: Nuts and Seeds Help Keep Disease Away
+
+KEY BENEFIT #1: Cardiovascular health
+Eating nuts and seeds regularly is consistently linked to longer life,114,116-120 and this is likely due to promoting insulin sensitivity and cardiovascular health.118-121 The cardiovascular benefits of nuts include cholesterol-lowering, enhanced endothelial function, and reduced oxidative stress.113, 115, 122-124 Adding flaxseed to the diet has been found in many clinical trials to reduce systolic and diastolic blood pressure and inflammatory markers, and nut consumption is also linked to a lower risk of stroke.125-127
+
+KEY BENEFIT #2: Weight maintenance
+Despite their caloric density, nuts and seeds do not promote weight gain. In fact, the research suggests nuts help with maintaining a healthy weight because of incomplete absorption of their calories and their high satiety value, which suppresses appetite.117,128 A large study of U.S. adults found that those who ate nuts daily had lower BMI and waist circumference than those who ate nuts less frequently or not at all.129
+
+Related: Nuts: An Important Component of an Anti-Diabetes Diet
+
+The healthy fats in seeds and nuts also aid in the absorption of carotenoids when eaten with vegetables.130
+
+KEY BENEFIT #3: Cancer prevention
+Meta-analyses on nut consumption and cancer risk found that as nut intake increased, cancer risk decreased.131-133 Lignans from flax, chia, and sesame seeds have anti-estrogen effects that are protective against breast cancer.134,135 Nut and seed phytochemicals have antiproliferative effects in cancer cells, in addition to antioxidant and anti-inflammatory effects, and benefits on the gut microbiome.132,136,137
+
+Related: Nuts and seeds reduce cancer risk
+
+Good choices include chia, flax, hemp, pumpkin and sesame seeds, and almonds, Mediterranean pine nuts, and pistachios and walnuts. I recommend making half of your nut and seed intake from the high-omega-3 nuts and seeds (walnuts, flax, chia, hemp).
+
+Seeds and nuts to try
+Almonds, chia seeds, flaxseeds, hemp seeds, Mediterranean pine nuts, pistachios, pumpkin seeds, sesame seeds, walnuts
+
+
+
+* Metrics
+The metrics I'd like to track:
+- Weight
+- Blood pressure
+- Stage
+| Date       | Weight | Trend | BP     | Stage         |
+|------------+--------+-------+--------+---------------|
+| 2022/11/27 |  204.5 | *     | ---    | Water Fasting |
+| 2022/11/28 |  203.4 |      | ---    | Water Fasting |
+| 2022/11/29 |  200.8 |      | 143/89 | Water Fasting |
+| 2022/11/30 |  198.9 |      | ---    | water fasting |
+| 2022/12/01 |  198.9 | *     | ---    | Normal Eating |
+| 2022/12/02 |  199.4 |      | 137/90 | Normal Eating |
+| 2022/12/03 |  203.5 |      | 135/93 | Normal Eating |
+| 2022/12/04 |  201.5 |      | 133/83 | Normal Eating |
+| 2022/12/05 |  200.9 |      | ---    | Normal Eating |
+| 2022/12/06 |  203.6 |      | ---    | Normal Eating |
+| 2022/12/10 |  204.0 |      | ---    | Normal Eating |
+| 2022/12/10 |  204.6 |      | ---    | Normal Eating |
+* Recipe Book (Staple Meals)
+** Roasted Veg
+* Daily Journal
+** 2022-11-27 Sun
+Starting a few days ago I was having issues with feeling a bit meh. To the point that for some reason I got super worried about my heart health, i.e. blood pressure, blood clots, stroke, heart attack etc. Decided it was time to implement the things I know regarding weight loss.
+
+Decided It's time to get on my timeline and go.
+
+Rough timeline I want to adhere to is 7 days of fasting. Then switch to 3MAW for 2 months followed by 3 months of OMAD
+
+| Start Date | End Date   | Protocol   | Goal                     |
+|------------+------------+------------+--------------------------|
+| 11/27/2022 | 12/03/2022 | Water Fast | Confirm BP & Lower       |
+| 12/04/2022 | 01/29/2023 | 3MAW       | Maintained Weigh Loss    |
+| 01/30/2023 | 04/30/2023 | OMAD       | Rebuild Muscle & Fitness |
+** 2022-12-12 Mon
+Having really been doing this which is my own fault but its ok. Back on the saddle. Keep refocusing. Vegas is next weekend so we can't maintain it then but we can through the week. Going to take two bananas for lunch. Ultimately we haven't had a total fluxuation over 5lbs anyway so the key here is consistent veggie eating on single meals. The fast was a nice thing but full on fasting is unnecessary. 
+

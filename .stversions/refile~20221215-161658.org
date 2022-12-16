@@ -1,0 +1,15 @@
+#+FILETAGS: REFILE
+
+* TODO This is a new task
+ [2022-12-13 Tue 23:20]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*initial package setup][initial package setup]]
+*
+* MEETING with Tyler                                                :MEETING:
+[2022-12-13 Tue 23:26]
+
+* TODO Test todo from work. Will it sync? 
+ [2022-12-15 Thu 16:14]
+
+** NEXT  This is the next thing to do
+[2022-12-15 Thu 16:15]
+

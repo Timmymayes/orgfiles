@@ -1,0 +1,466 @@
+       
+* April - 2022
+** DONE Finish documentation
+CLOSED: [2022-04-18 Mon 20:57] SCHEDULED: <2022-04-19 Tue>
+** DONE Remember to commit configuration updtes
+CLOSED: [2022-04-29 Fri 08:39]
+ [2022-04-19 Tue 09:00]
+ [[file:~/Projects/emacsone/OrgFiles/tasks.org::*Inbox][Inbox]]
+
+** DONE update journal info
+CLOSED: [2022-04-29 Fri 08:39]
+ [2022-04-19 Tue 09:03]
+ [[file:~/Projects/emacsone/init.el::("j"%20"Journal%20Entries")]]
+
+ Active
+** DONE [#A] Merge the PR
+CLOSED: [2022-04-29 Fri 08:39] DEADLINE: <2022-04-20 Wed>
+
+** DONE this is a test todo
+CLOSED: [2022-04-29 Fri 08:45
+* May - 2022
+** DONE Test org-capture
+CLOSED: [2022-05-30 Mon 11:13] SCHEDULED: <2022-05-04 Wed>
+ [2022-05-04 Wed 19:02]
+
+** DONE Add a UI
+CLOSED: [2022-05-30 Mon 11:13]
+ [2022-05-30 Mon 11:04]
+ [[file:~/Projects/odin-rps/index.html::</head>]]
+
+** DONE update with a UI 
+CLOSED: [2022-05-30 Mon 11:13]
+ [2022-05-30 Mon 11:08]
+ [[file:~/Projects/odin-rps/rps.js:://%20need%20a%20function%20computerPlay%20that%20will%20randomly%20return%20rock%20paper%20or%20scissors.%20This%20is%20the%20computers%20player]]
+
+** DONE work through odin css
+CLOSED: [2022-05-30 Mon 11:14]
+
+** DONE Inbox
+CLOSED: [2022-05-30 Mon 11:28]
+
+*** DONE setup a key for org agenda
+CLOSED: [2022-05-30 Mon 11:28]
+ [2022-05-30 Mon 11:21]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*initial%20package%20setup][initial package setup]]
+
+** DONE Delete this function
+CLOSED: [2022-05-30 Mon 12:24]
+ [2022-05-30 Mon 12:23]
+ [[file:~/Projects/odin-rps/rps.js][file:~/Projects/odin-rps/rps.js]]
+
+
+** DONE 
+CLOSED: [2022-05-30 Mon 15:31]
+ [2022-05-30 Mon 15:30]
+
+** DONE 
+CLOSED: [2022-06-02 Thu 20:37]
+ [2022-06-01 Wed 13:17]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Mail%20with%20mu4e][Mail with mu4e]]
+
+** DONE 
+CLOSED: [2022-06-02 Thu 20:37]
+ [2022-06-01 Wed 13:18]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Mail%20with%20mu4e][Mail with mu4e]]
+
+** DONE 
+CLOSED: [2022-06-02 Thu 20:37]
+ [2022-06-01 Wed 13:18]
+ [[file:~/Projects/emacsone/OrgFiles/tasks.org::*]]
+
+* June - 2022
+** DONE Create a guest list with a filter to learn looping
+CLOSED: [2022-06-02 Thu 20:36]
+ [2022-05-30 Mon 15:30]
+ [[file:~/Projects/live-practice/guest-list.js][file:~/Projects/live-practice/guest-list.js]]
+
+* July - 2022
+* August - 2022
+
+
+** DONE Fix the hotkey loading
+CLOSED: [2022-07-14 Thu 14:25]
+ [2022-05-30 Mon 20:27]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Javascript][Javascript]]
+
+** DONE g
+CLOSED: [2022-07-14 Thu 14:25]
+ [2022-06-03 Fri 00:02]
+ [[file:~/Projects/javascript-exercises/04_removeFromArray/removeFromArray.spec.js::describe('removeFromArray',%20()%20=>%20{]]
+
+** DONE 
+CLOSED: [2022-07-14 Thu 14:26]
+ [2022-06-04 Sat 17:33]
+
+** DONE 
+CLOSED: [2022-07-14 Thu 14:26]
+ [2022-07-14 Thu 13:43]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Visual Fill Mode][Visual Fill Mode]]
+
+** DONE 
+CLOSED: [2022-07-14 Thu 14:26]
+ [2022-07-14 Thu 14:18]
+test capture
+
+** DONE this is a test todo 
+CLOSED: [2022-07-14 Thu 14:26]
+ [2022-07-14 Thu 14:19]
+
+** DONE scheduled
+CLOSED: [2022-07-14 Thu 14:30] SCHEDULED: <2022-07-14 Thu>
+ [2022-07-14 Thu 14:19]
+
+** DONE Send Front email regarding missing emails to Issac
+CLOSED: [2022-07-15 Fri 13:31] DEADLINE: <2022-07-15 Fri> SCHEDULED: <2022-07-14 Thu>
+ [2022-07-14 Thu 14:30]
+
+** DONE Do Dishes
+CLOSED: [2022-07-24 Sun 11:59]
+ [2022-07-18 Mon 09:35]
+
+
+** DONE Figure out why the removeChild function is not working.
+CLOSED: [2022-07-24 Sun 10:29]
+ [2022-07-19 Tue 18:14]
+ [[file:~/Projects/odin-rps/rps.js::const resultDiv = document.createElement("div");]]
+ 
+* September - 2022
+* October - 2022
+* November - 2022
+* December - 2022
+
+** DONE Look up and read the couch to 5k program and create an outline of doing that [16%]
+CLOSED: [2022-07-22 Fri 15:04] SCHEDULED: <2022-07-17 Sun>
+:PROPERTIES:
+:COOKIE_DATA: recursive
+:END:
+
+ [2022-07-15 Fri 13:42]
+
+** DONE look into subscriptions and cancel what you can
+CLOSED: [2022-07-27 Wed 09:16] SCHEDULED: <2022-07-17 Sun>
+ [2022-07-15 Fri 13:43]
+
+** DONE Create Etch A Sketch Project [100%]
+CLOSED: [2022-07-31 Sun 16:54] SCHEDULED: <2022-07-25 Mon 19:00-21:00>
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+:LOGBOOK:
+CLOCK: [2022-07-31 Sun 10:26]--[2022-07-31 Sun 12:26] =>  2:00
+CLOCK: [2022-07-31 Sun 09:37]--[2022-07-31 Sun 10:05] =>  0:28
+CLOCK: [2022-07-26 Tue 08:11]--[2022-07-26 Tue 10:00] =>  1:49
+CLOCK: [2022-07-24 Sun 17:57]--[2022-07-24 Sun 18:02] => 0:05
+CLOCK: [2022-07-24 Sun 13:27]--[2022-07-24 Sun 13:49] =>  0:22
+CLOCK: [2022-07-24 Sun 12:33]--[2022-07-24 Sun 12:48] =>  0:15
+:END:
+ [2022-07-24 Sun 12:30]
+ [[file:~/Projects/rps-etch/README.org][file:~/Projects/rps-etch/README.org]]
+
+*** DONE Create repository, clone and make initial commit
+CLOSED: [2022-07-24 Sun 13:27]
+
+*** DONE Create a webpage with a 16x16 grid of square divs
+CLOSED: [2022-07-31 Sun 11:27]
+
+**** DONE Use Grid instead of flexbox to solve the layout
+CLOSED: [2022-07-31 Sun 11:26]
+
+
+
+ [2022-07-26 Tue 10:01]
+ [[file:~/Projects/rps-etch/etch.js][file:~/Projects/rps-etch/etch.js]]
+
+**** Requirements
+- Create divs using javascript. Don't make by hand with copy/past
+- Put grid squares inside another 'container' div (direct in html not js)
+- For alignment may may use any of the following methods:
+  - Float/clear
+  - Inline-block
+  - FlexBox
+  - cssgrid
+#+BEGIN_QUOTE
+Be careful with borders and Margins, as they can adjust the size of squares!
+
+“OMG, why isn’t my grid being created???”:
+- Did you link your CSS stylesheet?
+- Open your browser’s developer tools.
+- Check if there are any errors in the JavaScript console.
+- Check your “elements” pane to see if the elements have actually shown up but are somehow hidden.
+- Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.
+#+END_QUOTE
+
+*** DONE Setup a "hover" effect so the div changes color as you pass over them, leaving  apixel trail like a pen
+CLOSED: [2022-07-31 Sun 11:27]
+
+*** DONE Add a button to the top of the screen that will send the user a popup asking for the number of squares for the new grid.
+CLOSED: [2022-07-31 Sun 12:16]
+This should remove the old grid and make a new grid *in the same total space as before* (i.e. 960 px wide). This is a new sketchpad.
+Set the limmit for the user input to a maximum of 100.
+- Research button tags in HTML and how you can make a javascript function run when one is clicked
+- check out prompts
+- You should be able to enter 64 and have a new 64x64 grid pop up without changing total amount of pixels used
+
+*** DONE Push project to github
+CLOSED: [2022-07-31 Sun 16:54]
+- Extra Credit:
+  Instead of just changing the color of a square from black to white (for example), have each pass through with the mouse change it to a completely random RGB value. Then try having each pass just add another 10% of black to it so that only after 10 passes is the square completely black.
+
+** DONE Test refresh of todos
+CLOSED: [2022-07-24 Sun 20:33]
+ [2022-07-24 Sun 19:31]
+
+** DONE Write BGG Reviews from Tuesday / Wed night 
+CLOSED: [2022-07-28 Thu 09:28] SCHEDULED: <2022-07-28 Thu>
+ [2022-07-28 Thu 08:06]
+
+** DONE Update BGG Stats App
+CLOSED: [2022-07-28 Thu 08:10] SCHEDULED: <2022-07-28 Thu>
+ [2022-07-28 Thu 08:07]
+
+** DONE Import/Setup Game designs in Emacs org mode
+CLOSED: [2022-12-04 Sun 16:01] SCHEDULED: <2022-11-28 Mon>
+ [2022-07-28 Thu 08:07]
+ Ongoing project
+
+** DONE Programming block 
+CLOSED: [2022-08-14 Sun 09:58] SCHEDULED: <2022-08-13 Sat 08:00-12:00>
+:LOGBOOK:
+CLOCK: [2022-08-13 Sat 19:54]--[2022-08-13 Sat 22:20] =>  2:26
+CLOCK: [2022-08-13 Sat 19:53]--[2022-08-13 Sat 19:53] =>  0:00
+CLOCK: [2022-08-13 Sat 19:53]--[2022-08-13 Sat 19:53] =>  0:00
+:END:
+ [2022-08-12 Fri 09:02]
+
+** DONE Make adjustments to Rebuild:Zombies!
+CLOSED: [2022-11-24 Thu 11:15] SCHEDULED: <2022-08-13 Sat 13:00>
+ [2022-08-12 Fri 09:03]
+
+** DONE Test multi-day task / event
+CLOSED: [2022-08-13 Sat 08:12] SCHEDULED: <2022-08-12 Fri - 2022-08-17>
+ [2022-08-12 Fri 09:11]
+
+** DONE Fixc ontinual calculation via hitting an operator
+CLOSED: [2022-11-19 Sat 11:18]
+ [2022-08-13 Sat 22:19]
+ [[file:~/Projects/odin-calc/calc.js::args.operator = e.target.id;]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:27]
+ [[file:~/Projects/live-practice/fruits.html::<button></button>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:29]
+ [[file:~/Projects/live-practice/fruits.html::<label for=""></label>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:30]
+ [[file:~/Projects/live-practice/fruits.html::<button></button>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:55]
+ [[file:~/Projects/live-practice/fruits.html::</div>]]
+
+** DONE Update Emmet edit next point to not be global.
+CLOSED: [2022-11-20 Sun 19:09]
+ [2022-11-19 Sat 11:15]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*emmet-mode][emmet-mode]]
+
+** DONE
+** DONE Look up and read the couch to 5k program and create an outline of doing that [16%]
+CLOSED: [2022-07-22 Fri 15:04] SCHEDULED: <2022-07-17 Sun>
+:PROPERTIES:
+:COOKIE_DATA: recursive
+:END:
+
+ [2022-07-15 Fri 13:42]
+
+** DONE look into subscriptions and cancel what you can
+CLOSED: [2022-07-27 Wed 09:16] SCHEDULED: <2022-07-17 Sun>
+ [2022-07-15 Fri 13:43]
+
+** DONE Create Etch A Sketch Project [100%]
+CLOSED: [2022-07-31 Sun 16:54] SCHEDULED: <2022-07-25 Mon 19:00-21:00>
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+:LOGBOOK:
+CLOCK: [2022-07-31 Sun 10:26]--[2022-07-31 Sun 12:26] =>  2:00
+CLOCK: [2022-07-31 Sun 09:37]--[2022-07-31 Sun 10:05] =>  0:28
+CLOCK: [2022-07-26 Tue 08:11]--[2022-07-26 Tue 10:00] =>  1:49
+CLOCK: [2022-07-24 Sun 17:57]--[2022-07-24 Sun 18:02] => 0:05
+CLOCK: [2022-07-24 Sun 13:27]--[2022-07-24 Sun 13:49] =>  0:22
+CLOCK: [2022-07-24 Sun 12:33]--[2022-07-24 Sun 12:48] =>  0:15
+:END:
+ [2022-07-24 Sun 12:30]
+ [[file:~/Projects/rps-etch/README.org][file:~/Projects/rps-etch/README.org]]
+
+*** DONE Create repository, clone and make initial commit
+CLOSED: [2022-07-24 Sun 13:27]
+
+*** DONE Create a webpage with a 16x16 grid of square divs
+CLOSED: [2022-07-31 Sun 11:27]
+
+**** DONE Use Grid instead of flexbox to solve the layout
+CLOSED: [2022-07-31 Sun 11:26]
+
+
+
+ [2022-07-26 Tue 10:01]
+ [[file:~/Projects/rps-etch/etch.js][file:~/Projects/rps-etch/etch.js]]
+
+**** Requirements
+- Create divs using javascript. Don't make by hand with copy/past
+- Put grid squares inside another 'container' div (direct in html not js)
+- For alignment may may use any of the following methods:
+  - Float/clear
+  - Inline-block
+  - FlexBox
+  - cssgrid
+#+BEGIN_QUOTE
+Be careful with borders and Margins, as they can adjust the size of squares!
+
+“OMG, why isn’t my grid being created???”:
+- Did you link your CSS stylesheet?
+- Open your browser’s developer tools.
+- Check if there are any errors in the JavaScript console.
+- Check your “elements” pane to see if the elements have actually shown up but are somehow hidden.
+- Go willy-nilly and add console.log statements in your JavaScript to see if it’s actually being loaded.
+#+END_QUOTE
+
+*** DONE Setup a "hover" effect so the div changes color as you pass over them, leaving  apixel trail like a pen
+CLOSED: [2022-07-31 Sun 11:27]
+
+*** DONE Add a button to the top of the screen that will send the user a popup asking for the number of squares for the new grid.
+CLOSED: [2022-07-31 Sun 12:16]
+This should remove the old grid and make a new grid *in the same total space as before* (i.e. 960 px wide). This is a new sketchpad.
+Set the limmit for the user input to a maximum of 100.
+- Research button tags in HTML and how you can make a javascript function run when one is clicked
+- check out prompts
+- You should be able to enter 64 and have a new 64x64 grid pop up without changing total amount of pixels used
+
+*** DONE Push project to github
+CLOSED: [2022-07-31 Sun 16:54]
+- Extra Credit:
+  Instead of just changing the color of a square from black to white (for example), have each pass through with the mouse change it to a completely random RGB value. Then try having each pass just add another 10% of black to it so that only after 10 passes is the square completely black.
+
+** DONE Test refresh of todos
+CLOSED: [2022-07-24 Sun 20:33]
+ [2022-07-24 Sun 19:31]
+
+** DONE Write BGG Reviews from Tuesday / Wed night 
+CLOSED: [2022-07-28 Thu 09:28] SCHEDULED: <2022-07-28 Thu>
+ [2022-07-28 Thu 08:06]
+
+** DONE Update BGG Stats App
+CLOSED: [2022-07-28 Thu 08:10] SCHEDULED: <2022-07-28 Thu>
+ [2022-07-28 Thu 08:07]
+
+** DONE Import/Setup Game designs in Emacs org mode
+CLOSED: [2022-12-04 Sun 16:01] SCHEDULED: <2022-11-28 Mon>
+ [2022-07-28 Thu 08:07]
+ Ongoing project
+
+** DONE Programming block 
+CLOSED: [2022-08-14 Sun 09:58] SCHEDULED: <2022-08-13 Sat 08:00-12:00>
+:LOGBOOK:
+CLOCK: [2022-08-13 Sat 19:54]--[2022-08-13 Sat 22:20] =>  2:26
+CLOCK: [2022-08-13 Sat 19:53]--[2022-08-13 Sat 19:53] =>  0:00
+CLOCK: [2022-08-13 Sat 19:53]--[2022-08-13 Sat 19:53] =>  0:00
+:END:
+ [2022-08-12 Fri 09:02]
+
+** DONE Make adjustments to Rebuild:Zombies!
+CLOSED: [2022-11-24 Thu 11:15] SCHEDULED: <2022-08-13 Sat 13:00>
+ [2022-08-12 Fri 09:03]
+
+** DONE Test multi-day task / event
+CLOSED: [2022-08-13 Sat 08:12] SCHEDULED: <2022-08-12 Fri - 2022-08-17>
+ [2022-08-12 Fri 09:11]
+
+** DONE Fixc ontinual calculation via hitting an operator
+CLOSED: [2022-11-19 Sat 11:18]
+ [2022-08-13 Sat 22:19]
+ [[file:~/Projects/odin-calc/calc.js::args.operator = e.target.id;]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:27]
+ [[file:~/Projects/live-practice/fruits.html::<button></button>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:29]
+ [[file:~/Projects/live-practice/fruits.html::<label for=""></label>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:30]
+ [[file:~/Projects/live-practice/fruits.html::<button></button>]]
+
+** DONE 
+CLOSED: [2022-11-19 Sat 11:15]
+ [2022-10-12 Wed 20:55]
+ [[file:~/Projects/live-practice/fruits.html::</div>]]
+
+** DONE Update Emmet edit next point to not be global.
+CLOSED: [2022-11-20 Sun 19:09]
+ [2022-11-19 Sat 11:15]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*emmet-mode][emmet-mode]]
+
+** DONE Figure out how to scale mini-buffer text
+CLOSED: [2022-11-26 Sat 16:00]
+ [2022-11-19 Sat 21:13]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Scale Minibuffer Text][Scale Minibuffer Text]]
+
+** DONE Figure out how to make this not a macro but a function
+CLOSED: [2022-11-26 Sat 16:01]
+ [2022-11-23 Wed 18:34]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Key binding][Key binding]]
+
+** DONE [#C] Build Core Site Structure
+CLOSED: [2022-12-04 Sun 16:01] SCHEDULED: <2022-11-26 Sat>
+ [2022-11-26 Sat 15:59]
+ [[file:~/Projects/odin-library/index.html][file:~/Projects/odin-library/index.html]]
+
+** DONE Solxve issue within toggle status.
+CLOSED: [2022-12-11 Sun 14:21] SCHEDULED: <2022-12-07 Wed>
+ [2022-12-02 Fri 23:38]
+ :odin-library:
+ [[file:~/Projects/odin-library/main.js::// need to figure out the toggle status issue due to how i'm deleting rows]]
+
+** DONE Hang out with Jonathan and his fiance for sushi
+CLOSED: [2022-12-11 Sun 14:18] SCHEDULED: <2022-12-05 Mon 16:00-17:00>
+ [2022-12-02 Fri 23:39]
+
+** DONE Game Night @ Josh's
+CLOSED: [2022-12-11 Sun 14:18] SCHEDULED: <2022-12-06 Tue 19:00-23:59>
+ [2022-12-02 Fri 23:41]
+
+** DONE Work on Odin-Project Task
+CLOSED: [2022-12-11 Sun 14:20] SCHEDULED: <2022-12-07 Wed 18:00-21:00>
+ [2022-12-02 Fri 23:42]
+
+** DONE Work on Odin Project
+CLOSED: [2022-12-11 Sun 14:20] SCHEDULED: <2022-12-09 Fri 17:00-22:00>
+ [2022-12-02 Fri 23:44]
+
+** DONE update agenda for next weekekkkkk
+CLOSED: [2022-12-11 Sun 14:22] SCHEDULED: <2022-12-02 Fri 23:45-23:59>
+ [2022-12-02 Fri 23:44]
+
+** DONE Test Meeting<2022-12-12 Mon 09:45>
+CLOSED: [2022-12-14 Wed 01:17]
+
+** DONE Work @ Office <SEAS>
+CLOSED: [2022-12-12 Mon 18:34] SCHEDULED: <2022-12-12 Mon 10:00 - 16:30>
+ [2022-12-11 Sun 14:24]
+
+** DONE Test
+CLOSED: [2022-12-13 Tue 09:13]
+

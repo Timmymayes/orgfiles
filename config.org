@@ -1,0 +1,29 @@
+* Org
+:PROPERTIES:
+:CATEGORY: config
+:END:
+** TODO Create package to allow all-the-icons to insert from game-icons and maybe even noun-project
+SCHEDULED: <2022-12-15 Thu>
+:LOGBOOK:
+- State "TODO"       from "HOLD"       [2022-12-13 Tue 21:15]
+- State "HOLD"       from "TODO"       [2022-12-13 Tue 09:41] \\
+  Set to hold until ready
+:END:
+ [2022-11-24 Thu 15:32]
+ [[file:~/Game Designs/Zombie Rebuild/design/Design-Log.org::*Timeline][Timeline]]
+ 
+* Custom Functions
+:PROPERTIES:
+:CATEGORY: config
+:END:
+
+** TODO Update sexp wrapping to wrap contiguous text with parenthesis and add a function for wrapping with double-quotes.
+SCHEDULED: <2022-12-16 Fri>
+:LOGBOOK:
+- State "TODO"       from "CANCELLED"  [2022-12-13 Tue 21:23]
+- State "CANCELLED"  from "TODO"       [2022-12-13 Tue 21:22] \\
+  Testing cancellation
+:END:
+ [2022-11-23 Wed 18:21]
+ [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Function Definitions][Function Definitions]]
+
