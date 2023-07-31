@@ -1,286 +1,321 @@
-* TODO Brush Teeth (AM)
-SCHEDULED: <2022-12-14 Wed .+1d>
+#+FILETAGS: PERSONAL HABIT REVIEW
+
+* Notes
+** Potential Habits
+
+* Habits Overview
+This file contains the recurring actions I"m trying to build into regular habits. Not 100% on the process just yet but I think in general it shall be:
+
+1. Setup new Habit
+2. Check on habit weekly for keeping on track
+3. Check Monthly for 100% completion rate
+4. When a habit has reached 90 days of 100% completion I can pull it from the stack and assume it's solid unless we have 2 days missed the we reload it.
+
+Additionally non-daily habits can be setup here as well i.e. knife maintenance. 
+
+Lastly our cycle reviews can be automated within this file. 
+
+* Habits                                                              :HABIT:
 :PROPERTIES:
-:STYLE:    habit
-:LAST_REPEAT: [2022-12-13 Tue 21:08]
-:TAGS_ALL: Hygiene
+:CATEGORY: Habit
 :END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-13 Tue 21:08]
-- State "DONE"       from "TODO"       [2022-12-12 Mon 09:28]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:51]
-- State "DONE"       from "TODO"       [2022-11-26 Sat 16:01]
-- State "DONE"       from "TODO"       [2022-11-26 Sat 16:01]
-- State "DONE"       from "TODO"       [2022-11-26 Sat 16:01]
-- State "DONE"       from "TODO"       [2022-11-19 Sat 11:16]
-- State "DONE"       from "TODO"       [2022-11-19 Sat 11:16]
-- State "DONE"       from "TODO"       [2022-11-19 Sat 11:16]
-- State "DONE"       from "TODO"       [2022-08-24 Wed 08:32]
-- State "DONE"       from "TODO"       [2022-08-23 Tue 08:25]
-- State "DONE"       from "TODO"       [2022-08-22 Mon 08:31]
-- State "DONE"       from "TODO"       [2022-08-21 Sun 08:35]
-- State "DONE"       from "TODO"       [2022-08-19 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-18 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-17 Wed 08:35]
-- State "DONE"       from "TODO"       [2022-08-16 Tue 08:35]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 09:32]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-08-13 Sat 08:11]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 08:23]
-- State "DONE"       from "TODO"       [2022-08-11 Thu 08:17]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:17]
-- State "DONE"       from "TODO"       [2022-08-09 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-08 Mon 08:35]
-- State "DONE"       from "TODO"       [2022-08-07 Sun 08:35]
-- State "DONE"       from "TODO"       [2022-08-06 Sat 08:35]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:01]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:17]
-- State "DONE"       from "TODO"       [2022-07-31 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 11:34]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 08:09]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:51]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:17]
-
-:END:
-
-
-* TODO Morning Run 
-SCHEDULED: <2022-12-13 Tue  .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:LAST_REPEAT: [2022-12-12 Mon 18:32]
-:TAGS_ALL: Fitness
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-12 Mon 18:32]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:51]
-- State "DONE"       from "TODO"       [2022-08-24 Wed 08:32]
-- State "DONE"       from "TODO"       [2022-08-23 Tue 08:25]
-- State "DONE"       from "TODO"       [2022-08-22 Mon 08:36]
-- State "DONE"       from "TODO"       [2022-08-19 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-18 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-17 Wed 08:35]
-- State "DONE"       from "TODO"       [2022-08-16 Tue 08:35]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 09:32]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-08-13 Sat 08:11]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 08:23]
-- State "DONE"       from "TODO"       [2022-08-11 Thu 08:33]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:33]
-- State "DONE"       from "TODO"       [2022-08-09 Tue 08:33]
-- State "DONE"       from "TODO"       [2022-08-08 Mon 08:35]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:01]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:17]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 11:34]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 08:09]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:51]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:16]
-:END:
-
-* TODO Stretch
-SCHEDULED: <2022-12-13 Tue .+1d>
+** TODO Morning Walk / Run 
+SCHEDULED: <2023-07-31 Mon  .+1d>
 :PROPERTIES:
 :STYLE:    habit
 :TAGS_ALL: Fitness
-:LAST_REPEAT: [2022-12-12 Mon 18:34]
+:LAST_REPEAT: [2023-07-30 Sun 14:40]
 :END:
 :LOGBOOK:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-12 Mon 18:34]
-:END:
-* TODO Check Yesterday and Today's Roam Dailies
-SCHEDULED: <2022-12-14 Wed .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:LAST_REPEAT: [2022-12-13 Tue 21:08]
-:TAGS_ALL: Productivity
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-13 Tue 21:08]
-- State "DONE"       from "TODO"       [2022-12-12 Mon 09:28]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 09:30]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:41]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:41]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:41]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:41]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:41]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:41]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 12:48]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 09:28]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 08:22]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:55]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 14:40]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 08:53]
 :END:
 
-* TODO Meditate
-SCHEDULED: <2022-12-06 Tue .+1d>
+** TODO Stretch
+SCHEDULED: <2023-07-31 Mon  .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2022-12-05 Mon 08:51]
-:TAGS_ALL: Mindset
+:TAGS_ALL: Fitness
+:LAST_REPEAT: [2023-07-30 Sun 14:40]
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:51]
-- State "DONE"       from "TODO"       [2022-08-24 Wed 08:32]
-- State "DONE"       from "TODO"       [2022-08-23 Tue 08:25]
-- State "DONE"       from "TODO"       [2022-08-22 Mon 08:33]
-- State "DONE"       from "TODO"       [2022-08-19 Fri 08:36]
-- State "DONE"       from "TODO"       [2022-08-18 Thu 08:36]
-- State "DONE"       from "TODO"       [2022-08-17 Wed 08:36]
-- State "DONE"       from "TODO"       [2022-08-16 Tue 08:36]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 09:32]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-08-13 Sat 08:11]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 08:24]
-- State "DONE"       from "TODO"       [2022-08-11 Thu  08:33]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:33]
-- State "DONE"       from "TODO"       [2022-08-09 Tue 08:33]
-- State "DONE"       from "TODO"       [2022-08-08 Mon 08:35]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:02]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:17]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 11:34]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 09:29]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:51]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:16]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 14:40]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 08:53]
 :END:
 
-* TODO Morning Cold Shower
-SCHEDULED: <2022-12-13 Tue .+1d>
+** TODO Morning Cold Shower
+SCHEDULED: <2023-07-31 Mon  .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2022-12-12 Mon 18:46]
 :TAGS_ALL: Discipline
+:LAST_REPEAT: [2023-07-30 Sun 14:40]
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-12 Mon 18:46]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:51]
-- State "DONE"       from "TODO"       [2022-08-24 Wed 08:32]
-- State "DONE"       from "TODO"       [2022-08-23 Tue 08:25]
-- State "DONE"       from "TODO"       [2022-08-22 Mon 08:32]
-- State "DONE"       from "TODO"       [2022-08-19 Fri 08:36]
-- State "DONE"       from "TODO"       [2022-08-18 Thu 08:36]
-- State "DONE"       from "TODO"       [2022-08-17 Wed 08:36]
-- State "DONE"       from "TODO"       [2022-08-16 Tue 08:36]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 09:32]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-08-13 Sat 08:11]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 08:25]
-- State "DONE"       from "TODO"       [2022-08-11 Thu  08:34]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:34]
-- State "DONE"       from "TODO"       [2022-08-09 Tue 08:34]
-- State "DONE"       from "TODO"       [2022-08-08 Mon 08:35]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:02]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:17]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 11:34]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 08:09]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:51]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:16]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 14:40]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 08:55]
 :END:
 
-* TODO Brush Teeth (PM)
-SCHEDULED: <2022-12-14 Wed .+1d>
+** TODO Brush Teeth (AM)
+SCHEDULED: <2023-07-31 Mon  .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2022-12-13 Tue 08:47]
 :TAGS_ALL: Hygiene
+:LAST_REPEAT: [2023-07-30 Sun 14:40]
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-13 Tue 08:47]
-- State "DONE"       from "TODO"       [2022-12-12 Mon 09:28]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:53]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:53]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 08:53]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 21:45]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:16]
-- State "DONE"       from "TODO"       [2022-07-28 Thu  22:00]
-- State "DONE"       from "TODO"       [2022-07-29 Fri  22:00]
-- State "DONE"       from "TODO"       [2022-07-30 Sat 22:00]
-- State "DONE"       from "TODO"       [2022-07-31 Sun 22:00]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 22:00]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 22:00]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 22:00]
-- State "DONE"       from "TODO"       [2022-08-05 Fri  22:00]
-- State "DONE"       from "TODO"       [2022-08-06 Sat  22:00]
-- State "DONE"       from "TODO"       [2022-08-07 Sun 22:00]
-- State "DONE"       from "TODO"       [2022-08-08 Mon 22:00]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 22:00]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 22:00]
-- State "DONE"       from "TODO"       [2022-08-13 Sat  22:00]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 22:00]
-- State "DONE"       from "TODO"       [2022-08-15 Mon  22:00]
-- State "DONE"       from "TODO"       [2022-08-17 Wed  22:00]
-- State "DONE"       from "TODO"       [2022-08-19 Fri  22:00]
-- State "DONE"       from "TODO"       [2022-08-20 Sat  22:00]
-- State "DONE"       from "TODO"       [2022-08-21 Sun  22:00]
-- State "DONE"       from "TODO"       [2022-08-22 Mon-- 22:00]
-:End:
-
-* TODO Balance Ledger
-SCHEDULED: <2022-12-12 Mon .+1d>
-:PROPERTIES:
-:STYLE:    habit
-:LAST_REPEAT: [2022-12-11 Sun 14:23]
-:TAGS_ALL: finances
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-08-09 Tue 09:29]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 09:18]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 09:18]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 09:40]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 12:47]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 08:21]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 14:40]
+- State "DONE"       from "TODO"       [2023-07-28 Fri 17:35]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 08:55]
 :END:
 
-* TODO Journal
-SCHEDULED: <2022-12-14 Wed .+1d>
+** TODO Meditate
+SCHEDULED: <2023-07-31 Mon .+1d>
 :PROPERTIES:
 :STYLE:    habit
-:LAST_REPEAT: [2022-12-13 Tue 21:08]
 :TAGS_ALL: Mindset
+:LAST_REPEAT: [2023-07-30 Sun 14:40]
 :END:
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2022-12-13 Tue 21:08]
-- State "DONE"       from "TODO"       [2022-12-12 Mon 09:28]
-- State "DONE"       from "TODO"       [2022-12-05 Mon 09:30]
-- State "DONE"       from "TODO"       [2022-08-24 Wed 08:32]
-- State "DONE"       from "TODO"       [2022-08-23 Tue 08:25]
-- State "DONE"       from "TODO"       [2022-08-22 Mon 08:32]
-- State "DONE"       from "TODO"       [2022-08-19 Fri 08:36]
-- State "DONE"       from "TODO"       [2022-08-18 Thu 08:36]
-- State "DONE"       from "TODO"       [2022-08-17 Wed 08:36]
-- State "DONE"       from "TODO"       [2022-08-16 Tue 08:36]
-- State "DONE"       from "TODO"       [2022-08-15 Mon 09:32]
-- State "DONE"       from "TODO"       [2022-08-14 Sun 09:32]
-- State "DONE"       from "TODO"       [2022-08-13 Sat 08:11]
-- State "DONE"       from "TODO"       [2022-08-12 Fri 08:26]
-- State "DONE"       from "TODO"       [2022-08-11 Thu08:35]
-- State "DONE"       from "TODO"       [2022-08-10 Wed 08:35]
-- State "DONE"       from "TODO"       [2022-08-09 Tue 08:35]
-- State "DONE"       from "TODO"       [2022-08-08 Mon  08:35]
-- State "DONE"       from "TODO"       [2022-08-05 Fri 08:35]
-- State "DONE"       from "TODO"       [2022-08-04 Thu 08:35]
-- State "DONE"       from "TODO"       [2022-08-03 Wed 08:02]
-- State "DONE"       from "TODO"       [2022-08-02 Tue 08:17]
-- State "DONE"       from "TODO"       [2022-08-01 Mon 08:17]
-- State "DONE"       from "TODO"       [2022-07-29 Fri 11:34]
-- State "DONE"       from "TODO"       [2022-07-28 Thu 08:04]
-- State "DONE"       from "TODO"       [2022-07-27 Wed 09:29]
-- State "DONE"       from "TODO"       [2022-07-26 Tue 07:51]
-- State "DONE"       from "TODO"       [2022-07-25 Mon 08:16]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 14:40]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:24]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 08:55]
 :END:
+
+** TODO Take Multivitamin
+SCHEDULED: <2023-03-28 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:TAGS_ALL: Health
+:LAST_REPEAT: [2023-03-27 Mon 08:37]
+:END:
+:LOGBOOK:
+:END:
+
+** TODO Brush Teeth (PM)
+SCHEDULED: <2023-08-01 Tue  .+1d>
+:PROPERTIES:
+:STYLE:    habit
+:TAGS_ALL: Hygiene
+:LAST_REPEAT: [2023-07-31 Mon 08:58]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-01 Tue 22:58]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 23:59]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 23:36]
+- State "DONE"       from "TODO"       [2023-07-23 Sun 23:59]
+:End:
+** TODO Make Salad
+SCHEDULED: <2023-08-01 Tue .+1d>
+:PROPERTIES:
+:STYLE: habit
+:TAGS_ALL: Health
+:LAST_REPEAT: [2023-07-31 Mon 10:50]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-31 Mon 10:50]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 12:37]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 11:04]
+:END:
+** TODO EAT OMAD
+SCHEDULED: <2023-07-31 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:TAGS_ALL: Health
+:LAST_REPEAT: [2023-07-30 Sun 21:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-30 Sun 21:42]
+:END:
+
+** TODO NOFAP
+SCHEDULED: <2023-07-26 Wed .+1d>
+:PROPERTIES:
+:STYLE: habit
+:TAGS_ALL: Mindset
+:LAST_REPEAT: [2023-07-26 Wed 00:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-25 Tue 23:59]
+- State "DONE"       from "TODO"       [2023-07-24 Mon 22:42]
+:END:
+
+* Maintenance Routines
+:PROPERTIES:
+:CATEGORY: Habit
+:END:
+
+** TODO Hone Kitchen Knives
+SCHEDULED: <2023-08-03 Thu .+3d>
+:PROPERTIES:
+:STYLE:    habit
+:TAGS_ALL: :kitchen:maintenance:
+:LAST_REPEAT: [2023-07-31 Mon 10:50]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-31 Mon 10:50]
+- State "DONE"       from "TODO"       [2023-06-11 Sun 15:26]
+- State "DONE"       from "TODO"       [2023-06-08 Thu 17:29]
+- State "DONE"       from "TODO"       [2023-01-29 Sun 19:57]
+:END:
+
+** TODO Sharpen Kitchen Knives
+SCHEDULED: <2023-06-25 Sun .+90d>
+:PROPERTIES:
+:STYLE:    habit
+:TAGS_ALL: :kitchen:maintenance:
+:LAST_REPEAT: [2023-03-27 Mon 07:55]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-02-12 Sun 07:55]
+:END:
+
+** TODO Start Brocolli Sprouts
+SCHEDULED: <2023-01-29 Sun .+2d/4d>
+:PROPERTIES:
+:STYLE:    habit
+:TAGS_ALL: :health:cooking
+:END:
+
+
+
+
+* Cycle Reviews                                                      :REVIEW:
+:PROPERTIES:
+:CATEGORY: Habit
+:END:
+** TODO Morning Review
+SCHEDULED: <2023-08-01 Tue 08:00 .+1d>
+:PROPERTIES:
+:TAGS_ALL: Mindset
+:LAST_REPEAT: [2023-07-31 Mon 11:54]
+:Effort:   0:30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-31 Mon 09:54]
+- State "DONE"       from "TODO"       [2023-07-30 Sun 13:48]
+- State "DONE"       from "TODO"       [2023-07-29 Sat 12:07]
+- State "DONE"       from "TODO"       [2023-07-26 Wed 12:07]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 09:25]
+CLOCK: [2023-07-25 Tue 09:11]--[2023-07-25 Tue 09:25] =>  0:14
+- State "DONE"       from "TODO"       [2023-07-24 Mon 10:35]
+- State "DONE"       from "TODO"       [2023-07-10 Mon 08:28]
+- State "DONE"       from "TODO"       [2023-06-26 Mon 15:18]
+- State "DONE"       from "TODO"       [2023-06-18 Sun 14:13]
+- State "DONE"       from "TODO"       [2023-06-12 Mon 10:10]
+CLOCK: [2023-06-12 Mon 08:38]--[2023-06-12 Mon 08:50] =>  0:12
+- State "DONE"       from "TODO"       [2023-06-11 Sun 14:53]
+- State "DONE"       from "TODO"       [2023-06-10 Sat 12:15]
+- State "DONE"       from "TODO"       [2023-05-24 Wed 09:15]
+- State "DONE"       from "TODO"       [2023-05-09 Tue 09:16]
+- State "DONE"       from "TODO"       [2023-05-08 Mon 08:21]
+- State "DONE"       from "TODO"       [2023-05-06 Sat 12:37]
+- State "DONE"       from "TODO"       [2023-05-05 Fri 11:25]
+- State "DONE"       from "TODO"       [2023-03-27 Mon 09:15]
+- State "DONE"       from "TODO"       [2023-02-28 Tue 08:29]
+CLOCK: [2023-02-28 Tue 07:58]--[2023-02-28 Tue 08:29] =>  0:31
+- State "DONE"       from "TODO"       [2023-02-23 Thu 09:39]
+- State "CANCELLED"  from "TODO"       [2023-02-01 Wed 08:37] \\
+  didn't end up getting done
+- State "DONE"       from "TODO"       [2023-01-30 Mon 09:20]
+- State "DONE"       from "TODO"       [2023-01-29 Sun 13:02]
+:END:
+
+** TODO Evening Review
+SCHEDULED: <2023-07-30 Sun 22:00 .+1d>
+:PROPERTIES:
+:TAGS_ALL: mindset
+:Effort:   0:30
+:LAST_REPEAT: [2023-07-29 Sat 22:19]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-29 Sat 22:19]
+- State "DONE"       from "TODO"       [2023-07-25 Tue 23:59]
+CLOCK: [2023-07-25 Tue 23:59]--[2023-07-26 Wed 00:21] =>  0:22
+- State "DONE"       from "TODO"       [2023-07-24 Mon 23:39]
+- State "DONE"       from "TODO"       [2023-06-18 Sun 23:21]
+- State "DONE"       from "TODO"       [2023-06-11 Sun 00:34]
+- State "DONE"       from "TODO"       [2023-05-10 Wed 21:05]
+- State "DONE"       from "TODO"       [2023-05-08 Mon 21:27]
+:END:
+
+** TODO Weekly Review
+SCHEDULED: <2023-06-25 Sun 09:00 .+7d>
+:PROPERTIES:
+:TAGS_ALL: mindset
+:Effort:   1:00
+:LAST_REPEAT: [2023-06-18 Sun 16:35]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-18 Sun 16:35]
+CLOCK: [2023-06-18 Sun 14:13]--[2023-06-18 Sun 15:25] =>  1:12
+- State "DONE"       from "TODO"       [2023-06-10 Sat 11:27]
+- State "DONE"       from "TODO"       [2023-01-29 Sun 14:13]
+CLOCK: [2023-01-29 Sun 13:08]--[2023-01-29 Sun 14:13] =>  1:05
+:END:
+
+** TODO Monthly Reviews                                               :2023:
+*** CANCELLED February Review                                   :CANCELLED:
+CLOSED: [2023-05-05 Fri 11:18] SCHEDULED: <2023-03-01 Wed 08:00>
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-05 Fri 11:18] \\
+  This never happend. Lets kill it.
+:END:
+ [2023-02-28 Tue 09:23]
+
+*** CANCELLED March Review                                      :CANCELLED:
+CLOSED: [2023-05-05 Fri 11:26] SCHEDULED: <2023-04-01 Sat 08:00>
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-05 Fri 11:26] \\
+  This has passed we've missed it
+:END:
+ [2023-02-28 Tue 09:25]
+
+
+*** CANCELLED April Review                                      :CANCELLED:
+CLOSED: [2023-05-08 Mon 21:28] SCHEDULED: <2023-05-06 Sat 14:30>
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-05-08 Mon 21:28] \\
+  Didn't really have anything to log or enter
+:END:
+ [2023-02-28 Tue 09:26]
+
+
+*** DONE May Review
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-06-01 Thu 8:00>
+ [2023-02-28 Tue 09:26]
+*** CANCELLED June Review                                       :CANCELLED:
+CLOSED: [2023-07-22 Sat 23:59] SCHEDULED: <2023-07-01 Sat 8:00>
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-07-22 Sat 23:59] \\
+  never did it. gotta skip to july
+:END:
+[2023-02-28 Tue 9:26]
+*** NEXT July Review
+SCHEDULED: <2023-08-01 Tue 08:00>
+[2023-02-28 Tue 9:26]
+*** TODO August Review 
+SCHEDULED: <2023-09-01 Fri>
+[2023-02-28 Tue 9:26]
+*** TODO September Review
+SCHEDULED: <2023-10-01 Sun>
+[2023-02-28 Tue 9:26]
+*** TODO October Review
+SCHEDULED: <2023-11-01 Wed>
+[2023-02-28 Tue 9:26]
+*** TODO November Review
+SCHEDULED: <2023-12-01 Fri>
+[2023-02-28 Tue 9:26]
+*** TODO December Review
+SCHEDULED: <2023-12-31 Sun>
+[2023-02-28 Tue 9:26]
+
+** TODO Annual Reviews
+
+*** NEXT 2023 Annual Review
+SCHEDULED: <2023-12-31 Sun>
+[2023-02-28 Tue 9:26]
+- Include updates to yas snippets for any yearly changes i.e. 2023->2024 Ledger file etc. 

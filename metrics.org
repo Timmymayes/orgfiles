@@ -1,11 +1,23 @@
-* Weight
-
-| This is the heading    |     | What about this? |
-|------------------------+-----+------------------|
-| [2022-04-19 Tue 09:13] | 205 | test             |
-| [2022-11-26 Sat 14:58] |  25 | way to skinny    |
-|                        |     |                  |
-|                        |     |                  |
-| [2022-12-13 Tue 23:31] | 205 | Nothing          |
+* Current Week
+** Metrics
+*** Morning
+#+Name: Health
+| Day | Weight | BP SYS | BP DIA | Sleep Time | AHI | Mood  |
+|-----+--------+--------+--------+------------+-----+-------|
+| Mon |  221.5 |    135 |     92 |        7.5 | 0.4 | Chill |
 
 
+| Avg | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | --- |
+#+TBLFM: @12$2..$6=vmean(@I..@II);%.2f
+
+#+NAME: Overview
+
+*** Evening
+#+Name: Evening
+| Day | Output % | On Schedule % | Mood    |
+| Mon |       20 |            30 | Annoyed |
+
+*** Improvements List
+- This
+- That
+- Another

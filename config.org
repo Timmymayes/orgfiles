@@ -1,29 +1,279 @@
-* Org
+#+FILETAGS: CONFIG
+* Notes
+**  Recording Continous Professional Development                      :NOTE:
+[2023-01-27 Fri]
+
+[[https://emacsconf.org/2021/talks/professional/][Emacs Conf on this]]
+
+[[file:CPD.org][Sample File]]
+
+*** Continuous Professional Development Observations & questions
+- Goal & Activity capture pushes into his CPD.org (activity capture seems to fill from active goals)
+  - CPD.org seems to have a line at the top that might be defining custom todo states for that file?!
+  - Using tables to track status, started, completed stuff.
+  - Seems to ahve latex settings for export
+  - Table is long and doesn't wrap but extends off screen
+  - State fills in dates
+            
+* Tasks
 :PROPERTIES:
-:CATEGORY: config
+:CATEGORY: Task
 :END:
-** TODO Create package to allow all-the-icons to insert from game-icons and maybe even noun-project
-SCHEDULED: <2022-12-15 Thu>
+** TODO Figure out sending mail through gmail with Mu4e
+ [2023-01-14 Sat 13:04]
+
+** TODO [#E] Setup some kind of syncing and figure out how to tie in Orgzly
+SCHEDULED: <2023-08-20 Sun>
+ [2023-01-20 Fri 11:18]
+
+
+** TODO Org                                                
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+*** TODO Create package to allow all-the-icons to insert from game-icons and maybe even noun-project
+:PROPERTIES:
+:CATEGORY: Task
+:END:
 :LOGBOOK:
+- State "TODO"       from "HOLD"       [2022-12-16 Fri 13:21]
 - State "TODO"       from "HOLD"       [2022-12-13 Tue 21:15]
 - State "HOLD"       from "TODO"       [2022-12-13 Tue 09:41] \\
   Set to hold until ready
 :END:
  [2022-11-24 Thu 15:32]
  [[file:~/Game Designs/Zombie Rebuild/design/Design-Log.org::*Timeline][Timeline]]
- 
-* Custom Functions
+*** DONE Move from handbuilt init.el to a proper .org version
+CLOSED: [2023-03-26 Sun 17:25]
+[2022-12-16 Fri 13:14]
+ [[file:~/Orgfiles/BodyTransformation.org::*2022-12-12 Mon][2022-12-12 Mon]]
+
+*** NEXT Create a better home and new repository for my rebuilt emacsconfig.org
 :PROPERTIES:
-:CATEGORY: config
+:CATEGORY: Task
+:END:
+ [2022-12-16 Fri 13:15]
+ [[file:~/Orgfiles/BodyTransformation.org::*2022-12-12 Mon][2022-12-12 Mon]]
+
+*** TODO Figure out elfeed and rss
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2022-12-16 Fri 13:39]
+*** CANCELLED Update config with org-roam tag support           :CANCELLED:
+CLOSED: [2023-05-06 Sat 12:50]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-06 Sat 12:50] \\
+  Not sure what I wanted with this. I need to take better notes under my todos
+:END:
+ [2022-12-22 Thu 09:20]
+ Confirm first if tags already work on linux install
+;; (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:15}" 'face 'org-tag)))
+
+*** DONE [#A] Build Agenda Views 
+CLOSED: [2023-02-28 Tue 07:26] SCHEDULED: <2023-01-22 Sun>
+:PROPERTIES:
+:Effort:   60
+:END:
+:LOGBOOK:
+CLOCK: [2023-01-20 Fri 22:15]--[2023-01-20 Fri 22:20] =>  0:05
+:END:
+ [2023-01-14 Sat 11:22]
+
+*** DONE Figure out tag inheritance ignoring
+CLOSED: [2023-05-06 Sat 12:50]
+ [2023-02-05 Sun 21:02]
+
+Want to ideally ignore Project tag for project sub tabs. Also need to ignore for accomplishments and disappointments in the weekly review. 
+*** TODO Write a function or macro to collect links to org-roam files from a date range then paste them all for my weekly review. 
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-01-18 Wed 09:36]
+
+*** DONE Update org mode map for timestamp adjustments
+CLOSED: [2023-07-07 Fri 08:24]
+ [2023-06-27 Tue 09:42]
+**** Functions to consider mapping
+- org-clock-update-time-maybe (recalculates the org clock time)
+- org-clock-timestamps-down
+- org-clock-timestamps-up
+
+*** TODO Figure out how to make a function to toggle between showing projects that are on hold
+ [2023-06-27 Tue 09:46]
+
+*** DONE Tweak Capture Templates 
+CLOSED: [2023-07-30 Sun 23:49] SCHEDULED: <2023-07-30 Sun>
+:LOGBOOK:
+CLOCK: [2023-07-30 Sun 21:43]--[2023-07-30 Sun 23:49] =>  2:06
+:END:
+ [2023-07-29 Sat 22:18]
+
+*** TODO Create a Toggle button for task / project category in agenda
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-07-31 Mon 11:52]
+
+
+ This will require a function that determines the current category and flip flops it 
+** HOLD Build an install package that installs dependancies   :HOLD:
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-01-29 Sun 16:49] \\
+  Need time to prioritize this
+:END:
+- Install Fira Code
+- Install all-the-icons fonts
+- Install Cantarell
+- Install Git
+- Install NPM
+- Install / create org-agenda-category Icons
+    
+  
+*** HOLD Figure out how I could automate an install of packages on linux :HOLD:
+:LOGBOOK:
+- State "HOLD"       from "NEXT"       [2023-02-05 Sun 21:02] \\
+  This isn't needed particularly soon
+:END:
+ [2023-01-29 Sun 16:49]
+
+** TODO Setup Yas Install
+For fresh installs. Didn't work on windows. 
+** TODO Figure out why js-comint 'require' isn't working
+** DONE Setup use-package for dired-hide-dotfiles
+CLOSED: [2023-06-08 Thu 15:10]
+This is for fresh installs. It's currently not using use package for dired-hide-dot-files-mode
+** DONE Create an if function based on OS for hyper/super command settings. 
+CLOSED: [2023-07-07 Fri 08:25]
+
+** TODO Build Custom Functions                                     
+:PROPERTIES:
 :END:
 
-** TODO Update sexp wrapping to wrap contiguous text with parenthesis and add a function for wrapping with double-quotes.
-SCHEDULED: <2022-12-16 Fri>
-:LOGBOOK:
-- State "TODO"       from "CANCELLED"  [2022-12-13 Tue 21:23]
-- State "CANCELLED"  from "TODO"       [2022-12-13 Tue 21:22] \\
-  Testing cancellation
+
+*** TODO Update js-comint-send-region-and-go to be a macro
+:PROPERTIES:
+:CATEGORY: Task
 :END:
- [2022-11-23 Wed 18:21]
- [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*Function Definitions][Function Definitions]]
+so that default install works out of the box instead of my edits I made. 
+
+** DONE Ensure prettier checkboxes are setup for my main config and work config
+CLOSED: [2023-07-07 Fri 08:25]
+ [2023-05-11 Thu 10:40]
+ [[file:~/.emacs.d/init.el]]
+
+Implemented into work config
+
+ #+BEGIN_SRC emacs-lisp
+(global-prettify-symbols-mode t)
+
+(defun my/org-buffer-setup ()
+  (push '("[ ]" . "☐" ) prettify-symbols-alist)
+  (push '("[X]" . "☑" ) prettify-symbols-alist)
+  (push '("[-]" . "❍" ) prettify-symbols-alist)
+  )
+
+(add-hook 'org-mode-hook #'my/org-buffer-setup)
+;; Override some modes which derive from the above
+(dolist (mode '(org-mode-hook))
+  (add-hook mode (lambda () (display-line-numbers-mode 0))))
+
+ #+END_SRC
+** DONE Add reminder Capture template to Work and Linux configs
+CLOSED: [2023-07-29 Sat 14:04]
+ [2023-05-11 Thu 11:02]
+Work config is setup. 
+
+#+BEGIN_SRC emacs-lisp
+			 ("r" "reminder" entry (file "~/Orgfiles/refile.org")
+			  "* %?\n %U\n %a\n %i" :empty-lines 1)
+
+#+END_SRC
+
+** HOLD Setup default tag filter function for work / linux configs.   :HOLD:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-07-31 Mon 11:20] \\
+  Not sure if I care about this anymore
+:END:
+ [2023-06-08 Thu 15:38]
+Ensure this filters out config, hold and review by default. 
+** TODO Setup Metric Capture to go into review documents 
+ [2023-06-08 Thu 17:03]
+
+** DONE Update my config to include holiday and anniversary icons
+CLOSED: [2023-06-10 Sat 12:50] SCHEDULED: <2023-06-10 Sat 12:45>
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 12:46]--[2023-06-10 Sat 12:50] =>  0:04
+:END:
+ [2023-06-08 Thu 17:12]
+ [[file:~/RoamNotes/20230127095420-custom_agenda.org::*Full Configs][Full Configs]]
+
+** TODO Commands I want to figure out keybinds for
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2023-06-09 Fri 13:47]
+- org-occur (current file)
+- org-occur-in-agenda-files (all agenda files)
+- Narrow/widen (need a whole new schema likely using super or hyper)
+- 
+*** DONE Org Occur (single file)
+CLOSED: [2023-07-29 Sat 14:02]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:48]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+*** DONE Find a binding for org-occur-in-agenda-files
+CLOSED: [2023-06-18 Sun 22:07]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:48]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+*** DONE Design and write binding schema for narrow/widen
+CLOSED: [2023-06-18 Sun 14:58]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:49]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+Utilize Hyper and/or Super for this. 
+** DONE Unify my Linux and Windows configs
+CLOSED: [2023-06-10 Sat 17:15] SCHEDULED: <2023-06-10 Sat 13:30>
+:PROPERTIES:
+:Effort:   4:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 15:16]--[2023-06-10 Sat 17:15] =>  1:59
+CLOCK: [2023-06-10 Sat 13:30]--[2023-06-10 Sat 15:16] =>  1:46
+:END:
+ [2023-06-10 Sat 12:55]
+
+** DONE Create an all-in one kill buffer and close window. 
+CLOSED: [2023-07-29 Sat 14:20]
+ [2023-06-10 Sat 13:18]
+
+** TODO Setup Elfeed 
+ [2023-06-15 Thu 15:15]
+ [[file:~/RoamNotes/20220809084948-emacs_setup.org::*elfeed][elfeed]]
+
+** TODO Figure out why logbook cleanup isn't working
+ [2023-06-18 Sun 17:54]
+ [[file:~/Orgfiles/configbackups/main-config.org::*initial package setup][initial package setup]]
+
+* Reminders                                                        :REMINDER:
+* Someday
+** Package Ideas
+*** Side peak help buffer with hotkeys (Think Treemacs)
+This would be an addon for help likely that enable you to define command groupings that you can call up as side bars for contextual reference. This could be logical groupings like "org uml hotkeys" or "narrow/widen" or it could be "trying to internalize". These are essentially notes and hotkeys for "cheatsheet" type learning tools. 
+** Package improvement updates
+*** Ace Window Scroll
+An addon that lets you bind a command to scroll a specific ace window when multilpe are open. 
 

@@ -1,89 +1,1179 @@
+#+FILETAGS: PERSONAL
 
-* Inbox
-** TODO Drive to Vegas
-SCHEDULED: <2022-12-16 Fri 17:00>
- [2022-12-11 Sun 14:31]
+* Notes & Ideas
+** Game Design & Prototyping                                          
+*** Tools                                                            :NOTE:
+**** AI Art Generation
+- [[https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/mobilebasic][Mid Journey Prompting - Same character in multiple scenes]]
+*** Prototyping                                                      :NOTE:
+- [[https://www.youtube.com/watch?v=fws1hN782yw][Laminated Card Prototyping]]
+*** Influencer List                                                  :NOTE:
+| Name             | Type          | Subcount  | Link    | Contact                | Accepts Sponsors | Notes                     |
+|------------------+---------------+-----------+---------+------------------------+------------------+---------------------------|
+| Comicstorian     | Comic Focused | 2,600,000 | [[https://www.youtube.com/watch?v=A-RjIp7wG60][Youtube]] | Comicstorian@gmail.com | No               | Partner of Dungeons & Ale |
+| Comics Explained | Comic Focused | 2,009,000 | [[https://www.youtube.com/channel/UCKxQmKgrkUv4S7P5w0pLayw][Youtube]]        | business@geekified.com | No               |                           |
+| Comic Drake      | Comic Focused | 388,000   | [[https://www.youtube.com/user/ComicDrake][Youtube]]        |                        | No               |                           |
+| Nerdsync         | Comic Focused |           | [[https://www.youtube.com/channel/UCURz5rKDgt7YibUSageNhEw][Youtube]]        | nerdsync@standard.tv   | yes              |                           |
+| Prozd            | Game Focused  | 3,750,000 | [[https://www.youtube.com/user/ProZD/featured][Youtube]]        | prozdkp@gmail.com      | No               |                           |
+*** Convention List                                                  :NOTE:
+| Bgg Con Dallas       | Yes | November 17, 2021 → November 21, 2021   |                                                                                                       |     | Dallas TX      |        |
+| Pax Unplugged        | Yes | December 10, 2021 → December 12, 2021   | https://unplugged.paxsite.com                                                                         |  75 | Pennsylvania   | 30,000 |
+| Strategicon Spring   | Yes | February 18, 2022 → February 21, 2022   | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
+| Dice Tower West      | Yes | March 2, 2022 → March 6, 2022           | https://www.dicetowerwest.com                                                                         | 130 | Vegas          |        |
+| SaltCon              | Yes | March 3, 2022 → March 6, 2022           | https://saltcon.com                                                                                   |  80 | Salt Lake City |   1142 |
+| Arizona Game Fair    | Yes | March 10, 2022 → March 13, 2022         | https://www.arizonagamefair.com                                                                       |  45 | Phoenix        |    770 |
+| Strategicon Summer   | Yes | May 27, 2022 → May 30, 2022             | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
+| Strategicon Fall     | Yes | September 2, 2022 → September 5, 2022   | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
+| Cincinati Comic Expo | No  | September 16, 2022 → September 18, 2022 | https://cincinnaticomicexpo.com/?fbclid=IwAR1hMVhrpGWAE0mAiL7GtsT7mDsSh0yKjdxW_OYRvPRcKHRPFiX-S-Uxa9E |     |                |        |
+*** Design Ideas
+**** Token Pools as Dice Solution
+One of the elements I really love is a "token bag" as a customizable and changeable "die". A die is really just a randomizer. Traditionally one roles a die and uses a numeric result to create an effect. Arkham's use of numbers and symbols within one bag allowed for a "univeral" symbol to mean different thins in different scenarios. This is hyper useful. 
 
-** TODO Visit Chris in Vegas
-SCHEDULED: <2022-12-16 Fri 21:00 - 2022-12-18 Sun 11:00>
- [2022-12-11 Sun 14:32]
+One game I want to design is a BIG box sprawling RPG. My goal for this RPG is to use various randomizers that can change and be customized without being a nightmare to track. The problem is this could become an exercise in tedium and fiddly-ness that kills the experience. 
 
-** TODO Test todo from work. Will it sync? 
- [2022-12-15 Thu 16:14]
+I think I have a solution.  
 
-*** NEXT  This is the next thing to do
-[2022-12-15 Thu 16:15]
+2 token bags. One is your "scenario bag" that is built for the scenario and modulates as you go through the campaign. The other is empty until used. The token pools that sit "around" the game at a campaign level are stored in the game box in a collection of "tuck boxes" or bins that can easily have tokens added or removed if an event prompts it. It can also be "called" from the box, dumped into the  2nd bag, a token selected, then everything returned to the bins. 
+
+This could also lead to the concept of each player having a token bag that they "build" over time and modulate chance on. This would only be used for certain cards / types of cards in their setup. (should we go with "cards")
+**** Worker Placement Mechanism
+A worker placement where workers have unique abilities and slowly get more powerful over time whether you want them to or not.
+
+You can steal your opponents’ workers by offering them a higher salary.
+
+You can also protect your own workers by offering them a higher salary, but it’s almost never a good idea because you can always counter offer when they get stolen.
+
+This could be really cool for a corporate or startup focused game.
+**** Game Idea - Start Ups
+## Overview
+
+Start ups is a game about starting companies, taking them public then starting new companies. 
+
+The core idea for the game loop is as follows: 
+
+→ Start a company
+
+→ Work to make it profitable
+
+→ Sell it off or close it if you cannot
+
+→ Take it public when you can ( no player stock)
+
+Public companies run themselves via a simple automata
+
+As companies go public and run they will create a tapestry or texture to the game state / market. New companies you start must take this into account. 
+
+I'd love to have a company creation system that isn't just "here is company x it's the same every game" I'd rather player work to build companies from "component" ideas. (dry erase company tiles so you can name them as you like would be cool) Those completed companies then create the tapestry of what is out there. Possible vectors of company creation would relate to their company and  products
+
+Products
+
+- Cost ( cheap, standard, luxury)
+- Quality ( cheap, standard, amazing)
+
+Company
+
+- Brand level ( wholesale brands to cult followed) (marketing plays into this)
+- Sustainability?
+
+Companies would have a rating system that changes as the market interacts. So goods costed as luxury but with a quality of cheap)  would make a lot of initial value and have some initial influence but fall off out of the game more quicly as their intiial high rating would decrease quickly over time
+**** Game Idea - Don't Starve
+****  Don't starve game ideas
+
+Exploration uses a time track so that for example picking grass is one space but digging up the grass needs a shovel and is 2 spaces. 
+
+Matching symbols on a run can dictate certain rare doodads. For example road tiles are non action tokens that basically let you pull another token but get X on a single run and you remove them and have found the pig King. 
+
+Doodad stack order impacts how much time to go and utilize a thing. 
+
+Doodads flip when used and respawn as needed. 
+
+Fires let you use more of  your base at night
+
+You may stay in base during the day to cook, heal or just use things you couldn't at night due to lack of fires
+
+Once you've crafted a thing you can during exploration. 
+
+Paper bosses with add on potential sculpted player characters. 
+
+Sculpted buildings and monsters as add ONS
+
+Temp bases possible when night approaches. No hammer means you lose your stuff. When packing up. 
+
+When return to base you can take the safe way back or a new way which gets you more resources but is more dangerous
+
+You can return early and convert your time to base actions.
+***** Resourcess
+[[https://www.youtube.com/watch?v=hkr2ylxzQ0E][Exporting art from don't starve]]
+**** Game Ideas - Eons (season based game idea)
+Conversing with Nick led to some interesting ideation for EONS. 
+
+Shifting away from a deck to a bag per season for each player. 
+
+Shared common areas and play boards similar to perhaps altiplano. The key theming here is the relationship to the land and potential for “over fishing” or “over farming” an area. 
+
+Action resolution affects what goes into other bags.
+**** World Building RPG
+Large Open World RPG system where playres randomize and decide elements that maek up the world the explore. Crafting system that allows you to build and experience a world.
+
+Large amount of cards in the base set with bonus expansion modules and big storage box etc
+
+Arkham esque campaign setup with creatures, people, traps, events items etc. However the encounter card sets tend to either be wholly constructed via setup seeding systems ( Prologue, backstory, narrator or 4h wall breaker systems)
+
+ 
+
+Bosses of campaigns will tie into world events, locations, items and player actions etc. 
+
+Blank names for "named characters" but add on for named character sticker sheets with random names to choose from for faster character creation
+
+Locations will have enccounter decks as well. Subtyping will have differnt set types that shuffle together. Region, Biome, Locale
+
+In this way you might encounter a spider because you're in a cave biome, but you might also discover a lost artifact from that region becuase it was lost in a cave in that region.  The local cards might mean you find the corpse of a boy from the nearby town. 
+
+A lot of information to manage but if I can pull this off...
+
+ 
+
+Stacking player trays ( track two types of resources. micro & macro) simply swap which is on top to easily switch what "game layer" you're in. Side tray or dial to track what applys to both sides.
+
+Token bags for seeding "World seed bags)" these will hold state but can change as the game progresses. As the world shifts to darkness you addmore of certain monster tokens to the token seed bag or maybe world events are draining the world of the essence of Light (or fire or poison) and the elemental seed bag has its  matching token type reduced. 
+
+<aside>
+💡 Maybe have a lighter resolution mode for combat for peole who find it too fiddly and don't want to do every combat. Maybe even hybridization where you care a lot abut this combat so you don't want to "take the avgs"
+
+</aside>
+**** Fantasy RPG Guild Game
+It could be interesting if each player runs a guild that has characters they control but it's not a win or lose game it's semi-cooperative with the goal of each player to tell the stories of their characters throughout the game fulfilling their destinies. So each player runs a guild of adventurers and they can send some of their adventures onto quests with other players adventures but their motivation is the destiny of their characters this would enable storytelling but also play er ownership
+
+It would also drive exploration trying to find and accomplish things for certain character groups might require exploring the map to find enemies a certain types or villain leaders
+**** The Machine
+## Overview
+
+The machine is a "conveyer" belt style shared programming game experience. The start of the game will be a starting "map" or configuration. This will consist of conveyer belts, splitters,  arms ( i.e. inserters), machines (inputs & outputs), material sources (inputs), and finished product outputs. 
+
+Each round the machine will run. All input goods will go in and cycle through. 
+
+Players will take turns adding to / modifying the machine trying to modulate it for their benefit. 
+
+Add a splitter and a new line of conveyer to move some product to somewhere else. Rotate an arm, change out machines, add new resource inputs, move belts to other inputs.
+**** Netrunning / Hacking Game in the style of twilight struggle
+Essentially have a map with points of interest that is the represnetation of a city as its "network" with points of interest. So you can do things like hacking certain corps or the police station etc. 
+
+The hacking element is very much like twilight struggle where you play events or use them for hacking. So it could be programs that you either use to increase your presense in a location or play the event. Not sure if it would have events you play for the opponent. 
+
+Might make a solid mini-game as part of a larger cyber punk game.
+**** Asymmetric game about starting small businesses
+A game where essential resources are represented by cubes/ meebles etc but that each player is asymmetrically starting a business. Almost like "modules" and expansion content would be new business types. 
+**** Strategy Game Built on the idea of the fermi paradox
+Rogue like game that has quick iterations where you try to advance civilization through the epocs of time until you reach the ability to scale from type 1, 2 and 3 civilizations. 
+
+I'ts a god/game or Civilization game where you are nuturing a planet through MANY civilizaiotns. on a technology path. As new technologies are developed by different civilizations they will naturally wage war on each other. You're playing as an advanced civilization that wants to cultivate this new civ. 
+
+The civilization is AI.
+**** Oath Style "Evolution" focused game
+Oath change over time meta feature but with "evolution and mutation" at the forefront. 
+**** Space RPG Game
+***** Overview
+
+Take the rough idea of FTL but expand it. Solo or co-op game.  
+
+### Game has 3 altitudes.
+
+1. Planet level: Exploration, resource gathering, questing, (all done as crew). There will be TOO many planets to scour by hand in the mid to late game which will beef up the ship based scanning & exploring
+2. Solar System level:  Ship exploration, (finding planets), scanning planets ( to save time), ship to ship interactions ( combat, conversations etc)
+3. Galaxy Level: This is really the "base" level as you'll be on your mega-ship using a starmap to travel between galaxies. This level will be where long term research, pruduction, storage and ship building happen.
+
+Each new game is a new galaxy with a random seed.  Players will build and upgrade ships .
+
+The game loop will be to restart in new seeds each time a little stronger starting out. 
+
+Each successive loop takes you deeper into space where harder planet types and alien races will be encountered.
+
+Each time you do a stasis-jump to reset the game you choose what you can take.  Eventually even upgrading how big your jump ship is which allows going in with mroe starting stuff. Research always carrys through
+
+ 
+
+Dungeons could be reality rifts that players enter and they could be almost anythhinng
+***** Maneuver Deck
+Each ship has a base maneuver hand/deck which operates mechanically as "hand management". Level up your crew for new manevers based on crews and class of ship. 
+
+Maneuvers will be thematic and spend resources / generate or restore others.
+***** Delving Focus
+Dungeon crawling space themed rpg campaign game. Target game player size is solo with variant for 2 player co-op. 
+
+Goal of the game is to have the scenarios work off of an encounter deck but with everything in a singl ebox. 
+
+Ships are cardboard player boards which are your characer, as your "crew" will change throughout the game. You are the captain. 
+
+The ship will have different pre-built layouts with rooms, which will have inset spaces for upgrades. (polymino?)
+
+Cubes in trays to track resources. 
+
+Crew represented by meeples placed on spaces of the ship..
+
+crew can go on planetary missions
+
+Encounter types will vary i.e. planetside, local space, cruiser level ship for jumping systems
+
+setup home base and setup things like trade routes that provide recurring benefits & resources.
+
+build a planet typing ( as well as"regions" like central worlds vs rim worlds)
+
+Faction system to track where you are with certain races / groups
+**** Web Design Board Game
+***** Overview
+## Initial thoughts:
+
+- The player board presents itself ( right there in the picture)
+- Systems & mechanisms:
+    - Adding certain functions or aesthetics will cost Time & money.
+    - Stock images as a binder that people will bid or buy from ( like that marketing game aldrin showed us)
+
+## Alternative idea: StartUp⬆️
+
+a team based party game ( ala captain sonar)  where are creating startup companies. Each player takes on a different role with a different scope of "mini-game"
+
+- CEO - leadership & decision making
+- CTO - Technical design ( like the above app & website design style)
+- CMO - Marketing mini game
+- CFO - Monitors the money and tries to avert crisis ( everyone else spends)
+- COO - helps design the processess the company goes through ( maybe it's a flow chart style )
+- Each player could hire people to flesh out thier company.
+    - Could be a draft row with drop off that gets cheaper the further down the row they are.
+    - Could be a phase where new candidates come out and you secretly bid.
+    - Org chart like fcm maybe...
+
+Need a product development system.
+
+[[file:images/WebDesign-game.png][web design style]]
+**** Auto-battler Campaign Game (video game)
+## Overview
+
+Each player is a planet wide AI that rose from a non_space capable civilization> as the planet started to lose resources you recognized the need to achieve space travel to reap the bounty of the stars. After your initial encounters with low intelligence planet bound species you finally bump into another of your kind. Another AI  with the same needs that took the same path as you. A fight over resources has begun. 
+
+This is an autobattler campaign based RTS like game. 
+
+The game is turn based ( with an over arching timer) which players use resources to develop technology, design and upgrade units (including thier battle ai)  and deploy them to take over planets with a goal of gaining resources. 
+
+Battles on planets are considered on-going and the ai will work to build, dattack and defend based on their programming and your overall edicts regarding the planet. 
+
+The number of planets in the universe are finite and the early game is about establishing your core then expanding. 
+
+Battles happen continuiously meaning that you spend your time on a planning UI which uses "turns" each turn that passes will advance technologies etc. you can jump to allt he planets you have forces or scouting on and send out more units to those locations. This ebb and flow seeks to emulate more of a war than a battle.
+**** Supply Chains
+***** Overview
+# Overview
+
+Economic game of shared incentive with a “board” that is built out like a supply chain or tech tree. Flow or output is established during a turn and remains as set until obsolescence (like rusting a train but rusting a technology or end good type)
+
+## Types of producers
+
+- Raw resources
+- Intermediate producers
+- End goods
+
+### Raw Resources
+
+These producers are hyper important and start the supply chain.  These are important to build and generate very consistent resources at a lower value output.  e.g. Coal, Water, Iron, etc. The first “age” or “era” has fewer lower grade options and more unlock as the game stages out. Probaly 3.
+
+### Intermediate producers
+
+These are the producers that take in either raw resources or other intermediate producers their output is either intermediary or end good. These sell for middle of the road money. Unused goods might stockpile? Possible warehousing tech is needed ( if we go with tech)
+
+End Goods
+
+These goods sell for lots of money.  But require various intermediate producers to actually sell. 
+
+ 
+
+## Inspirations:
+
+- Indonesia - keep the interesting bits of mergers, purchasing power, operations (production + logistics) but simplify the operational tracking while keeping the interesting decisions
+- Container - Price changing
+- FCM - Marketing i.e. demand control
+
+## Potential “phases” (initial thoughts)
+
+- Determine Turn order (bid or other)
+- Innovate
+- purchase / merger
+- Operate
+- Marketing
+
+## Core aspects of operations:
+
+1. Production (generation & conversion of goods)
+2. Logistics (goods movement)
+3. Marketing  (demand or growth)
+
+## Shared Incentive
+
+Ultimately this is a stock style game and payouts are done on a share bases much like 18xx or indonesia
+
+Look at either a merger mechanism or a stock split mechanism. 
+
+Look into forced purchases & player money
+
+Ultimately players should be competing but also to a degree working together. 
+
+Bankrupcty?
+
+## Decision Space & Interactivity
+
+Player order, funds, capability and cause effect decision space on the board should help drive decisions and interactivity. There should be latitude across the types of goods and the overall “supply chain” options for players to maneuver but it must be tight enough for really hard decisions and the ability to get in each others way.
+
+## Spatial element
+
+Ultimately the players work to unlock a known tech tree in each era. The board or bits that players will lay down and produce with will be in parity with a printed player aid tech tree for each era. The changeable bits are what players choose to (or not to) unlock in both the aspects of putting a new “node” of the tree into play and/or increasing production or transport ability along the nodes. Players will “invest” in pieces of the supply chain. 
+
+For example at the base level coal, water, copper iron will be available these will start with a set amount of “output” based on the initial bids of players ownership / setup.  Each type of tile will have a “production” value on it that players can pay to move up while also adding a colored cube from their supply to mark. (this marks share value). 
+
+ Raw goods can have their output increased or new sources funded. 
+
+Logistics throughput can be increased by both type (truck, boat, train, plane [special) as a base and volume as a multiplier. Logistics can also be “split” at times to go to multiple places. 
+
+End goods can increase production efficiency. 
+
+## Marketing & Demand tracking.
+
+A board will be needed to track the demand of end goods.  Marketing can increase the demand and as goods are sold ( in turn order) their prices come down ( like in clans of caldonia)
+
+## Random Bits
+
+- Possible there is a set amount of output from raw producers. Turn order is determined by a bid but that bid is then used to pay for boosting raw producers in some interesting way, maybe reverse turn order spend the bids for bonus production.
+    - Example:
+        - Bids for turn order are $0, $5, $10, $12
+            - the $0 bid goes 4th but spends the $12
+            - The $5 bid goes 3rd and spends the $10 bid
+            - The $10 bid goes 2nd and spends the $5 bid
+            - The $12 bid goes 1st and sends player 1s bid.
+        - If there are 5 players the player who wins 1st gets to spend $0
+- Players have a tech tree like food chains tree ish. Like a flow chart.
+    - 2 fold. “Front Era 1,
+- As “eras” end the board is assessed and the state of the intermediary producers is “checked and set” as the new baseline.
+**** Propoganda Party Game (based on propaganda posters)
+
+
+***** Overview
+## Inspiration
+
+This art style feels like it could lend itself well to a card game. In particular the Demands Sacrifice one.
+
+
+
+[[https://twitter.com/rob_sheridan][Artist I originally saw doing propoganda style posters]]
+[[https://en.wikipedia.org/wiki/J._C._Leyendecker][JC Leyendecker - Popular propaganda artist]]
+
+
+**** Strategic RPG Dungeon Crawler
+Shared board with populated dungeons players will "race" to defeat for reward to try and grow stronger. Push your luck element to take on bigger "camps" to grow stronger but real element of risk/reward etc.  Threats grow over time potentially and you need to "gear up" to take on bigger camps. 
+**** Space Civilization Dice Game
+***** Overview
+## Overview
+
+A dice game about building civilizations. The game is a thinky filler (most likely) with dice drafting and yahtzee style dice combo mechanisms. To start the game each player draws X dice from the dice bag. They then each take turns rolling them towards each other, each player rolling one die, until all dice are rolled. This forms the game board. Players now place 2 civilization disks. (snaking by turn order, last places 2). 
+
+Players start with the same starting hand of cards. (hand management). New cards can be "researched" as a type of action. 
+
+Upgrading a civilizaiton enables you to use more resources around it and creates a larger zone of control. 
+
+Possibly one must trace a line using their "cable" to reach dice for chaining.
+
+Dice tick down meaning a 5 → 4 → 3 style count down so if you use a 5 on a red die that die ticks down to 4 after you have resolved the action it's part of.  Dice can be combo'd and chained for more advanced cards creating "straights" and flushes. 
+
+### Components:
+
+Colored D6's, A dice bag, Bits of "cord" that serve as rulers ( various length and in player color), cards.
+***** Ideas from the internet (/u/almostcyclops)
+I like the sound of your game. It's actually very similar to the planet generation I was using in my own design until I decided to go all cards. If I'm being honest I think you're in the same default mindset of "bigger number equals more/better", since you say the number on the die is the quantity of resource. This is a fine approach, but I dont think it aligns with your interest in using runs of numbers to trigger abilities. A run of 4 sixes may indeed be more powerful than a run of 4 ones, but how do you thematically justify a straight? One possible fix would be to have each color correspond to a type of planet and each face be a resource type. Then you could have one ability that requires 5 titanium (a specific yachtzee) and a different ability require one each of titanium, eden incense, space potatoes, and warp juice (a small straight). You could go further by having different planet types have different probabilities of different resources (like an earth like planet die having 3 space potato faces). Some resources would be more rare than others across the board and abilities that use them could be more powerful. Naturally, players fight over these rarer resources, but some powerful abilities could just require a ton of common resources. This let's a player be sneaky and gobble up planets others think are less desirable. Of course you also dont need to waste the colors on just resource distribution, as some abilities may not care at all about resource only planet type. Thus there is natural synergy between an abity that cares about planet type, and another that cares about resources common to that type (but with a little press your luck, since despite the odds you can never guarantee a certain resource will spawn). All of this has the downside/upside of using custom dice (though could be completely play tested using regular dice and a lookup chart).
+**** Factories
+***** Overview
+Possible name supply chain
+
+Square grid 2 factory sizes  4 or 8 sections is. 1x1 or 2x2. This dictates max input output
+
+A factory can have :
+
+- 1 in 3 out
+- 2 in 2 out
+- 3 in 1 out
+- 4 in
+- Or 4 out (a resource node)
+
+Cards in hand used to design factory
+
+Excess goods are sold or moved down the supply chain. (if you have enough out puts)
+
+Warehouses act as nodes in your supply chain to help you get low output goods farther down your chain. 
+
+Need to look at how rebuilding your supply chain works
+***** Solo Consideration
+# Campaign Style with Memory
+
+Sprawling world map with factory prototyping. Modify my "factory" tray design to instead of being something you set tokens onto that you slide them into and "cap off". Basic and advanced factory designs. Multi floor designs. Beautiful 3d Factory pieces that inset into each "floor" tray (game ships with tokens in a tuckbox ala a legacy game. Includes a qr code for stl files to 3d print for your next game session.  Turn based "Dial" system. that utilizes Days  weeks and months with matching production cycles.  
+
+## Game Subsystems
+
+- Research system
+- Logistics  & transportation system
+- Multiple ore systems
+- Factory and reFactoring.
+- sticker system for factory and logistics placement.
+**** Co-op CCG RPG
+# Why the CCG Model? More than a cash grab?
+
+CCG Model because I don't want people to have to spend money on a MASSIVE set in order to get all the possible variety. Only spend extra time in modules you love. It also has to do with exploration and variety.  
+
+Different module types: 
+
+1. Standalone  - These are small one off add ins that work with any set and likely will have some set pairing recommendations
+2. Side? Quest Packs - These tie into a module ( or modules) and will add extra story and missions to what you already loved. They are high level and recommended to be used alongside or after the core module content.  Tons of different quest packs and each pack will have a level range. 
+3. Standard - This is a core module that has everything you need for the main story lines. What happens here will lead you to the booster packs. The booster packs will leverage the base sets here. There will usually be a theme around these. 
+4. Large - These will have more than one pre-built module tied to it, think of this more like a dedicated campaign
+
+# Mechanisms
+
+## Expanding on the encounter card system
+
+I like arkhams system but I feel like there is a way to create a fall through or randomization system to add variety. 
+
+As an example a perticular quest might have you choose 1 particular encounter set for its specific mechanisms but then it will tell you to choose a random Low Level Chaotic Evil Humanoid Minion and that could be a few different types of things. There will also be hidden and obscured placeholder encounter cards that reveal what they are as you uncover things on your mission.
+
+The goal here is to create a system that has a sense of uniqueness, emergence and cohesion all at the same time. In the above example the Level indicator tells you that the level will be in a certain range near you, the chaotic evil type hints at its motivation and what it wants, it's why. The humanoid typing shares characteristics in terms of weaknesses, strengths, stats etc and the minion typing suggests the depth of variety and interestingness given to this group. A minion group would be equivalent to the default cultists where as enemies would be more like the cultists found in Carcossa and the Leader or Boss typing would be like the cultists found in the Circle undone.
+
+## Experiential Granularity
+
+I want people to be able to experience a half or full campaign like playing a full campaign in arkham but I want those campaigns to be connected over a larger experience like Gloomhaven.  However I want the world to be even bigger. I want a large trackable map where time impacts things. I want NPCs to die of old age. I want things to matter. I want discovery and exploration. I want PCs to die. I want new PCs to be interesting and not tack-ons. I want them to join into the world  in a meaningful way. 
+
+## Character Death and Replacement
+
+When a character dies I want it to have impact on the world. I also want the new character to not just be ok time to make a new character. 
+
+To that end I want to build some effects from death. I'll need to ruminate on that more though. 
+
+For replacement the player replacing the character will create a new character that has a level equal to the lowest in the group currently. This process will be, a process. As you play your game and develop your world you will build and modify over time a set of decks that is used to "simulate" the life of your character. This will have more uses too. This will be used to generate important NPCs as well. 
+
+### Sample features
+
+- As new regions, cities etc are discovered cards will be added to the simulation decks. This means that that new city of gastroport might be the birthplace of your new character where he joined the Green Street Thugs  ( a faction). This gives him starting reputation with that faction and some of his skills that lean roguish.
+- A player will make decisions that lead down paths. (This shouldn't be fully random but more of a mini game with a flow chart style to it) so maybe he goes full rogue and starts a life of crime or perhaps he veers over towards magic due to having stolen an artifact and learning magic.
+- this process should be fun and engaging and cool to watch.  it shouldn't be too long. But it should make character creation fun and help you create a character you can't wait to play.
+- After creating the character the system will help you craft a mission that represents how the current party meets the new character and then comes to fall in with them.
+
+*** Thought Topics                                                   :IDEA:
+**** Zendo makes you a better designer
+**** Bags Vs Dice Vs Cards
+**** Time as a resource in design and development
+**** Agents in a game are part of a goal seeking feedback loop.
+If my goal is to slow or speed the game to seek a win.
+
+*** Board Game Content                                               :IDEA:
+**** Physical Cardboard Animation
+[[file:images/WebDesign-game.png][Webdesign out of cardboard]]
+
+**** Shoot board game content like Daniel Schiffer
+[[https://www.youtube.com/watch?time_continue=3&v=j9E3MlnHjOQ&embeds_euri=https%3A%2F%2Fwww.notion.so%2F&feature=emb_logo][Youtube]]
+
+**** Create animated infographics for board games
+These should hit a few different categories: 
+
+- How to play ( each phase is an infographic) [These will become instagram galleries & short youtube videos]
+- Create one to showcase how a mechanism works
+- Help showcase & break apart game systems.
+** 3D Printing
+*** Dactyl Manuform
+**** My Notes
+I'm using standard Prusa Slicer supports, spacing at 3mm. Set your vertical offset to 0.3mm and turn support extrusion down to like 80% of normal and they will release much more easily.
+**** Resources
+- [[https://www.youtube.com/watch?v=VlHgEqLVYqA][I built a ridiculous keyboard by hand]]
+- [[https://github.com/aleung/dactyl-manuform-keyboard/blob/master/guide/index.md][Github Build Guide]]
+- [[https://docs.qmk.fm/#/hand_wire][QMK Firmware Resource]]
+- [[https://www.youtube.com/watch?v=oOgJzWx15ZI&lc=UgxD-8_A16onLk0LiRB4AaABAg.9M2WWUIEmla9M2ZCE0RSe2][Case Prep]]
+*** Time Lapse Filming
+- [[https://www.youtube.com/watch?v=0z2lAEISjqU][How-to Film a Timelapse of a 3d print.]]
+*** 3D Modeling
+- [[https://www.youtube.com/c/ChippWalters/videos][Chipp Walters - SciFi Style]]
+* Tasks
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+
+
+** TODO Perform Annual Planning [9/13]
+SCHEDULED: <2023-07-30 Sun>
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2023-01-14 Sat 11:19]
+
+*** DONE Clean up Habits file
+CLOSED: [2023-01-29 Sun 13:01] SCHEDULED: <2023-01-29 Sun 12:30>
+:PROPERTIES:
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-01-29 Sun 12:36]--[2023-01-29 Sun 13:01] =>  0:25
+:END:
+ [2023-01-14 Sat 11:28]
+
+*** NEXT Clean up good notes
+SCHEDULED: <2023-07-30 Sun 22:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-01-14 Sat 11:25]
+
+*** DONE [#E] Setup 2023 Ledger fresh 
+CLOSED: [2023-07-30 Sun 21:40] SCHEDULED: <2023-07-30 Sun 21:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-07-30 Sun 21:06]--[2023-07-30 Sun 21:40] =>  0:34
+:END:
+ [2023-01-14 Sat 11:25]
+
+*** DONE Clean out Google Drive
+CLOSED: [2023-02-05 Sun 20:17] SCHEDULED: <2023-01-22 Sun>
+ [2023-01-14 Sat 11:24]
+
+*** DONE List & Review Accomplishments & Dissapointments
+CLOSED: [2023-01-15 Sun 11:36] SCHEDULED: <2023-01-15 Sun 11:00>
+:PROPERTIES:
+:Effort:   45
+:END:
+:LOGBOOK:
+CLOCK: [2023-01-15 Sun 11:05]--[2023-01-15 Sun 11:36] =>  0:31
+:END:
+ [2023-01-14 Sat 12:40]
+
+*** DONE Conduct Deep Reflection
+CLOSED: [2023-01-15 Sun 18:44] SCHEDULED: <2023-01-15 Sun 11:30>
+:PROPERTIES:
+:Effort:   5:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-01-15 Sun 11:36]--[2023-01-15 Sun 18:44] =>  7:08
+:END:
+ [2023-01-14 Sat 12:43]
+
+- Reflect
+- Interperet
+- Visualize
+  
+*** DONE Systems Review & Setup
+CLOSED: [2023-05-08 Mon 21:28] SCHEDULED: <2023-05-06 Sat 13:00>
+:PROPERTIES:
+:Effort:   3:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-05-06 Sat 12:56]--[2023-05-07 Sun 22:04] => 33:08
+:END:
+ [2023-01-14 Sat 12:44]
+
+  - Guiding Principle
+  - Pillars
+  - Value Goals
+  - Habits
+  - Goal Outcomes
+  - Projects
+*** DONE Review Annual Plan and determine Guiding Principles
+CLOSED: [2023-01-27 Fri 16:37] SCHEDULED: <2023-01-27 Fri 16:15>
+:LOGBOOK:
+CLOCK: [2023-01-27 Fri 16:13]--[2023-01-27 Fri 16:37] =>  0:24
+:END:
+ [2023-01-27 Fri 16:12]
+ [[file:~/Orgfiles/tasks.org::*Perform Annual Planning][Perform Annual Planning]]
+
+*** DONE Work out weekly Review
+CLOSED: [2023-02-05 Sun 21:05]
+ [2023-01-29 Sun 16:46]
+
+
+*** TODO Design & Implement Weekly Review Process
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-01-29 Sun 16:47]
+
+**** NEXT Rebuild my metric staging table
+ [2023-06-18 Sun 22:31]
+ [[file:~/Orgfiles/BodyTransformation.org::*Metrics][Metrics]]
+
+*** CANCELLED annual planning counter teest                     :CANCELLED:
+CLOSED: [2023-06-18 Sun 22:07]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-06-18 Sun 22:07] \\
+  test event
+:END:
+ [2023-06-17 Sat 18:10]
+
+*** TODO Clean up Evernote
+ [2023-07-19 Wed 11:52]
+
+*** TODO Reconfigure weekly/monthly process
+SCHEDULED: <2023-07-30 Sun>
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2023-07-30 Sun 14:46]
+
+** CANCELLED Fat % Weigh In                                      :CANCELLED:
+CLOSED: [2023-06-18 Sun 14:13] DEADLINE: <2023-06-30 Fri> SCHEDULED: <2023-06-30 Fri>
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-06-18 Sun 14:13] \\
+  We'll eventually do this but we need to put in some real work.
+:END:
+ [2023-01-29 Sun 12:04]
+Email Jolen text: 760.505.2341
+
+** DONE Plan the day 
+CLOSED: [2023-06-10 Sat 13:22] SCHEDULED: <2023-06-10 Sat 12:50>
+:PROPERTIES:
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 12:54]--[2023-06-10 Sat 13:22] =>  0:28
+:END:
+ [2023-06-10 Sat 12:51]
+
+** DONE Organize and Clean 2nd Bedroom 
+CLOSED: [2023-06-11 Sun 00:31] SCHEDULED: <2023-06-10 Sat 19:00>
+:PROPERTIES:
+:Effort:   3:00
+:END:
+ [2023-06-10 Sat 13:13]
+
+** DONE Do DIshes
+CLOSED: [2023-06-11 Sun 14:53] SCHEDULED: <2023-06-11 Sun 10:00>
+:PROPERTIES:
+:Effort:   0:10
+:END:
+ [2023-06-10 Sat 13:15]
+
+** DONE Goto Grocery
+CLOSED: [2023-06-10 Sat 18:23] SCHEDULED: <2023-06-10 Sat 17:30>
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 17:31]--[2023-06-10 Sat 18:23] =>  0:52
+:END:
+ [2023-06-10 Sat 17:18]
+
+** DONE Watch WSOP VLog While Planning my day
+CLOSED: [2023-06-11 Sun 15:26] SCHEDULED: <2023-06-11 Sun 15:00>
+:PROPERTIES:
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 14:55]--[2023-06-11 Sun 15:26] =>  0:31
+:END:
+ [2023-06-11 Sun 14:53]
+
+
+** DONE Start Pasta Sauce
+CLOSED: [2023-06-11 Sun 15:41] SCHEDULED: <2023-06-11 Sun 15:30>
+:PROPERTIES:
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 15:26]--[2023-06-11 Sun 15:41] =>  0:15
+:END:
+ [2023-06-11 Sun 14:57]
+
+** DONE Finish 2nd Bedroom Packing/Organizing
+CLOSED: [2023-06-11 Sun 18:43] SCHEDULED: <2023-06-11 Sun 16:00>
+:PROPERTIES:
+:Effort:   3:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 16:04]--[2023-06-11 Sun 18:43] =>  2:39
+:END:
+ [2023-06-11 Sun 14:57]
+
+
+
+** DONE List games on Escon Geek list
+CLOSED: [2023-06-11 Sun 20:39] SCHEDULED: <2023-06-11 Sun 19:00>
+:PROPERTIES:
+:Effort:   1:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 19:10]--[2023-06-11 Sun 20:39] =>  1:29
+:END:
+ [2023-06-11 Sun 14:59]
+
+** DONE Start Pasta
+CLOSED: [2023-06-11 Sun 17:27] SCHEDULED: <2023-06-11 Sun 16:30>
+:PROPERTIES:
+:Effort:   0:10
+:END:
+ [2023-06-11 Sun 15:00]
+
+** DONE List Trading Cards on Ebay
+CLOSED: [2023-06-11 Sun 21:46] SCHEDULED: <2023-06-11 Sun 21:30>
+ [2023-06-11 Sun 15:01]
+
+** DONE Play ARAM                                                    :Break:
+CLOSED: [2023-06-11 Sun 19:09] SCHEDULED: <2023-06-11 Sun 18:45>
+:PROPERTIES:
+:Effort:   0:15
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 18:44]--[2023-06-11 Sun 19:09] =>  0:25
+:END:
+ [2023-06-11 Sun 18:43]
+
+** DONE Take a shower
+CLOSED: [2023-06-11 Sun 21:27] SCHEDULED: <2023-06-11 Sun 21:10>
+:PROPERTIES:
+:Effort:   0:15
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-11 Sun 21:11]--[2023-06-11 Sun 21:27] =>  0:16
+:END:
+ [2023-06-11 Sun 21:11]
+
+
+** CANCELLED Brainstorm ideas for a pricing tool for SEAS        :CANCELLED:
+CLOSED: [2023-07-03 Mon 14:28]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-07-03 Mon 14:28] \\
+  Not gonna do this anymore.
+:END:
+ [2023-06-16 Fri 10:49]
+- Package Builder
+- AV video references
+- Interactive Look Book - select a look and see what packages went into making it. 
+
+** DONE Preparations for Apt Move 
+CLOSED: [2023-07-19 Wed 11:29]
+ [2023-06-17 Sat 17:59]
+
+*** DONE Call Cox and Move Service
+CLOSED: [2023-06-21 Wed 07:45] SCHEDULED: <2023-06-19 Mon 09:00>
+ [2023-06-17 Sat 18:00]
+
+*** DONE Call SDGE and move services
+CLOSED: [2023-06-21 Wed 07:45] SCHEDULED: <2023-06-19 Mon 09:30>
+ [2023-06-17 Sat 18:02]
+
+*** DONE Pack up Second Bedroom
+CLOSED: [2023-06-18 Sun 21:14] SCHEDULED: <2023-06-18 Sun 19:00>
+:LOGBOOK:
+CLOCK: [2023-06-18 Sun 19:04]--[2023-06-18 Sun 21:14] =>  2:10
+:END:
+ [2023-06-17 Sat 18:03]
+
+*** DONE Pack up TV Stand
+CLOSED: [2023-06-18 Sun 19:04] SCHEDULED: <2023-06-18 Sun 18:30>
+:LOGBOOK:
+CLOCK: [2023-06-18 Sun 18:45]--[2023-06-18 Sun 19:04] =>  0:19
+CLOCK: [2023-06-18 Sun 17:54]--[2023-06-18 Sun 17:56] =>  0:02
+CLOCK: [2023-06-18 Sun 17:53]--[2023-06-18 Sun 17:53] =>  0:00
+CLOCK: [2023-06-18 Sun 17:48]--[2023-06-18 Sun 17:48] =>  0:00
+CLOCK: [2023-06-18 Sun 17:47]--[2023-06-18 Sun 17:47] =>  0:00
+CLOCK: [2023-06-18 Sun 17:46]--[2023-06-18 Sun 17:46] =>  0:00
+CLOCK: [2023-06-18 Sun 17:45]--[2023-06-18 Sun 17:46] =>  0:01
+:END:
+ [2023-06-17 Sat 18:03]
+
+*** DONE Give TV & TV Stand to Julie
+CLOSED: [2023-07-03 Mon 14:26]
+ [2023-06-17 Sat 18:03]
+
+*** DONE Pack up side table contents
+CLOSED: [2023-06-18 Sun 18:45] SCHEDULED: <2023-06-18 Sun 18:00>
+:LOGBOOK:
+CLOCK: [2023-06-18 Sun 17:56]--[2023-06-18 Sun 18:45] =>  0:49
+:END:
+ [2023-06-17 Sat 18:03]
+
+*** DONE Pack up Kitchen w/ Jess
+CLOSED: [2023-07-04 Tue 19:36] SCHEDULED: <2023-07-03 Mon 16:30>
+ [2023-06-17 Sat 18:03]
+
+*** DONE Remove all wall hangings and patch holes
+CLOSED: [2023-07-03 Mon 14:28]
+ [2023-06-17 Sat 18:04]
+
+*** DONE Pack up clothes from drawer
+CLOSED: [2023-07-04 Tue 19:43]
+ [2023-06-17 Sat 18:04]
+
+*** DONE Pack up Computer Desk
+CLOSED: [2023-07-19 Wed 11:29]
+ [2023-06-17 Sat 18:04]
+
+*** DONE Pack up bathroom
+CLOSED: [2023-07-04 Tue 19:36] SCHEDULED: <2023-07-03 Mon 17:30>
+ [2023-06-17 Sat 18:04]
+
+*** DONE List Items for sale 
+CLOSED: [2023-07-19 Wed 11:29]
+ [2023-06-17 Sat 18:05]
+**** DONE List for sale Kitchen Table
+CLOSED: [2023-07-03 Mon 14:31]
+[2023-06-17 Sat]
+**** CANCELLED List for sale Dyson Fan                         :CANCELLED:
+CLOSED: [2023-07-19 Wed 11:29]
+:LOGBOOK:
+- State "CANCELLED"  from "HOLD"       [2023-07-19 Wed 11:29] \\
+  No longer celling
+- State "HOLD"       from "TODO"       [2023-07-03 Mon 09:29] \\
+  waiting till the move to post this up
+:END:
+**** [2023-06-17 Sat]
+*** DONE Call Cox and sort out my new account for new apt not showing up 
+CLOSED: [2023-07-19 Wed 11:29]
+ [2023-07-04 Tue 19:42]
+
+** DONE Drop off Marvel Flair shipment
+CLOSED: [2023-07-03 Mon 14:28]
+ [2023-06-17 Sat 18:08]
+
+** DONE Lunch/Dinner 
+CLOSED: [2023-06-18 Sun 17:45] SCHEDULED: <2023-06-18 Sun 17:00>
+:LOGBOOK:
+CLOCK: [2023-06-18 Sun 16:56]--[2023-06-18 Sun 17:45] =>  0:49
+:END:
+ [2023-06-18 Sun 16:52]
+
+** TODO Share Dactyl Layout with Reddit User 
+ [2023-06-28 Wed 10:49]
+ [[https://www.reddit.com/r/emacs/comments/14kgnsh/comment/jprsbs4/?utm_source=share&utm_medium=web2x&context=3][Reddit Post to reply to]]
+
+** DONE Pay New Cox bill                                          :REMINDER:
+CLOSED: [2023-07-19 Wed 11:28]
+ <2023-07-22 Sat 09:07> 
+ [2023-07-05 Wed 09:07]
+
+
+** DONE Call Cox and link my account. 
+CLOSED: [2023-07-17 Mon 11:24] SCHEDULED: <2023-07-14 Fri 12:00>
+ [2023-07-13 Thu 21:11]
+
+
+** TODO Sell off unwanted board games 
+ [2023-07-19 Wed 11:21]
+
+** TODO Goto target for apt supplies
+ [2023-07-19 Wed 11:43]
+
+** TODO Develop Next version of Zombie game                     :GAMEDESIGN:
+ [2023-07-19 Wed 11:45]
+
+
+*** NEXT Tweak the meeple classes                              
+ [2023-01-12 Thu 11:52]
+[[file:~/Projects/Zombie-Rebuild/design/Master-Design-Doc.org::*Class Based Meeple system][Class Based Meeple system]]
+
+*** TODO Build out a new meeple power list
+ [2023-06-11 Sun 15:50]
+ [[file:~/GameDesigns/Zombie-Rebuild/design/Master-Design-Doc.org::*Class Based Meeple system][Class Based Meeple system]]
+** TODO Rebuild heat block on 3d printer
+ [2023-07-19 Wed 11:49]
+
+** TODO Market Bagged & Boarded Launch
+ [2023-07-19 Wed 11:49]
+
+*** NEXT Build a marketing plan
+ [2023-07-19 Wed 11:50]
+
+*** WAITING Set a meeting with Nick to go over bagged & Boarded   :WAITING:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2023-07-19 Wed 11:51] \\
+  Need to put ducks in a row then setup a meeting
+:END:
+ [2023-07-19 Wed 11:51]
+
+** DONE Clean up my game design area
+CLOSED: [2023-07-22 Sat 23:50] SCHEDULED: <2023-07-21 Fri 16:00>
+ [2023-07-19 Wed 11:54]
+
+** DONE Game Night in Santee (OC Cancelled)
+CLOSED: [2023-07-23 Sun 23:59] SCHEDULED: <2023-07-23 Sun 10:00>--<2023-07-23 Sun 18:00>
+ [2023-07-19 Wed 11:59]
+
+** DONE Capture Nick's Gender Reveal
+CLOSED: [2023-07-22 Sat 23:49] SCHEDULED: <2023-07-22 Sat 15:00>
+ [2023-07-19 Wed 12:30]
+
+** DONE Play Poker
+CLOSED: [2023-07-22 Sat 23:49] SCHEDULED: <2023-07-22 Sat 12:00-14:30>
+ [2023-07-19 Wed 12:31]
+
+** TODO Update my mailing address with carmax
+SCHEDULED: <2023-07-31 Mon 12:00>
+ [2023-07-22 Sat 23:59]
+
+
+** TODO Dentist Apt. 
+SCHEDULED: <2023-08-22 Tue 16:00>
+ [2023-07-22 Sat 23:59]
+ [[file:~/Orgfiles/goals/Goals.org::*Get Dental Situation Fully Under Control][Get Dental Situation Fully Under Control]]
+
+** TODO Take body measurements
+SCHEDULED: <2023-08-23 Wed>
+ [2023-07-25 Tue 09:30]
+ [[file:~/Orgfiles/BodyTransformation.org::*Measurements][Measurements]]
+
+** DONE Buy lanolin nipple cream
+CLOSED: [2023-07-29 Sat 20:19] SCHEDULED: <2023-07-29 Sat>
+ [2023-07-29 Sat 11:45]
+
+** CANCELLED test a missed todo                                  :CANCELLED:
+CLOSED: [2023-07-29 Sat 15:08] SCHEDULED: <2023-07-28 Fri>
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-07-29 Sat 15:08] \\
+  Just a test
+:END:
+ [2023-07-29 Sat 15:07]
+
+** DONE Start Laundry
+CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun 16:00>
+ [2023-07-29 Sat 22:22]
+
+
+** DONE Go Grocery shopping 
+CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
+ [2023-07-29 Sat 22:25]
+
+** DONE Take out trash
+CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
+ [2023-07-29 Sat 22:26]
+
+** DONE Run Dishwasher
+CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
+ [2023-07-29 Sat 22:26]
 
 * Meetings
 :PROPERTIES:
-:CATEGORY: meeting
+:CATEGORY: Meeting
 :END:
-
-** MEETING with Tyler                                              :MEETING:
-[2022-12-13 Tue 23:26]
 
 * Events
 :PROPERTIES:
-:CATEGORY: event
+:CATEGORY: Event
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-07 Wed 21:05]--[2023-06-07 Wed 21:05] =>  0:00
 :END:
 
-** TODO Game Night @ Nick's
-SCHEDULED: <2022-12-15 Thu 18:30>
- [2022-12-11 Sun 14:43]
+** TODO Game Night in Santee
+SCHEDULED: <2023-08-01 Tue .+7d>
+:PROPERTIES:
+:Effort:   4:00
+:LAST_REPEAT: [2023-07-19 Wed 11:19]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-19 Wed 11:19]
+- State "DONE"       from "TODO"       [2023-06-14 Wed 15:21]
+- State "DONE"       from "TODO"       [2023-05-10 Wed 11:50]
+- State "DONE"       from "TODO"       [2023-05-06 Sat 12:39]
+- State "DONE"       from "TODO"       [2023-04-11 Tue 10:21]
+- State "DONE"       from "TODO"       [2023-03-26 Sun 17:26]
+- State "DONE"       from "TODO"       [2023-02-21 Tue 12:07]
+- State "DONE"       from "TODO"       [2023-02-09 Thu 10:14]
+- State "DONE"       from "TODO"       [2023-02-01 Wed 08:36]
+:END:
+ [2023-01-29 Sun 16:41]
+
+** TODO Game Night in Mira Mesa
+SCHEDULED: <2023-08-04 Fri 18:30 .+7d>
+:PROPERTIES:
+:Effort:   4:00
+:LAST_REPEAT: [2023-07-27 Thu 23:35]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-27 Thu 23:35]
+- State "DONE"       from "TODO"       [2023-07-20 Thu 23:50]
+- State "DONE"       from "TODO"       [2023-07-13 Thu 11:35]
+- State "DONE"       from "TODO"       [2023-03-26 Sun 17:26]
+- State "DONE"       from "TODO"       [2023-02-21 Tue 12:07]
+- State "DONE"       from "TODO"       [2023-02-10 Fri 09:27]
+- State "DONE"       from "TODO"       [2023-02-03 Fri 09:58]
+:END:
+ [2023-02-02 Thu 00:00]
+
+**  Lememcon 2023                                                 :REMINDER:
+ <2023-06-22 Thu 08:00>--<2023-06-25 Sun>
+ [2023-06-18 Sun 15:18]
+
+[[https://boardgamegeek.com/geeklist/314961/lememcon-4-2023-game-list][BGG Game List for what will be there]]
+*** Games I'm bringing
+- Antiquity
+- Neuland
+- Brick & Mortar
+- Star Wars: Rebellion
+- Pax Pamir: Second Edition
+- Captain Sonar
+- Innovation
+- The Great Zimbabwe
+- Carolus Magnus
+- Rat Race
+- Power Struggle
+- Indonesia
+- Ricoccet Robots
+* Reminders                                                        :REMINDER:
+:PROPERTIES:
+:CATEGORY: Reminder
+:END:
+** Look into Road Runner sports membership & make final purcahes  :REMINDER:
+ <2023-07-02 Sun 15:30> 
+ [2023-06-18 Sun 15:30]
 
 * Special Dates
-
 ** Birthdays
 :PROPERTIES:
-:CATEGORY: birthday
+:CATEGORY: Birthday
 :END:
+*** TODO Jessica's Birthday
+SCHEDULED: <2024-05-23 Thu +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2023-05-23 Tue]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-05-24 Wed 09:15]
+:END:
+ [2022-12-16 Fri 15:39]
+*** TODO Mom's Birthday
+SCHEDULED: <2023-08-25 Fri +1y>
+*** TODO Nate's Birthday
+SCHEDULED: <2024-01-19 Fri +1y>
+*** TODO Davy's Birthday
+SCHEDULED: <2024-04-24 Wed +1y>
+*** TODO Julie's Birthday
+SCHEDULED: <2023-11-18 Sat +1y>
+*** TODO My Birthday
+SCHEDULED: <2024-04-10 Wed +1y>
+
 
 ** Anniversaries
-
+:PROPERTIES:
+:CATEGORY: Anniversary
+:END:
+*** TODO SEAS Anniversary
+:PROPERTIES:
+:LAST_REPEAT: [2023-07-19 Wed 11:28]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-19 Wed 11:28]
+:END:
+ <2024-07-20 Sat +1y>
+Started 07/20/2020
 ** Holidays
+:PROPERTIES:
+:CATEGORY: Holiday
+:END:
+*** 4th of July
+<2023-07-04 Tue +1y>
+
 * Health
 :PROPERTIES:
-:CATEGORY: health
+:CATEGORY: Health
 :END:
-
-** Archive                                                         :ARCHIVE:
-*** DONE Get Hair Cut
-CLOSED: [2022-12-15 Thu 13:10] SCHEDULED: <2022-12-14 Wed 18:00>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-12-15 Thu 16:12
-:END:
- [2022-12-11 Sun 14:24]
-
-* Tasks
-:PROPERTIES:
-:CATEGORY: tasks
-:END:
-
-
-
-** TODO Work  @ Home <SEAS>
-SCHEDULED: <2022-12-16 Fri 10:00 - 16:00>
- [2022-12-11 Sun 14:27]
-
-** Archive                                                         :ARCHIVE:
-*** DONE Work @ Office <SEAS> 
-CLOSED: [2022-12-15 Thu 13:10] SCHEDULED: <2022-12-14 Wed 10:00 - 16:30>
-:PROPERTIES:
-:ARCHIVE_TIME: 2022-12-15 Thu 16:12
-:END:
- [2022-12-11 Sun 14:26]
 
 * Vehicle Maintenance
 :PROPERTIES:
-:CATEGORY: vehicle
+:CATEGORY: Vehicle
 :END:
 
-** TODO Get Oil Change :vehicle:
-SCHEDULED: <2022-12-15 Thu 17:00>
- [2022-12-11 Sun 14:33]
+** HOLD Fix undercarriage plastics                            :vehicle:HOLD:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-05-06 Sat 12:49] \\
+  For now tape is getting the job done and I want to save money through my move.
+:END:
+ [2023-01-20 Fri 11:28]
+
+** TODO Get tires rotated
+SCHEDULED: <2023-08-28 Mon>
+ [2023-02-28 Tue 07:33]
+
+** TODO Get an oil change 
+SCHEDULED: <2023-08-01 Tue 17:30 +3m>
+ [2023-07-19 Wed 11:22]
+
+
+** TODO Get a carwash
+SCHEDULED: <2023-08-01 Tue 18:00>
+ [2023-07-19 Wed 11:41]
 
 * Passwords
 :PROPERTIES:
-:CATEGORY: passwords
+:CATEGORY: Passwords
 :END:
+Experian EF7
+League - @9Efh7ni49
+sdge - @9EFh7ni49
+seasvirtual - PassUpdate125
+comicon - @9Efh6ni491234
+Southwest: A9Efh6ni49 
+Rapid Reward #**20823256344**
 
+** Calendly Zoom info
+
+seas1234! - google login
+
+Seas1234! - zoom login
+
+** Link Tree
+
+Email: [Julie@seaspro.com](mailto:Julie@seaspro.com)
+ PW: Jt97Lt00! (case sensitive)
+** Other
+latemuploads@gmail.com -  @9Efh6ni49
+
+
+    
+- Vesta Sites
+    seasdemo - Xj&GbZAI#$O8$l3AuiC%
+    Seademo - pass2
+
+- NDSS
+    [no-reply@ndss-symposium-portal.org](mailto:no-reply@ndss-symposium-portal.org)
+    ti#iN2WJ5K$xRwiS*Von
+    
+
+SEAS Wifi  Pass: SEASpro!
+
+* Purchases
+** Groceries
+*** Buy Roasted Pecan coffee beans from Sprouts
+ [2023-06-09 Fri 11:56]
+
+
+** Other
+- [X] [[https://www.amazon.com/s?k=polar&crid=3B3C9DHJO7CVP&sprefix=pola%2Caps%2C282&ref=nb_sb_noss_2][Polar On Amazon]]
+- [ ][[https://www.thecode.xyz/collections/all][Code Posters]]
+- [X] [[https://store.dailystoic.com/products/7-medallion-bundle-all-the-daily-stoic-coins][Stoic Coins]]
+- [ ] [[https://www.amazon.com/gp/product/B0BZCTYBLT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1][Mini Comuputer server]]
+- [ ] [[https://www.amazon.com/Crucial-64GB-2x32GB-Memory-CT2K32G4S266M/dp/B08DP8CPXF/ref=sr_1_5?crid=3DT53E7LUQN9Q&keywords=2x32GB%29+DDR4+2666&qid=1689872725&s=electronics&sprefix=2x32gb+ddr4+2666%2Celectronics%2C142&sr=1-5&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0][Ram for server]]
+  - I would then use Ubuntu Server with Portainer
+  - running Docker
+
+  
+** Someday Maybe
+- [[https://www.youtube.com/watch?v=bWebs3ID6Hw][Hydroponics]]
+- [[https://sleep.me][Chill Sleep Systems]]
+
+*** Side Businesses
+
+**** 3d Printing based
+- [[https://www.reddit.com/r/3Dprinting/comments/1454s2p/query_can_nails_like_this_be_3d_printed/][3d printed fake nails]] - could be sold to cosplayers or branded or just be goth or whatever. Probably ideal with a resin printer. 
+
+** DONE Get a new Tape Measure
+CLOSED: [2023-06-18 Sun 17:45] SCHEDULED: <2023-06-18 Sun 17:45>
+ [2023-06-17 Sat 18:04]
+
+* Travel
+** TSA Precheck
+- KTN: TT12N4HB4
+- Expire: 3/10/2027
+
+  [[file:images/TSA.png][TSA]]
+
+* Media To Consume
+** Books To Read
+- Fingerprints of the gods
+** Videos to Consume
+- [[https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi][Personality and its transformations (University of Toronto)]]
+  

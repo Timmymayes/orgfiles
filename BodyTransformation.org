@@ -1,4 +1,28 @@
-* Body Transformation Prototcol
+#+Filetags: Persona lwxsdHEALTH
+
+* Notes                                                              :ATTACH:
+:PROPERTIES:
+:ID:       a610e25c-bcfc-4928-9162-8e728796221d
+:END:
+- [[https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03221-6][VLCKD Study]]
+- [[https://academic.oup.com/jcem/article/102/2/488/2972058][Descriptive Study]]
+
+  #+attr_org: :width 900px
+[[file:images/keto.jpg]]
+  
+
+
+
+
+ 
+
+
+
+
+* Body Transformation Prototcol                                      :ATTACH:
+:PROPERTIES:
+:ID:       b024e624-6b07-471b-bfa0-d4b59558e9b9
+:END:
 ** What am I doing and why am I doing it?
 Been talking the talk for to long and its time to walk the walk.
 
@@ -23,7 +47,8 @@ Been talking the talk for to long and its time to walk the walk.
 - 3 Months - alongside omad
   - Build to 5 miles on run days
   - Calesthenics
-         
+
+        
 ** G-BOMBS
 *** G - reens
 #+attr_org: :width 500px
@@ -174,42 +199,32 @@ Good choices include chia, flax, hemp, pumpkin and sesame seeds, and almonds, Me
 Seeds and nuts to try
 Almonds, chia seeds, flaxseeds, hemp seeds, Mediterranean pine nuts, pistachios, pumpkin seeds, sesame seeds, walnuts
 
-
-
 * Metrics
 The metrics I'd like to track:
 - Weight
 - Blood pressure
 - Stage
-| Date       | Weight | Trend | BP     | Stage         |
-|------------+--------+-------+--------+---------------|
-| 2022/11/27 |  204.5 | *     | ---    | Water Fasting |
-| 2022/11/28 |  203.4 |      | ---    | Water Fasting |
-| 2022/11/29 |  200.8 |      | 143/89 | Water Fasting |
-| 2022/11/30 |  198.9 |      | ---    | water fasting |
-| 2022/12/01 |  198.9 | *     | ---    | Normal Eating |
-| 2022/12/02 |  199.4 |      | 137/90 | Normal Eating |
-| 2022/12/03 |  203.5 |      | 135/93 | Normal Eating |
-| 2022/12/04 |  201.5 |      | 133/83 | Normal Eating |
-| 2022/12/05 |  200.9 |      | ---    | Normal Eating |
-| 2022/12/06 |  203.6 |      | ---    | Normal Eating |
-| 2022/12/10 |  204.0 |      | ---    | Normal Eating |
-| 2022/12/10 |  204.6 |      | ---    | Normal Eating |
+| Date       | Weight | BP     | Stage         |
+|------------+--------+--------+---------------|
+| 2022/11/27 |  204.5 | ---    | Water Fasting |
+| 2022/11/28 |  203.4 | ---    | Water Fasting |
+| 2022/11/29 |  200.8 | 143/89 | Water Fasting |
+| 2022/11/30 |  198.9 | ---    | water fasting |
+| 2022/12/01 |  198.9 | ---    | Normal Eating |
+| 2022/12/02 |  199.4 | 137/90 | Normal Eating |
+| 2022/12/03 |  203.5 | 135/93 | Normal Eating |
+| 2022/12/04 |  201.5 | 133/83 | Normal Eating |
+| 2022/12/05 |  200.9 | ---    | Normal Eating |
+| 2022/12/06 |  203.6 | ---    | Normal Eating |
+| 2022/12/10 |  204.0 | ---    | Normal Eating |
+| 2022/12/10 |  204.6 | ---    | Normal Eating |
+
+** Measurements
+#+Title Body Measurements
+| Date       | Chest | Belly | Neck  | Forearm | Bicep | Thigh | Calf   |
+|------------+-------+-------+-------+---------+-------+-------+--------|
+| 2023/07/24 | 48"   | 45"   | 18.5" | 10"     | 12.5" | 15"   | 22.25" |
+|            |       |       |       |         |       |       |        |
 * Recipe Book (Staple Meals)
 ** Roasted Veg
-* Daily Journal
-** 2022-11-27 Sun
-Starting a few days ago I was having issues with feeling a bit meh. To the point that for some reason I got super worried about my heart health, i.e. blood pressure, blood clots, stroke, heart attack etc. Decided it was time to implement the things I know regarding weight loss.
-
-Decided It's time to get on my timeline and go.
-
-Rough timeline I want to adhere to is 7 days of fasting. Then switch to 3MAW for 2 months followed by 3 months of OMAD
-
-| Start Date | End Date   | Protocol   | Goal                     |
-|------------+------------+------------+--------------------------|
-| 11/27/2022 | 12/03/2022 | Water Fast | Confirm BP & Lower       |
-| 12/04/2022 | 01/29/2023 | 3MAW       | Maintained Weigh Loss    |
-| 01/30/2023 | 04/30/2023 | OMAD       | Rebuild Muscle & Fitness |
-** 2022-12-12 Mon
-Having really been doing this which is my own fault but its ok. Back on the saddle. Keep refocusing. Vegas is next weekend so we can't maintain it then but we can through the week. Going to take two bananas for lunch. Ultimately we haven't had a total fluxuation over 5lbs anyway so the key here is consistent veggie eating on single meals. The fast was a nice thing but full on fasting is unnecessary. 
 

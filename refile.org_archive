@@ -16,3 +16,39 @@ CLOSED: [2022-12-15 Thu 16:16]
  [2022-12-13 Tue 23:20]
  [[file:~/Projects/emacsone/OrgFiles/emacsconf.org::*initial package setup][initial package setup]]
 *
+
+* TODO 
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-12-16 Fri 13:12
+:ARCHIVE_FILE: ~/Orgfiles/refile.org
+:ARCHIVE_CATEGORY: refile
+:ARCHIVE_TODO: TODO
+:ARCHIVE_ITAGS: REFILE
+:END:
+ [2022-12-16 Fri 13:11]
+ [[file:~/Orgfiles/config.org::*Update js-comint-send-region-and-go to be a macro so that default install works out of the box instead of my edits I made.][Update js-comint-send-region-and-go to be a macro so that default install works out of the box instead of my edits I made.]]
+
+
+* DONE Import mail to Mu4e and start checking personal mail in google regularly
+CLOSED: [2023-01-14 Sat 11:50] SCHEDULED: <2023-01-14 Sat>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-14 Sat 11:59
+:ARCHIVE_FILE: ~/Orgfiles/refile.org
+:ARCHIVE_CATEGORY: refile
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: REFILE
+:END:
+ [2023-01-14 Sat 11:28]
+
+
+* TODO Bridge Rev Meeting 
+SCHEDULED: <2023-02-28 Tue 12:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-02-28 Tue 07:56
+:ARCHIVE_FILE: ~/Orgfiles/refile.org
+:ARCHIVE_CATEGORY: ???
+:ARCHIVE_TODO: TODO
+:ARCHIVE_ITAGS: REFILE
+:END:
+ [2023-02-28 Tue 07:56]
+
