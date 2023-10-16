@@ -1,0 +1,42 @@
+40 hours in a week. If the Cpap works and 6 hours is enough for me the below schedule works
+
+* 6 Hours of Sleep
+| Start Time | End Time | Activity                     |
+|------------+----------+------------------------------|
+|       6:00 |     8:00 | Morning Habit Stack          |
+|       8:00 |     9:00 | Programming study            |
+|       9:00 |    10:00 | Walk to work                 |
+|      10:00 |    16:30 | Work                         |
+|      16:30 |    17:30 | Walk Home                    |
+|      17:30 |    18:00 | Shower / unpack              |
+|      18:00 |    19:00 | Drive to santee/Oceans/Nicks |
+|      19:00 |    11:00 | Do the thing                 |
+|      11:00 |    12:00 | Drive Home                   |
+|      12:00 |     6:00 | Sleep                        |
+
+
+
+* 8 Hours of Sleep
+|    Start Time | End Time | Activity                     |
+|---------------+----------+------------------------------|
+|          7:00 |     8:00 | Morning Habit Stack          |
+|          8:00 |     9:00 | Programming study            |
+|          9:00 |    10:00 | Walk to work                 |
+|         10:00 |    16:30 | Work                         |
+|         16:30 |    17:30 | Walk Home                    |
+|         17:30 |    18:00 | Shower / unpack              |
+|         18:00 |    19:00 | Drive to santee/Oceans/Nicks |
+|         19:00 |    10:00 | Do the thing                 |
+| 10:00 / 10:30 |    11:00 | Drive Home                   |
+|         12:00 |     6:00 | Sleep                        |
+
+
+
+* Poker Goals
+- Start with ~$1500 bankroll (10 buy ins at 1/3)
+- Play 100 hours a month to get the $400 rake back and win @ $10 an hour on average
+  - This should thus equate to $1400 a month added to the bankroll.
+- Look to aggressively shot take at  2/3 when i have ~15 buy ins aka $400 x 15 = $6,000
+- Occassional shot take when games are bat at 1/3 (play very low variance maybe even a $200 buy in strategy)
+- End of year goal $16,000 in the bankroll and regularly playing 2/3. Start with $10 win rate and work towards $30. 
+

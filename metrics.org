@@ -1,23 +1,38 @@
 * Current Week
+** Overview
+#+NAME: Week 2 Overview
+|---------------+---------------------------------------|
+| Focus         | Daily habits & Healthy Eating         |
+| Objectives    | Morning stack every day + eat healthy |
+|---------------+---------------------------------------|
+| Effectiveness |                                       |
+| Gratitude     |                                       |
+|---------------+---------------------------------------|
+| Improvements  |                                       |
+|---------------+---------------------------------------|
+
 ** Metrics
 *** Morning
 #+Name: Health
-| Day | Weight | BP SYS | BP DIA | Sleep Time | AHI | Mood  |
-|-----+--------+--------+--------+------------+-----+-------|
-| Mon |  221.5 |    135 |     92 |        7.5 | 0.4 | Chill |
+| Day | Weight | BP SYS | BP DIA | Sleep Time | AHI | Mood    |
+|-----+--------+--------+--------+------------+-----+---------|
+| Mon |  231.8 |    143 |     92 |        5.9 | 0.0 | Great   |
+| Sun |  228.4 |    141 |     92 |      10.25 | 0.4 | Focused |
 
 
-| Avg | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | --- |
-#+TBLFM: @12$2..$6=vmean(@I..@II);%.2f
-
-#+NAME: Overview
+|-----+--------+--------+--------+------------+------+--------|
+| Avg | 230.63 | 133.00 |  84.00 |       7.92 | 0.00 | ---    |
+#+TBLFM: @$2..$5=vmean(@I..@II);%.2f
 
 *** Evening
 #+Name: Evening
-| Day | Output % | On Schedule % | Mood    |
-| Mon |       20 |            30 | Annoyed |
+| Day | Output % | On Schedule % | Mood  |
+|-----+----------+---------------+-------|
+
+
+|-----+----------+---------------+-------|
+| Avg |     0.20 |          0.20 | ---   |
+#+TBLFM: @$2..$3=vmean(@I..@II);%.2f
 
 *** Improvements List
-- This
-- That
-- Another
+

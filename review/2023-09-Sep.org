@@ -1,0 +1,86 @@
+* Week 4: Sep 25 - Oct 1
+** Overview
+#+NAME: Week 4 Overview
+|---------------+------------------------------------|
+| Focus         | Daily habits                       |
+| Objectives    | Walk every day / eat omad everyday |
+|---------------+------------------------------------|
+| Effectiveness |                                    |
+| Gratitude     |                                    |
+|---------------+------------------------------------|
+| Improvements  |                                    |
+|---------------+------------------------------------|
+
+** Metrics
+*** Morning
+#+Name: Health
+| Day | Weight | BP SYS | BP DIA | Sleep Time |  AHI | Mood   |
+|-----+--------+--------+--------+------------+------+--------|
+| Mon |  230.1 |    128 |     81 |          8 |  0.3 | Lazy   |
+| Tue |  230.0 |    138 |     89 |          7 |  0.3 | Happy  |
+| Sun |  231.8 |    133 |     82 |       8.75 |  0.1 | Normal |
+|-----+--------+--------+--------+------------+------+--------|
+| Avg | 230.63 | 133.00 |  84.00 |       7.92 | 0.00 | ---    |
+#+TBLFM: @$2..$5=vmean(@I..@II);%.2f
+
+*** Evening
+#+Name: Evening
+| Day | Output % | On Schedule % | Mood  |
+|-----+----------+---------------+-------|
+| Sun |      20% |           20% | Chill |
+|-----+----------+---------------+-------|
+| Avg |     0.20 |          0.20 | ---   |
+#+TBLFM: @$2..$3=vmean(@I..@II);%.2f
+
+*** Improvements List
+**** Sun
+- Check emacs more regularly
+- Take more meditative moments to break up when you're stuck in loops
+
+** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [X] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Week 4 Accomplishments                                :Accomplishment:
+**** Hit my morning stack 4x in the week which is an improvement!
+**** Work is coming together well
+*** Week 4 Disappointments                                :Disappointment:
+**** Didn't get my weight loss going yet.
+
+*** Week 4 Highs                                                   :Highs:
+**** Got to play Netrunner with Joshua Starr. Really getting him into the game which is great.!
+**** Diving into Griftlands finally which is great as its a slay the spire like. It's an interesting system that is giving me many ideas. 
+
+*** Week 4 Lows                                                     :Lows:
+**** Not the happiest in working with Nick on my game. Been thinking of this. 
+*** Week 4 Learnings                                           :Learnings:
+**** I likely need to start up my own game stuff independant on Nick. 
+
+** 2. Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+** 3. Process Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+** 4. Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+
+

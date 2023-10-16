@@ -1,0 +1,314 @@
+#+FILETAGS: Jun 2023
+#+transclude: [[file:~/Orgfiles/identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] 
+* Week 1: Jun 05 - Jun 11
+** Metrics
+
+#+NAME: Week 1 Overview
+|---------------+----------------------------------------------------------------------|
+| Focus         | Decoupling from Jess & Focus on the move                             |
+| Objectives    | Sort out my belongings and packing                                   |
+|---------------+----------------------------------------------------------------------|
+| Effectiveness | 60%                                                                  |
+| Gratitude     | Grateful for how productive I can be when it really gets down to it. |
+|---------------+----------------------------------------------------------------------|
+| Improvements  | Create better metric capture os its easier to do.            |
+|---------------+----------------------------------------------------------------------|
+
+
+
+
+#+NAME: Week 1 Daily Tracking
+|     | Weight | BP SYS | BP Dia | Sleep Time | Snore | Output % |
+|-----+--------+--------+--------+------------+-------+----------|
+| Mon |        |        |        |            |       |          |
+| Tue |        |        |        |            |       |          |
+| Wed |        |        |        |            |       |          |
+| Thu |        |        |        |            |       |          |
+| Fri |  218.1 |        |        |            |       |      15% |
+| Sat |        |        |        |            |       |      40% |
+| Sun |  218.6 |        |        |            |       |          |
+|-----+--------+--------+--------+------------+-------+----------|
+| Avg | 218.35 |   0.00 |   0.00 |       0.00 |  0.00 |     0.28 |
+#+TBLFM: @9$2..$7=vmean(@I..@II);%.2f
+
+** Week 1 Accomplishments                                   :Accomplishment:
+*** Got a solid start to packing
+*** Situated apartment move logistics
+*** Got back to gaming with my friends
+*** Reconnected with Jim and Sandra
+*** Finally unified my emacs config. 
+** Week 1 Disappointments                                   :Disappointment:
+*** Weight gain is happening
+*** Getting emotional regarding the break up
+*** Spent way too much time consuming media 
+*** Ate poorly
+
+** Week 1 Highs, Lows and Learnings
+| Highs                                                     | Lows                                      | Learnings                                                               |
+|-----------------------------------------------------------+-------------------------------------------+-------------------------------------------------------------------------|
+| Felt good about my future                                 | Got emotional reading old cards from Jess | Realize I can be quite productive when the need hits                    |
+| Have some solid ideas of what I want out of life          | Ate a bit too much overall.               | Don't need as much stuff as I used to. Happy to get rid of some things. |
+| Feeling more motivated and refocused by upcoming changes. |                                           |                                                                         |
+
+
+** Week 1 Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 1 Accomplishments][Week 1 Accomplishments]]
+- [X] Update Disapointments - [[*Week 1 Disappointments][Week 1 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 1 Highs, Lows and Learnings][Week 1 Highs, Lows and Learnings]]
+
+*** Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check Saved Emails
+
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [X] Cehck ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~valuate where they stand and ensure at liesat one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [X] Deesktop & Download Folders (re-locate or delete)
+- [X] Clean Up CLoudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+* Week 2: Jun 12 - Jun 18
+** Metrics
+
+#+NAME: Week 2 Overview
+|---------------+-----------------------------------------------------------------------------------|
+| Focus         | Packing, prepping the move and the Phil Mershon speaking event  |
+| Objectives    | Successfully execute the Phil Mershon event               |
+|---------------+-----------------------------------------------------------------------------------|
+| Effectiveness | 80%                                                                               |
+| Gratitude     | General stability in my life at the moment                                   |
+|---------------+-----------------------------------------------------------------------------------|
+| Improvements  | Wake up earlier and get started. Sleep earlier. Eat healthier |
+|---------------+-----------------------------------------------------------------------------------|
+
+
+
+#+NAME: Week 2 Daily Tracking
+|     | Weight | BP SYS | BP Dia | Sleep Time | Snore | Output % |
+|-----+--------+--------+--------+------------+-------+----------|
+| Mon |  217.6 |        |        |            |       |          |
+| Tue |  217.8 |        |        |            |       |          |
+| Wed |  217.2 |        |        |            |       |          |
+| Thu |        |        |        |            |       |          |
+| Fri |        |        |        |        5.0 |    74 |      30% |
+| Sat |        |        |        |          9 |    38 |      45% |
+| Sun |        |    145 |     95 |       4.95 |    87 |      65% |
+|-----+--------+--------+--------+------------+-------+----------|
+| Avg | 217.53 | 145.00 |  95.00 |       6.32 | 66.33 |     0.47 |
+#+TBLFM: @9$2..$7=vmean(@I..@II);%.2f
+
+** Week 2 Accomplishments                                   :Accomplishment:
+*** Podcast room at work was a great success
+*** Filmed our first podcast
+*** First speaking engagement went really well. 
+*** Solidified my emacs config and agenda
+** Week 2 Disappointments                                   :Disappointment:
+*** Didn't really lose weight
+*** Ate poorly
+*** Not as packed as I'd like to be. 
+** Week 2 Highs, Lows and Learnings
+| Highs                                          | Lows                                       | Learnings                                                                                                   |
+|------------------------------------------------+--------------------------------------------+-------------------------------------------------------------------------------------------------------------|
+| Getting good traction on ebay sales            | Haven't done a few key things for the move | When I eat shitty I feel shitty                                                                             |
+| It's been good to see Julie doing well at work | Learned of more family health issues       | When I don't get good sleep I feel shitty                                                                   |
+| Got to the poker table 2x this week            | Blod pressure is up a bit (no surprise)    | I need to establish some quit-ability with poker if I want to keep playing.                                 |
+|                                                | Spent too much time consuming content      | I really do like learning / notes / communicating but I need to spend more time creating and less consuming |
+|                                                |                                            |                                                                                                             |
+
+
+** Week 2 Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 2 Accomplishments][Week 2 Accomplishments]]
+- [X] Update Disapointments - [[*Week 2 Disappointments][Week 2 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 2 Highs, Lows and Learnings][Week 2 Highs, Lows and Learnings]]
+
+*** Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check saved emails
+    
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [X] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~evaluate where they stand and ensure atlieast one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [X] Deesktop & Download Folders (re-locate or delete)
+- [X] Clean Up CLoudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+* Week 3: Jun 19 - Jun 25
+** Metrics
+
+#+NAME: Week 3 Overview
+|---------------+---------------------------------------------------------|
+| Focus         | Lememcon!                                               |
+| Objectives    | Knock out work and moving tasks to prep up for lememcon |
+|---------------+---------------------------------------------------------|
+| Effectiveness |                                                         |
+| Gratitude     |                                                         |
+|---------------+---------------------------------------------------------|
+| Improvements  |                                                         |
+|---------------+---------------------------------------------------------|
+
+
+
+#+NAME: Week 3 Daily Tracking
+|     | Weight | BP SYS | BP Dia | Sleep Time | Snore | Output % |
+|-----+--------+--------+--------+------------+-------+----------|
+| Mon |  218.9 |        |        |       9.75 |    66 |      50% |
+| Tue |        |        |        |            |       |          |
+| Wed |        |        |        |            |       |          |
+| Thu |        |        |        |            |       |          |
+| Fri |        |        |        |            |       |          |
+| Sat |        |        |        |            |       |          |
+| Sun |        |        |        |            |       |          |
+|-----+--------+--------+--------+------------+-------+----------|
+| Avg |   0.00 |   0.00 |   0.00 |       0.00 |  0.00 |     0.00 |
+#+TBLFM: @9$2..$7=vmean(@I..@II);%.2f
+
+** Week 3 Accomplishments                                   :Accomplishment:
+*** 
+** Week 3 Disappointments                                   :Disappointment:
+*** 
+
+** Week 3 Highs, Lows and Learnings
+| Highs | Lows | Learnings |
+|-------+------+-----------|
+|       |      |           |
+|       |      |           |
+
+
+** Week 3 Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week 3 Accomplishments][Week 3 Accomplishments]]
+- [ ] Update Disapointments - [[*Week 3 Disappointments][Week 3 Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week 3 Highs, Lows and Learnings][Week 3 Highs, Lows and Learnings]]
+
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ]Inbox Zero
+  - [ ]Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at liesat one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Deesktop & Download Folders (re-locate or delete)
+- [ ] Clean Up CLoudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+* Week 4: Jun 26 - Jul 02
+** Metrics
+
+#+NAME: Week 4 Overview
+|---------------+----------------------------------------------------------------------------------------------|
+| Focus         | Lememcon!                                                                                    |
+| Objectives    | Get all packing I can done in preperation for the fact that I'll be mostly gone for lememcon |
+|---------------+----------------------------------------------------------------------------------------------|
+| Effectiveness | 80%                                                                                          |
+| Gratitude     | Grateful for new beginnings and emotional resiliance and the healing power of my body.       |
+|---------------+----------------------------------------------------------------------------------------------|
+| Improvements  | Laser focus on diet & exercise. Rejuvenate my habits.                         |
+|---------------+----------------------------------------------------------------------------------------------|
+
+
+
+#+NAME: Week 4 Daily Tracking
+|     | Weight | BP SYS | BP Dia | Sleep Time | Snore   | Output % |
+|-----+--------+--------+--------+------------+---------+----------|
+| Mon |        |        |        |            |         |          |
+| Tue |        |        |        |            |         |          |
+| Wed |        |        |        |            |         |          |
+| Thu |        |        |        |            |         |          |
+| Fri |        |        |        |            |         |          |
+| Sat |        |        |        |            |         |          |
+| Sun |        |        |        |            |         |          |
+|-----+--------+--------+--------+------------+---------+----------|
+| Avg |   0.00 | 0.00   |   0.00 |       0.00 |  0.00   |      0.00|
+#+TBLFM: @9$2..$7=vmean(@I..@II);%.2f
+
+** Week 4 Accomplishments                                   :Accomplishment:
+*** Got a ton of packing done.
+*** Lememcon was fantastic weekend with friends.
+*** Gave up some bad habits. 
+*** Starting strong on poker
+
+** Week 4 Disappointments                                   :Disappointment:
+*** BAD DIET ALL WEEK
+*** NO EXERCISE
+*** 
+** Week 4 Highs, Lows and Learnings
+| Highs                                          | Lows                                                   | Learnings                                 |
+|------------------------------------------------+--------------------------------------------------------+-------------------------------------------|
+| Walked 46k steps in a single day               | Moments of sadness / regret around ending relationship | I can put down things that don't serve me |
+| Won big at $2/$3 at Oceans (in $400 out $1400) | Felt like I wasted some time & money on my shenanigans | I'm ok at poker                           |
+| Moving is going well. Feels like a fresh start |                                                        |                                           |
+
+
+** Week 4 Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 4 Accomplishments][Week 4 Accomplishments]]
+- [X] Update Disapointments - [[*Week 4 Disappointments][Week 4 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 4 Highs, Lows and Learnings][Week 4 Highs, Lows and Learnings]]
+
+*** Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check saved emails
+    
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [X] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~valuate where they stand and ensure at liesat one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [X] Desktop & Download Folders (re-locate or delete)
+- [X] Clean Up CLoudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+
+  

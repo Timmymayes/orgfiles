@@ -1,0 +1,1571 @@
+#+FILETAGS: :SEAS:
+
+#+BEGIN: clocktable :scope file :maxlevel 2 :block thisweek
+#+CAPTION: Clock summary at [2023-10-11 Wed 11:14], for week 2023-W41.
+| Headline   | Time |
+|------------+------|
+| *Total time* | *0:00* |
+#+END:
+
+* Notes
+:PROPERTIES:
+:CATEGORY: Note
+:END:
+
+** IT Related Notes                                                   :NOTE:
+*** Bitlys 
+
+- Our Studio Page (Email Banner) - https://bit.ly/33Qq9bx
+
+*** Passkey 
+*** ufi -
+
+- Timmymayes
+- Prod labs one with emphesis!
+
+*** Static IP 
+
+- seas.areyouonlinerightnow.com
+
+*** Stripe Saved Key                                                
+
+[2023-02-03 Fri]
+
+ukcb-onfh-ywmz-essy-xhyk
+
+** Website Related Notes                                              :NOTE:
+*** Divi Video Embed for Website
+
+[[https://www.jucra.com/whmcs/knowledgebase/77/How-to-correctly-embed-a-Vimeo-video-in-the-divi-video-module.html][Vimeo Embed]]
+
+** Black Magic Camera Settings :NOTE:
+*** Record
+**** Codec & Quality
+
+- Braw
+- Constant Bitrate
+- 8:1
+- Ultra HD
+
+**** Dynamic Range
+
+- Film
+- 29.97
+- SD Card
+
+*** Monitor
+**** LCD
+
+- only Frame Guide and grid on
+- Page two status text on and display meteres
+
+**** HDMI
+
+- Clean Feed 
+
+**** Both
+
+- Frame Guides: 2.4:1
+- Guide Opacity: 50%
+- Focus Assist: Colored Lines
+- Focus assit level: Medium
+- Focus Color Red
+- Zebra levels 95%
+
+*** Audio
+*** Setup
+
+Shutter Angle & 60hz
+
+*** Presets
+*** Luts
+
+** Podcast Info/Notes                                                 :NOTE:
+*** Text Settings for podcast clilps
+- max characters - 14
+- min dur in sec 3
+- single line
+- Montseratt black
+- bottom center -386
+- white fill / black stroke (outer) (10px)
+- caps+bold
+- 85
+- shadow off
+*** Podcast Page build out
+**** Lasso page design references
+- [[https://podcast.lasso.io/corralling-the-chaos-podcast/all][Feed Page]]
+- [[refe][Episode page]]
+**** Embedable player
+https://transistor.fm/pricing/
+** UFO 1x rafters above Richards desk
+- https://store.ui.com/us/en/pro/category/all-wifi/products/u6-iw
+*** When we move this possibly relocate the repeater outside  by docks
+** Wifi connection points                                             :NOTE:
+[2023-09-25 Mon]
+*** 3x Wall plates
+**** Josh's office
+**** Pm Room
+**** Podcast room
+*** Mount intenal front warehouse ufo in rafters
+*** For studio consider the following:
+- https://store.ui.com/us/en/pro/category/all-wifi/products/u6-enterprise
+** Mitch Training video                                               :NOTE:
+[[https://drive.google.com/drive/u/1/folders/0B98uBS-sK4xufk9IVThxX1dPX1pCZ3BGVEhGZE92QnNpTmtyRzBGLUFFZk94c1gzRnkyaGc?resourcekey=0-wbKVIoEunyi_p6ZXZLRNsQ][link]]
+* Tasks
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+** Archive :ARCHIVE:
+** 
+** HOLD Update SEAS Website :HOLD:
+:LOGBOOK:
+- State "HOLD"       from "WAITING"    [2023-03-23 Thu 15:34]
+- State "HOLD"       from "NEXT"       [2023-03-23 Thu 15:33] \\
+  Waiting till we get more of a go from Zack
+:END:
+
+*** DONE Remove event cancellation banner on header
+CLOSED: [2023-01-27 Fri 12:17]
+:LOGBOOK:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2023-01-27 Fri 12:17]
+:END:
+
+- State "WAITING"    from "NEXT"       [2022-12-20 Tue 15:14] \\
+  Need to contact Ryan
+
+*** CANCELLED Update Form pages for web shop :CANCELLED:
+CLOSED: [2023-02-05 Sun 20:56]
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-02-05 Sun 20:56] \\
+  This doesn't need to be done anymore.
+:END:
+ [2023-01-02 Mon 14:44]
+
+*** Archive :ARCHIVE:
+**** DONE Enter products for woo commerce
+CLOSED: [2023-01-11 Wed 16:02] SCHEDULED: <2023-01-02 Mon>
+:PROPERTIES:
+:Effort:   120
+:ARCHIVE_TIME: 2023-01-14 Sat 11:59
+:END:
+
+ [2022-12-16 Fri 14:34]
+
+*** DONE Outline the site changes according to meeting with tom
+CLOSED: [2023-02-13 Mon 14:50] SCHEDULED: <2023-02-06 Mon>
+
+ [2023-02-05 Sun 20:56]
+
+*** DONE Confirm w/ BridgeRev if we should migrate our site.
+CLOSED: [2023-02-14 Tue 14:30] SCHEDULED: <2023-02-14 Tue>
+
+ [2023-02-13 Mon 14:51]
+
+*** DONE Research Hubspot Website Needs
+CLOSED: [2023-02-28 Tue 07:04] SCHEDULED: <2023-02-22 Wed 11:30>
+:PROPERTIES:
+:Effort:   1:00
+:END:
+
+ [2023-02-22 Wed 10:49]
+
+*** DONE Button for adding people to the mailing list.
+CLOSED: [2023-07-03 Mon 14:04] SCHEDULED: <2023-06-29 Thu 13:00>
+:LOGBOOK:
+CLOCK: [2023-06-27 Tue 13:32]--[2023-06-27 Tue 14:08] =>  0:36
+:END:
+ [2023-06-27 Tue 12:37]
+
+Stay in touch
+
+- Blog
+- Newsletter
+- Podcast
+- In-Person Events
+
+*** TODO Update Yellow tagging of menu bar on site
+
+ [2023-06-27 Tue 12:42]
+
+** HOLD Google Ads Overhaul :HOLD:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-06-27 Tue 09:44] \\
+  Waiting on this until we're ready to run ads
+:END:
+ [2023-01-23 Mon 16:05]
+
+*** DONE Get Google Ads synced into Hubspot
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-05-17 Wed>
+:PROPERTIES:
+:Effort:   1:00
+:END:
+
+ [2023-01-23 Mon 16:08]
+ [[file:~/Orgfiles/SEAS.org::*Google Ads Overhaul][Google Ads Overhaul]]
+
+*** NEXT Dig into an indepth google ads tutorial
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-06-27 Tue 09:45]
+
+** HOLD Create Lead Magnets for Site :HOLD:
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-09-06 Wed 14:38] \\
+  Not working on this till the new year
+:END:
+
+ [2023-01-23 Mon 16:09]
+
+*** NEXT AV Meeting Guide - What to bring to your first Meeting
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-01-23 Mon 16:19]
+
+**** Starting point
+
+- Target Budget
+- Schedule - not detailed just start end times when applicabal
+    - Load in
+    - Rehersals
+    - Show days (start / end is important here)
+    - Loadout
+- Location / venue
+    - Tables & potential stage size
+    - DIagram with measurments & Rig points
+- Audience Size
+- **************************************Basic Scope of work**************************************
+- Nice to haves
+    - Power & Internet needs
+    - Venue contacts if this is locked in
+    - Load in / out plans
+        - Docks vs not docks
+        - Distance to show site and wat the route looks like - this will affect how long to move gear and how many hands are needed
+    - Photos / Ideas like a mood board or examples from previous years
+
+*** HOLD  Look Book :Julie:HOLD:
+:PROPERTIES:
+:Effort:   2:00
+:END:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-09-06 Wed 13:49] \\
+  Waiting till new year to do
+- State "TODO"       from "WAITING"    [2023-08-06 Sun 23:03]
+- State "WAITING"    from "TODO"       [2023-08-03 Thu 13:10] \\
+  Waiting on Zack
+- State "TODO"       from "WAITING"    [2023-08-01 Tue 21:05]
+- State "WAITING"    from "NEXT"       [2023-07-28 Fri 13:37] \\
+  Waiting for Zack and/or Sales
+CLOCK: [2023-01-24 Tue 11:54]--[2023-01-24 Tue 12:28] =>  0:34
+:END:
+[2023-01-23 Mon 16:21]
+
+**** DONE Meet with Zack to figure out what he wants in the lookbook
+
+: [2023-03-23 Thu 15:27]
+:LOGBOOK:
+- State "DONE"       from "HOLD"       [2023-03-23 Thu 15:27]
+- State "HOLD"       from "NEXT"       [2023-02-13 Mon 14:51] \\
+  Not sure when we're actually doing this.
+:END:
+ [2023-01-26 Thu 12:03]
+
+**** DONE Get final cost brackets for Lookbook
+CLOSED: [2023-06-11 Sun 15:44]
+
+ [2023-03-23 Thu 15:27]
+
+**** DONE Check in with Julie to see where she is on this
+CLOSED: [2023-08-02 Wed 15:30] SCHEDULED: <2023-08-02 Wed 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-01 Tue 21:04]
+ [[file:~/Orgfiles/SEAS.org::*Look Book][Look Book]]
+
+**** NEXT Evaluate where we left off
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 13:50]
+
+*** HOLD SD Venue Guide :HOLD:
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-09-06 Wed 13:49] \\
+  Waiting on this until we're at the new year
+:END:
+
+ [2023-08-06 Sun 20:10]
+
+**** TODO Get list of top 10 venues in SD from sales team
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "TODO"       from "HOLD"       [2023-09-06 Wed 13:52]
+- State "HOLD"       from "WAITING"    [2023-09-06 Wed 13:52] \\
+  Waiting until we reboot this project
+- State "WAITING"    from "TODO"       [2023-01-23 Mon 16:10] \\
+  [2023-01-23 Mon] Email sent
+:END:
+ [2023-01-23 Mon 16:10]
+
+**** NEXT Revaluate the status of the venue guide
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 13:51]
+
+** HOLD Hire an Agency for blog writing :HOLD:
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-08-01 Tue 21:12] \\
+  Not sure when we'll implement this.
+:END:
+ [2023-05-05 Fri 12:48]
+Lead: setup meeting with https://nowmarketinggroup.com/ to be our agency
+
+*** DONE Chat with the agency lead given to me by Zack
+CLOSED: [2023-06-11 Sun 15:44]
+
+ [2023-05-05 Fri 12:55]
+
+*** NEXT Search for a list of possible agencies
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-06-27 Tue 09:48]
+
+** TODO Hubspot final setup
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-05-05 Fri 12:56]
+
+*** DONE Finish Segmenting Contacts / Companies
+CLOSED: [2023-06-26 Mon 17:29]
+
+ [2023-05-05 Fri 12:57]
+
+*** CANCELLED Create form for call center to submit directly into hubspot :CANCELLED:
+CLOSED: [2023-06-26 Mon 17:28]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-06-26 Mon 17:28] \\
+  No longer need this
+:END:
+ [2023-05-05 Fri 12:57]
+
+*** HOLD Create Report: Clients vs customers :HOLD:
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "HOLD"       from "NEXT"       [2023-07-31 Mon 11:36] \\
+  Not sure that this is needed anymore
+:END:
+ [2023-05-05 Fri 12:58]
+
+ Client refers us lots of business
+ Customer is a job at a time and we want to convert them.
+ Can we build a report based on contacts for this?
+
+*** TODO Brainstorm hygiene automations (list inside)
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-05-05 Fri 12:59]
+- Remove contacts after lack of engagement
+  - Must have ignored us X times
+- Change lead cycle stage based on number of deals in time frame
+
+*** DONE Confirm if we need anymore hubspot reports fow now (list inside)
+CLOSED: [2023-06-26 Mon 17:28]
+:LOGBOOK:
+- State "DONE"       from "CANCELLED"  [2023-06-26 Mon 17:28]
+:END:
+ [2023-05-05 Fri 13:00]
+
+ REPORTS
+Each person's dashboard should show:
+Sales vs quota per person
+monthly
+quarterly
+yearly
+Sales vs goal per person
+monthly
+quarterly
+yearly
+% existing biz vs. new biz (Pie chart)
+$$ total new vs existing
+% events vs. rentals vs. sales (pie chart)
+$$ total new vs existing
+lost deals by new vs. existing clients
+won deals by new vs. existing clients
+Sales until next commission tier? (Nice To Have)
+
+USEFUL AUTOMATIONS
+contact opportunities
+can HubSpot automatically generate this based on potential? previous sales and not enough contact?
+
+OTHER
+how do we make sure the final invoice amount is recorded in HubSpot if we are using this for tracking?
+new property to record final invoice?
+new stage to record what has been invoiced?
+
+*** CANCELLED Create automated process to pop opportunities into the pipeline :CANCELLED:
+CLOSED: [2023-06-26 Mon 17:27]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-06-26 Mon 17:27] \\
+  No longer doing this
+:END:
+ [2023-05-05 Fri 13:02]
+
+ utilize the /recurring event/ property to populate X months ahead.
+
+*** DONE Create & Manage Workflows
+CLOSED: [2023-10-01 Sun 23:57]
+
+ [2023-05-17 Wed 14:26]
+
+**** DONE Remove do not contact from marketing contact
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-05-17 Wed 15:15>
+:PROPERTIES:
+:Effort:   0:10
+:END:
+
+ [2023-05-17 Wed 14:26]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+**** DONE Make worflow for setting all new contacts as marketing contacts
+CLOSED: [2023-05-17 Wed 14:56] SCHEDULED: <2023-05-17 Wed 15:00>
+:PROPERTIES:
+:Effort:   0:10
+:END:
+:LOGBOOK:
+CLOCK: [2023-05-17 Wed 14:52]--[2023-05-17 Wed 14:56] =>  0:04
+:END:
+ [2023-05-17 Wed 14:27]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+**** DONE Figure out workflow for Cold Lead + George Owns + No Response
+CLOSED: [2023-06-11 Sun 15:45]
+
+ [2023-05-17 Wed 14:28]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+**** DONE Run through existing workflows and rename / organise
+CLOSED: [2023-09-18 Mon 12:10] SCHEDULED: <2023-09-08 Fri>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-18 Mon 11:14]--[2023-09-18 Mon 12:10] =>  0:56
+CLOCK: [2023-08-07 Mon 14:38]--[2023-08-07 Mon 15:55] =>  1:17
+:END:
+
+ [2023-06-27 Tue 09:47]
+
+*** DONE Clean Contact Type property and make it required
+CLOSED: [2023-06-27 Tue 09:36] SCHEDULED: <2023-06-19 Mon 08:00>
+
+ [2023-05-17 Wed 14:29]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+*** DONE Update sales guys on the use of /Other/ as a contact type
+CLOSED: [2023-06-27 Tue 09:36] SCHEDULED: <2023-06-19 Mon>
+
+ [2023-05-17 Wed 14:29]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+*** DONE Clean up George's bulk imports
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-05-17 Wed>
+
+ [2023-05-17 Wed 14:30]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+*** DONE Create our list for this event (cold leads & non cold leads)
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-05-17 Wed>
+
+ [2023-05-17 Wed 14:30]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+*** DONE Figure out how / if we can update the *about* section for hubspot gmail plugin
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-05-18 Thu>
+
+ [2023-05-17 Wed 14:36]
+ [[file:~/Orgfiles/SEAS.org::*with Julie & Zack RE Phil Mershon Speaking Gig][with Julie & Zack RE Phil Mershon Speaking Gig]]
+
+*** TODO Create a hubspot refresher video for people to hit contacts we haven't talked to in a while.
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-06-19 Mon]
+
+*** NEXT Redo hubspot follow up survey as hubspot sequence
+
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-08-14 Mon 08:38]
+
+*** WAITING Create Email notificaiton when hubspot changes dates  :WAITING:
+SCHEDULED: <2023-10-11 Wed 15:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:30
+:END:
+:LOGBOOK:
+- State "WAITING"    from "TODO"       [2023-10-06 Fri 14:39] \\
+  Seeking clarification from Zack on this. [[https://app.asana.com/0/home/1184728527689745/1205565360725748][Asana Link]]
+:END:
+ [2023-10-06 Fri 13:24]
+
+** TODO Update Business Cards
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+:LOGBOOK:
+- State "TODO"       from "WAITING"    [2023-08-03 Thu 13:10]
+- State "WAITING"    from "TODO"       [2023-08-03 Thu 13:10] \\
+  Waiting on Julie/Justin to handle payment
+- State "TODO"       from "WAITING"    [2023-08-01 Tue 21:07]
+:END:
+ [2023-07-31 Mon 11:32]
+
+*** DONE Finish updates to Business Card
+CLOSED: [2023-08-01 Tue 12:17] SCHEDULED: <2023-08-01 Tue 10:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   2:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-07-31 Mon 13:50]--[2023-07-31 Mon 16:23] =>  2:33
+:END:
+ [2023-07-31 Mon 11:37]
+
+ Options:
+ - Julie - 1 & 3
+ - Tyler -  3 & 5
+
+*** DONE Get AI print ready files together for AlphaPrint OS
+CLOSED: [2023-08-01 Tue 15:47] SCHEDULED: <2023-08-01 Tue 14:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-08-01 Tue 12:58]--[2023-08-01 Tue 15:46] =>  2:48
+:END:
+ [2023-08-01 Tue 14:53]
+
+*** DONE Pickup business cards
+CLOSED: [2023-08-07 Mon 10:59] SCHEDULED: <2023-08-07 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "NEXT"       from "WAITING"    [2023-08-03 Thu 14:44]
+- State "WAITING"    from "TODO"       [2023-08-03 Thu 13:11] \\
+  Waiting on payment from julie/justin to go to vendor
+:END:
+ [2023-08-03 Thu 13:10]
+
+*** DONE Go to Alpha Graphics to return cards and see samples
+CLOSED: [2023-08-14 Mon 08:23] SCHEDULED: <2023-08-14 Mon 13:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-10 Thu 10:18]
+
+*** DONE Pickup Business cards from Alpha Graphics
+CLOSED: [2023-08-15 Tue 13:30] SCHEDULED: <2023-08-15 Tue>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-13 Sun 22:26]
+ [[file:~/Orgfiles/SEAS.org::*Update Business Cards][Update Business Cards]]
+
+*** DONE Update Business card design
+CLOSED: [2023-09-18 Mon 09:17] SCHEDULED: <2023-09-11 Mon 10:30>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:45
+:END:
+
+ [2023-09-06 Wed 13:47]
+
+*** DONE Call/Email Alpha Graphics for updated quote
+CLOSED: [2023-10-06 Fri 11:14] SCHEDULED: <2023-10-02 Mon 12:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-01 Sun 23:52]
+
+
+*** DONE Create business cards for all variations
+CLOSED: [2023-10-06 Fri 12:26] SCHEDULED: <2023-10-06 Fri 11:15>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   2:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-06 Fri 11:42]--[2023-10-06 Fri 12:26] =>  0:44
+CLOCK: [2023-10-06 Fri 11:34]--[2023-10-06 Fri 11:41] =>  0:07
+:END:
+ [2023-10-06 Fri 11:15]
+- [X] Troy
+- [X] Jteff
+- [X] Michael
+- [X] Zack
+- [X] Erica
+- [X] Ruben
+- [X] Kyle
+- [X] Tyler
+- [X] Craig
+- [ ] Richard
+
+- 500x
+  - Zack
+  - Troy
+  - Michael
+  - Jeff
+  - Richard
+- 100x
+  - Tyler
+  - Erica
+  - Ruben
+  - Kyle
+  - Craig
+  - Sean
+  - 
+    
+
+*** NEXT Get Num of Cards per pm from Zack
+SCHEDULED: <2023-10-11 Wed 12:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "NEXT"       from "WAITING"    [2023-10-11 Wed 11:22]
+- State "WAITING"    from "TODO"       [2023-10-06 Fri 13:16] \\
+  Waiting on quote from Alpha Graphics
+  [[https://mail.google.com/mail/u/1/#sent/KtbxLvhZgnJPHCxFMzJLldFLHCFFKSPRjB][Last Email]]
+:END:
+ [2023-10-06 Fri 13:15]
+ 
+
+** DONE Eblast Number 1
+CLOSED: [2023-10-11 Wed 11:20]
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-08-02 Wed 11:04]
+
+*** DONE Figure out format for eblast
+CLOSED: [2023-10-06 Fri 12:54] SCHEDULED: <2023-10-02 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-02 Wed 11:05]
+ [[file:~/Orgfiles/SEAS.org::*really good emails][really good emails]]
+
+*** DONE Finalize Eblast
+CLOSED: [2023-10-11 Wed 10:50] DEADLINE: <2023-10-10 Tue -2> SCHEDULED: <2023-10-09 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-06 Fri 13:00]
+
+** DONE Launch the Podcast
+CLOSED: [2023-10-01 Sun 23:57]
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-08-14 Mon 08:29]
+
+*** DONE Get the podcast listed on EPN Journal
+CLOSED: [2023-09-08 Fri 12:01]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-14 Mon 08:30]
+
+https://blog.eventplannernews.com/
+
+*** DONE Create Relevant Podcast posting accounts
+CLOSED: [2023-09-06 Wed 13:54]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-14 Mon 09:12]
+- [ ] Youtube
+- [ ] Vimeo
+- [ ] Apple Podcast
+- [ ] Spotify
+- [ ] 1-2 others
+
+*** DONE Create Page dedicated to podcast
+CLOSED: [2023-09-19 Tue 14:47] SCHEDULED: <2023-09-19 Tue 11:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-19 Tue 10:53]--[2023-09-19 Tue 13:17] =>  2:24
+:END:
+
+ [2023-08-29 Tue 09:52]
+
+*** DONE Upload episode 1 (spotify/apple/youtube)
+CLOSED: [2023-09-07 Thu 10:50] SCHEDULED: <2023-09-06 Wed 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:30
+:END:
+
+ [2023-09-06 Wed 13:55]
+
+*** DONE Get the podcast listed on Phizzpod
+CLOSED: [2023-09-08 Fri 12:01]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 13:58]
+
+[[https://phizzpod.com/][Phizzpod]]
+
+*** DONE Upload teaser to Youtube as a short
+CLOSED: [2023-09-06 Wed 14:09]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:01]
+
+*** DONE Upload Clint Bell Podcast
+CLOSED: [2023-09-20 Wed 17:34] SCHEDULED: <2023-09-20 Wed 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-20 Wed 15:43]--[2023-09-20 Wed 17:34] =>  1:51
+:END:
+ [2023-09-20 Wed 13:21]
+
+** TODO Clear Email
+SCHEDULED: <2023-10-13 Fri .+1w>
+:PROPERTIES:
+:CATEGORY: Task
+:LAST_REPEAT: [2023-10-06 Fri 12:54]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-06 Fri 12:54]
+- State "DONE"       from "TODO"       [2023-09-27 Wed 16:29]
+- State "DONE"       from "TODO"       [2023-09-25 Mon 10:54]
+- State "DONE"       from "TODO"       [2023-09-18 Mon 10:32]
+CLOCK: [2023-09-18 Mon 09:26]--[2023-09-18 Mon 10:32] =>  1:06
+:END:
+
+ [2023-08-14 Mon 08:36]
+
+** DONE Edit Clint Bell Podcast
+CLOSED: [2023-09-05 Tue 11:03] SCHEDULED: <2023-08-29 Tue>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-29 Tue 09:11]
+
+** DONE Confirm next time we need Tacos & update vendor
+CLOSED: [2023-09-06 Wed 13:42] SCHEDULED: <2023-08-30 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-29 Tue 09:12]
+
+** DONE Create Podcast Graphics :Julie:
+CLOSED: [2023-09-06 Wed 13:27]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-29 Tue 09:12]
+
+** DONE Podcast Recording - Angelica Robison
+CLOSED: [2023-09-08 Fri 10:53] SCHEDULED: <2023-09-08 Fri 10:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-08 Fri 09:53]--[2023-09-08 Fri 10:53] =>  1:00
+:END:
+ [2023-09-06 Wed 13:45]
+
+** TODO Podcast Editing
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-09-06 Wed 13:59]
+
+ Ongoing task for editing all podcasts
+
+*** DONE Edit Intro Episode Clips
+CLOSED: [2023-10-11 Wed 11:20]
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-09-06 Wed 14:42]
+
+**** DONE Edit Intro Podcast Clip 2
+CLOSED: [2023-10-06 Fri 16:27] SCHEDULED: <2023-10-06 Fri 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:43]
+
+**** DONE Edit Intro Podcast Clip 3
+CLOSED: [2023-10-06 Fri 16:27] SCHEDULED: <2023-10-06 Fri 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:43]
+
+**** DONE Edit Intro Podcast Clip 4
+CLOSED: [2023-10-06 Fri 16:27] SCHEDULED: <2023-10-06 Fri 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:43]
+
+**** DONE Edit Intro Podcast Clip 5
+CLOSED: [2023-10-06 Fri 16:27] SCHEDULED: <2023-10-06 Fri 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:43]
+
+*** DONE Edit Clint Bell Podcast Clips
+CLOSED: [2023-09-18 Mon 16:30]
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-09-06 Wed 14:44]
+
+**** DONE Edit Clint Bell Podcast Clips
+CLOSED: [2023-09-18 Mon 14:31] SCHEDULED: <2023-09-18 Mon 13:45>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-18 Mon 13:43]--[2023-09-18 Mon 14:31] =>  0:48
+:END:
+
+[2023-09-06 Wed]
+
+**** DONE Edit Clint Bell Podcast Clip 2
+CLOSED: [2023-09-18 Mon 14:30]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-09-06 Wed]
+
+**** DONE Edit Clint Bell Podcast Clip 3
+CLOSED: [2023-09-18 Mon 14:30]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-09-06 Wed]
+
+**** DONE Edit Clint Bell Podcast Clip 4
+CLOSED: [2023-09-18 Mon 14:30]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-09-06 Wed]
+
+**** DONE Edit Clint Bell Podcast Clip 5
+CLOSED: [2023-09-18 Mon 14:30]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+[2023-09-06 Wed]
+
+*** DONE Edit Tina Marie Podcast
+CLOSED: [2023-09-08 Fri 15:11] SCHEDULED: <2023-09-08 Fri 12:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-08 Fri 12:33]--[2023-09-08 Fri 15:11] =>  2:38
+:END:
+ [2023-08-29 Tue 09:11]
+
+*** TODO Edit Phil Mershon Podcast
+SCHEDULED: <2023-10-16 Mon 13:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:54]
+
+*** DONE Transfer Angelica Robison Footage
+CLOSED: [2023-09-08 Fri 16:30] SCHEDULED: <2023-09-08 Fri 15:10>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-08 Fri 15:11]--[2023-09-08 Fri 16:30] =>  1:19
+:END:
+ [2023-09-08 Fri 15:11]
+
+*** TODO Edit Lasso Podcast
+SCHEDULED: <2023-10-16 Mon 10:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-13 Fri 11:13]--[2023-10-13 Fri 14:09] =>  2:56
+:END:
+ [2023-10-11 Wed 11:19]
+
+
+** TODO PCMA Event Nov 17th (In Studio)
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
+ [2023-09-06 Wed 14:41]
+*** PCMA Event Notes                                                 :NOTE:
+ - Link to sizzle: [[https://www.youtube.com/watch?v=okJBr9ngEIs][Link]]
+**** Agenda                                                           
+- Date: Friday, November 17th, 2023
+- Timing:
+ - 9:00 AM Networking and Light Refreshments
+ - 9:30 AM Welcome & Housekeeping
+ - 10:00 AM Carolyn Stern's Presentation "The Emotionally Strong Leader"
+ - 11:00 AM Closing Remarks & Networking
+ - 12:00 PM End of Programming
+   
+
+*** DONE Confirm Taco Vendor for 11/17
+CLOSED: [2023-09-18 Mon 10:33] SCHEDULED: <2023-09-13 Wed 13:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:48]
+
+*** DONE Plan taco tuesday during marketing meeting
+CLOSED: [2023-09-14 Thu 12:03] SCHEDULED: <2023-09-13 Wed 10:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:49]
+
+** DONE Prep Podcast room and perform a tech check
+CLOSED: [2023-09-08 Fri 10:57] SCHEDULED: <2023-09-07 Thu 13:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:51]
+
+** DONE Transfer / Confirm footage from drives
+CLOSED: [2023-09-27 Wed 11:21] SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-20 Wed 13:59]--[2023-09-20 Wed 14:00] =>  0:01
+:END:
+
+ [2023-09-06 Wed 14:54]
+
+** DONE Clean Desk up
+CLOSED: [2023-09-25 Mon 10:54] SCHEDULED: <2023-09-21 Thu>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-06 Wed 14:55]
+
+** DONE Create forms for podcast page
+CLOSED: [2023-09-20 Wed 13:22] SCHEDULED: <2023-09-19 Tue 14:50>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-09-19 Tue 14:47]
+
+** DONE Deactiveate geoge's leads and kill contact amount upgrade
+CLOSED: [2023-10-11 Wed 11:21] SCHEDULED: <2023-10-09 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-09-18 Mon 09:25]
+  
+** DONE Transfer Powur Footage
+CLOSED: [2023-09-12 Tue 17:19] SCHEDULED: <2023-09-12 Tue>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-12 Tue 10:51]--[2023-09-12 Tue 11:51] =>  1:00
+:END:
+ [2023-09-12 Tue 10:37]
+
+** DONE Add MPI logo and link to website on our website
+CLOSED: [2023-10-06 Fri 11:15] SCHEDULED: <2023-10-02 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-08 Fri 14:01]
+
+** DONE Plan the day/week
+CLOSED: [2023-09-20 Wed 13:40] SCHEDULED: <2023-09-20 Wed 13:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-20 Wed 13:22]--[2023-09-20 Wed 13:40] =>  0:18
+:END:
+ [2023-09-20 Wed 13:22]
+
+** DONE Setup Zapier  Hubspot -> Lasso mapping 
+CLOSED: [2023-10-06 Fri 11:13] SCHEDULED: <2023-10-02 Mon 11:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-02 Mon 11:19]--[2023-10-02 Mon 15:25] =>  4:06
+CLOCK: [2023-09-20 Wed 14:41]--[2023-09-20 Wed 15:43] =>  1:02
+:END:
+ [2023-09-20 Wed 13:35]
+
+*** 1. New deal property change
+*** 2. Get deal in hubspot
+*** 3. get deal - company associations
+*** 4. get associated Companies
+*** 5.  to fetch client and venue
+*** 6. Get Client
+*** 7. Get Venue
+*** 8. Get Deal -  contact associations
+*** 9.  to fetch account manager
+*** 10. get account manager
+*** 11. Format Event start
+*** 12. format event end
+*** 13. Create event in lasso** DONE Update Podcast page
+CLOSED: [2023-10-01 Sun 23:58]
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2023-09-20 Wed 13:36]
+*** DONE Fix Troy's image
+CLOSED: [2023-09-25 Mon 10:54] SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+[2023-09-20 Wed 13:38]
+*** DONE Readjust page to be more clean / inline with the other pages
+CLOSED: [2023-09-25 Mon 10:54] SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+[2023-09-20 Wed 13:38]
+** DONE Help Ryan with Ap Install
+CLOSED: [2023-09-25 Mon 16:37] SCHEDULED: <2023-09-25 Mon 12:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-25 Mon 13:00]--[2023-09-25 Mon 16:37] =>  3:37
+:END:
+ [2023-09-25 Mon 10:52]
+
+** DONE Transfer Dacing with our stars footage                       :Julie:
+CLOSED: [2023-10-02 Mon 10:45] SCHEDULED: <2023-10-02 Mon>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-09-27 Wed 11:05]
+
+** DONE Update Vendor Agreement documents on seas wbsite
+CLOSED: [2023-09-27 Wed 11:30] SCHEDULED: <2023-09-27 Wed 11:21>
+:LOGBOOK:
+CLOCK: [2023-09-27 Wed 11:22]--[2023-09-27 Wed 11:30] =>  0:08
+:END:
+
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-09-27 Wed 11:21]
+
+** DONE Prep for Marketing Meeting
+CLOSED: [2023-09-27 Wed 14:14] SCHEDULED: <2023-09-27 Wed 12:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-09-27 Wed 11:33]
+
+** DONE Plan The Day
+CLOSED: [2023-10-02 Mon 11:18] SCHEDULED: <2023-10-02 Mon 10:45>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-02 Mon 10:41]--[2023-10-02 Mon 11:18] =>  0:37
+CLOCK: [2023-10-02 Mon 10:41]--[2023-10-02 Mon 10:41] =>  0:00
+:END:
+ [2023-10-01 Sun 23:58]
+
+** TODO Awards Option
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-03 Tue 13:24]
+ 
+- The Telly award  - [[https://www.tellyawards.com][Link]]
+- Resreach some additional ones
+- Avixxa
+- 
+** DONE Transfer Files for Nick/Brandis (Sendlane)
+CLOSED: [2023-10-06 Fri 17:07] SCHEDULED: <2023-10-06 Fri>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-06 Fri 14:47]--[2023-10-06 Fri 14:50] =>  0:03
+CLOCK: [2023-10-06 Fri 12:34]--[2023-10-06 Fri 12:51] =>  0:17
+:END:
+ [2023-10-06 Fri 12:28]
+- 974 GB free
+** DONE Weekly Review & Planning 
+CLOSED: [2023-10-06 Fri 13:29] SCHEDULED: <2023-10-06 Fri 13:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-06 Fri 12:57]--[2023-10-06 Fri 13:29] =>  0:32
+:END:
+ [2023-10-06 Fri 12:56]
+
+** DONE Add previous month ebay sales in hubspot
+CLOSED: [2023-10-06 Fri 15:15] SCHEDULED: <2023-10-06 Fri 15:10>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "NEXT"       from "WAITING"    [2023-10-06 Fri 15:07]
+CLOCK: [2023-10-06 Fri 15:07]--[2023-10-06 Fri 15:15] =>  0:08
+- State "WAITING"    from "TODO"       [2023-10-06 Fri 13:33] \\
+  Email sent to Justin. Waiting on reply with values
+CLOCK: [2023-10-06 Fri 13:29]--[2023-10-06 Fri 13:34] =>  0:05
+:END:
+ [2023-10-06 Fri 13:24]
+ - June?
+ - Aug
+ - Sep
+
+** DONE Clean up meeting notes and save on google drive. 
+CLOSED: [2023-10-06 Fri 14:04] SCHEDULED: <2023-10-06 Fri 13:35>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-06 Fri 13:35]--[2023-10-06 Fri 14:04] =>  0:29
+:END:
+ [2023-10-06 Fri 13:33]
+
+** NEXT Figure out Form Submission issue (Not Sending to Troy)
+SCHEDULED: <2023-10-11 Wed 14:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+ [2023-10-06 Fri 14:05]
+
+** TODO Kill extra contact tier with hubspot
+SCHEDULED: <2023-10-17 Tue 10:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-11 Wed 11:21]
+
+** DONE Create an auto-play for the vimeo video for flyer
+CLOSED: [2023-10-11 Wed 12:09] SCHEDULED: <2023-10-11 Wed 11:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-11 Wed 11:28]--[2023-10-11 Wed 12:09] =>  0:41
+:END:
+ [2023-10-10 Tue 15:12]
+*
+
+** DONE Transfer Powur footage to server
+CLOSED: [2023-10-11 Wed 11:30]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+Clock: [2023-10-10 Tue 13:00]--[2023-10-10 Tue 13:30] =>  0:30
+:END:
+ [2023-10-11 Wed 11:28]
+
+** DONE Transfer Customer Care Footage
+CLOSED: [2023-10-11 Wed 12:55]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-11 Wed 12:14]--[2023-10-11 Wed 12:20] =>  0:06
+:END:
+ [2023-10-11 Wed 12:14]
+
+** TODO Go over Lasso push with Zack
+SCHEDULED: <2023-10-13 Fri 15:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-11 Wed 12:55]
+
+** TODO Update Sales@seaspro
+SCHEDULED: <2023-10-18 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-10-13 Fri 11:29]
+Confirm with Zack and Troy but most likely we'll convert sales@seaspro into sales-archive@seaspro and setup sales@seaspro.com as a group that forwards to just Zack an Troy
+* Reminders
+:PROPERTIES:
+:CATEGORY: Reminder
+:END:
+
+** Weekly Marketing Meeting  13:00-14:00
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-19 Wed 11:20
+:ARCHIVE_FILE: ~/Orgfiles/SEAS.org
+:ARCHIVE_OLPATH: Reminders
+:ARCHIVE_CATEGORY: Reminder
+:ARCHIVE_ITAGS: SEAS Reminder
+:END:
+
+  <%%(memq(calendar-day-of-week date) '(3))>
+:PROPERTIES:
+:Effort:   1:00
+:END:
+
+** Weekly Catch Up 13:00-14:00
+
+ [2023-07-31 Mon 10:50]
+ <%%(memq (calendar-day-of-week date) '(1))>  
+
+* Meetings
+:PROPERTIES:
+:CATEGORY: Meeting
+:END:
+
+** MEETING with Marketing Team :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-06 Wed 09:59]--[2023-09-06 Wed 11:17] =>  1:18
+:END:
+[2023-09-06 Wed 09:59]
+
+*** Podcast
+
+- Release night before - post next morning 6am
+- Title card - direct people to website: Learn more @ seaspro.com end plate 
+
+**** Recording
+
+- Angelica 
+
+*** California society of Association Executives - Dec 12th & 13th
+**** Podcast room live on the floor
+**** Going over this next week
+*** Eblast
+**** Decide date
+*** University talk free with recording
+*** Lasso -
+** MEETING with Ryan - IT Updates :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-11 Mon 10:55]--[2023-09-11 Mon 11:26] =>  0:31
+:END:
+[2023-09-11 Mon 11:25]
+
+*** Agenda
+
+- Server syncing
+- Wifi Issues
+
+** MEETING with  Marketing Meeting                                 :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-13 Wed 09:59]--[2023-09-13 Wed 10:58] =>  0:59
+:END:
+[2023-09-13 Wed 09:58]
+**** Eblast
+- Oct 10th
+- Mock up something
+***** Content
+****** Podcast launch ref to 2 existing episdos + new one coming
+******* website page
+******* Direct links to the individual podcasts
+****** Troy's Intro new member
+Experience focus
+****** PCMA Event - Troy's talk or someone else
+******* November 17th is the date
+******* When are we doing it time wise?
+
+** MEETING with Marketing                                          :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-20 Wed 10:00]--[2023-09-20 Wed 11:13] =>  1:13
+:END:
+[2023-09-20 Wed 09:59]
+
+*** Booth discussion
+**** Lapel mic check with Erica
+**** Test 10x10 booth setup
+**** Need video for TV
+***** Figure out TV question
+**** Hand out -> QR code taking to video
+***** Need vids to link to
+***** 
+**** Call to action to visit the booth.
+***** gift card
+*** Moving the meeting
+**** Move to 1pm on wed. 
+**** Add # of visits and unique visitors. 
+*** business cards
+*** Push off linkedin consultant to 2024
+*** PCMA event
+**** Friday morning 17th
+**** 
+** MEETING with Lasso (zoom)                                       :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-14 Thu 13:00]--[2023-09-14 Thu 13:28] =>  0:28
+:END:
+[2023-09-14 Thu 13:00]
+
+Went through lasso setup and got zapier connection operational. Need to finish up proper data connections
+** MEETING with Jeff (random google meet)                          :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-20 Wed 14:19]--[2023-09-20 Wed 14:40] =>  0:21
+:END:
+[2023-09-20 Wed 14:19]
+** MEETING with Managers Meeting                                   :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-21 Thu 11:18]--[2023-09-21 Thu 12:12] =>  0:54
+:END:
+[2023-09-21 Thu 11:18]
+*** Marketing recap/overview
+**** Podcast
+-  Podcast episode 2 just release
+-  several more in the bank while we update/rebuild the podcast room
+-  Designing a mobile podcast for CalSAE - California society of association executives - including partnership with Ben from Expressive Structures
+**** Cal SAE IN person
+- Headed to the convention with Jeff and Troy
+- Setting up our booth as a podcast record station
+- Partnering with CalSAE to provide some additoinal content coverage of theshow
+**** Physical Marketing Materials on the way
+- 2 postcard sized flyers 1 for studio 1 for events
+- Business Cards
+- Lanyards?
+**** IT Updates
+- Monday Ryan is coming in we'll be working on improving the wifi and moving the phsyical locaton of the barcode printer
+- Finalizing and testing the hubspot -> lasso bridge this week. Its a little more technically involved than I first anticipated.
+**** Reminders
+- Spotlight cards (Julie shared the digital version)
+- If you need linkedin help for tweaking please let us know.
+- 
+**** Follow Ups
+- Update office file
+- 
+**** push out that we need people
+** MEETING with Weekly Marketing Meeting                           :MEETING:
+:LOGBOOK:
+CLOCK: [2023-09-27 Wed 12:55]--[2023-09-27 Wed 13:40] =>  0:45
+:END:
+[2023-09-27 Wed 12:55]
+
+*** Updates
+*** Troy in town:
+**** Earliest oct 9th
+**** 
+*** NEWS Letter oct 10th
+*** Update the podcast video endto push forward to next episode
+*** Update upadtes
+*** PCMA - Cvent registration platform to share (social & eblast)
+**** Tease the date
+**** Tour our space see the studio
+**** Open Registration but it does cost like $20
+*** Record Troy's talk. 
+*** PM Training Program
+
+** MEETING with 10/4/23 Marketing Meeting                          :MEETING:
+:LOGBOOK:
+CLOCK: [2023-10-04 Wed 12:55]--[2023-10-04 Wed 14:35] =>  1:40
+:END:
+[2023-10-04 Wed 12:55]
+*** Recap from Last Meeting
+/This will start happening in the future now that I'm locking in a format for our meeting notes/
+*** Questions
+/This will start happening in the future now that I'm locking in a format for our meeting notes/
+*** Notes
+**** Eblast
+  - Need to finalize by Monday.
+  - Still waiting on registration link so we can include..
+**** Record Troy's Speech
+***** Use this to send invites for Troy to do speaking events.
+***** Use PCMA event set
+***** Upcoming and Potential Speaking Events
+- PCMA Annual meeting in Jan @ San Diego Convention Center
+- The Special Event - February
+- Avixa - June
+- CalSEA
+- MPI
+*** Takaway Tasks
+**** Julie
+- Finalize postcards and order (needed by 10/18)
+- Check on backstage pass timing
+- Find furniture for CalSEA booth
+- Set aside time to scour linkedin for event planners (engage on content and flag any potential podcast guests)
+- Spin up new content formats
+  - Freelancer Spotlights
+  - Staff Spotlights
+  
+  
+**** Tyler
+- Business cards
+  - Confirm # needed for PMS
+  - Finalize Designs with each persons name
+  - Obtain quote and submit designs
+- Finalize Eblast
+  - Make final version
+  - Verify on mobile and desktop
+  - Verify links
+- Order 1 pelican for calsea
+- Make a reminder to geotag SD for PCMA annual meeting
+- Setup video link for flyer QR code
+  
+**** Troy
+- Order 100sqft of carpet
+** MEETING with 10/11/2023 Marketing Meeting                       :MEETING:
+:LOGBOOK:
+CLOCK: [2023-10-11 Wed 12:57]--[2023-10-11 Wed 13:38] =>  0:41
+:END:
+[2023-10-11 Wed 12:57]
+*** Recap From Last week
+
+**** Questions
+/This will start happening in the future now that I'm locking in a format for our meeting notes/
+**** Notes
+***** Eblast
+  - Need to finalize by Monday.
+  - Still waiting on registration link so we can include..
+***** Record Troy's Speech
+****** Use this to send invites for Troy to do speaking events.
+****** Use PCMA event set
+****** Upcoming and Potential Speaking Events
+- PCMA Annual meeting in Jan @ San Diego Convention Center
+- The Special Event - February
+- Avixa - June
+- CalSEA
+- MPI
+**** Takaway Tasks
+***** Julie
+- Finalize postcards and order (needed by 10/18)
+- Check on backstage pass timing
+- Find furniture for CalSEA booth
+- Set aside time to scour linkedin for event planners (engage on content and flag any potential podcast guests)
+- Spin up new content formats
+  - Freelancer Spotlights
+  - Staff Spotlights
+    
+***** Tyler
+- Business cards
+  - Confirm # needed for PMS
+  - Finalize Designs with each persons name
+  - Obtain quote and submit designs
+- Finalize Eblast
+  - Make final version
+  - Verify on mobile and desktop
+  - Verify links
+- Order 1 pelican for calsea
+- Make a reminder to geotag SD for PCMA annual meeting
+- Setup video link for flyer QR code
+  
+***** Troy
+ - Order 100sqft of carpet
+*** This week
+**** Questions
+- When should eblast (2nd week of jan, Jan 9th)
+**** Notes
+***** Meet next week re:  CalSEA
+- Dedicated follow up email focused on events
+- Podcast recordings next week
+**** Takaway Tasks
+***** Tyler
+- Get with Ben & get walls printed
+- add next year's deliverables to next meeting
+- Move into new office
+- Final podcast update edits
+- 
+* Event
+:PROPERTIES:
+:CATEGORY: Event
+:END:
+
+* Phone Calls
+:PROPERTIES:
+:CATEGORY: phone
+:END:
+
+** Text kyle
+* Ongoing
+*** Break Time
+:LOGBOOK:
+CLOCK: [2023-10-06 Fri 14:15]--[2023-10-06 Fri 14:33] =>  0:18
+
+:END:

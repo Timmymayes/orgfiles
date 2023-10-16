@@ -1,0 +1,41 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/tyler/Orgfiles/odin.org
+
+
+* DONE TicTacToe
+CLOSED: [2023-05-06 Sat 12:48]
+:PROPERTIES:
+:CATEGORY: odin
+:ARCHIVE_TIME: 2023-07-03 Mon 14:13
+:ARCHIVE_FILE: ~/Orgfiles/odin.org
+:ARCHIVE_OLPATH: Odin
+:ARCHIVE_CATEGORY: odin
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: PERSONAL @home
+:END:
+
+** DONE [#B] Reassess the project and build out project
+CLOSED: [2023-02-28 Tue 07:35] DEADLINE: <2023-01-22 Sun> SCHEDULED: <2023-01-20 Fri>
+:LOGBOOK:
+- State "DONE"       from "CANCELLED"  [2023-02-28 Tue 07:35]
+:END:
+ [2022-12-12 Mon 09:30]
+
+
+
+
+
+** DONE Add player name entry
+CLOSED: [2023-05-05 Fri 11:30]
+ [2023-02-28 Tue 07:34]
+
+** CANCELLED Add an AI                                           :CANCELLED:
+CLOSED: [2023-05-05 Fri 11:30]
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-05 Fri 11:30] \\
+  Not gonna do this now.
+:END:
+ [2023-02-28 Tue 07:35]
+

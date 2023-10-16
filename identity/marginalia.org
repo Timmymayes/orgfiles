@@ -1,0 +1,71 @@
+
+* mindset-and-identity
+:PROPERTIES:
+:org-remark-file: mindset-and-identity.org
+:END:
+
+** I AM...
+
+** My Name is Tyler 
+
+** * My Name is Tyler I AM...
+:PROPERTIES:
+:org-remark-beg: 84
+:org-remark-end: 110
+:org-remark-id: 59cd9ca4
+:org-remark-label: orange-fg
+:org-remark-link: [[file:mindset-and-identity.org::4]]
+:END:
+
+** * Mindset & Identity Sculpting
+
+** * Mindset & Identity Sculpting
+
+** * Mindset & Identity Sculpting
+:PROPERTIES:
+:org-remark-beg: 1
+:org-remark-end: 31
+:org-remark-id: 6ca87df2
+:org-remark-label: blue-bg
+:org-remark-link: [[file:mindset-and-identity.org::1]]
+:END:
+
+** * Mindset & Identity Sculpting
+:PROPERTIES:
+:org-remark-beg: 1
+:org-remark-end: 31
+:org-remark-id: 7a1d20be
+:org-remark-label: blue-bg
+:org-remark-link: [[file:mindset-and-identity.org::1]]
+:END:
+
+** * Mindset & Identity Sculpting
+:PROPERTIES:
+:org-remark-beg: 1
+:org-remark-end: 31
+:org-remark-id: fd332e9e
+:org-remark-label: light-blue-bg
+:org-remark-link: [[file:mindset-and-identity.org::1]]
+:END:
+
+** Current Focus
+
+** Focus
+
+**  Current Focus
+:PROPERTIES:
+:org-remark-beg: 113
+:org-remark-end: 127
+:org-remark-id: eccf5263
+:org-remark-label: pink-fg
+:org-remark-link: [[file:mindset-and-identity.org::5]]
+:END:
+
+** Not in Focus
+:PROPERTIES:
+:org-remark-beg: 425
+:org-remark-end: 437
+:org-remark-id: a9cac8eb
+:org-remark-label: grey-fg
+:org-remark-link: [[file:mindset-and-identity.org::21]]
+:END:

@@ -1,0 +1,102 @@
+* Goals
+- Pay off debt
+- Increase income/revenue
+- build poker bankroll
+- become as frugal as possible.
+* Quick overview of my income and bills
+- Income: 2038.35x2 = 4076.7
+
+  #+Title Budget
+  | Item            | Amount | Category       | Rolling Total |
+  |-----------------+--------+----------------+---------------|
+  | Rent            | $1400  | Housing        | $2676         |
+  | Car payment     | $317   | Transportation | $2359         |
+  | Fuel            | $120   | Transportation | $2239         |
+  | Cox             | $35    | Utilities      | $2204         |
+  | Groceries       | $200   | Food           | $2004         |
+  | SDGE            | $100   | Utilities      | $1904         |
+  | Youtube         | $10    | Recurring      | $1894         |
+  | Car Insurance   | $98    | Transportation | $1796         |
+  | CC Interest     | $100   | DEBT           | $1696         |
+  | Paypal          | $150   | DEBT           | $1546         |
+  | CC Payment      | $300   | DEBT           | $1246         |
+  | Notion          | $5     | Recurring      | $1241         |
+  | Project Fi      | $110   | Utilities      | $1130         |
+  | Paypal Interest | $30    | DEBT           | $1100         |
+
+
+#+Title Check 1
+| Item      | Amount | remaining |
+|-----------+--------+-----------|
+| rent      |   1450 |       590 |
+| CC        |    320 |       260 |
+| FI        |     50 |       150 |
+| Paypal    |     40 |       110 |
+| Gas       |     50 |        60 |
+| Groceries |     60 |         0 |
+|-----------+--------+-----------|
+| Total     |   1970 |           |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+#+Title Check 2
+| item      | Amount | Remainint |
+|-----------+--------+-----------|
+| cpap      |     70 |      1970 |
+| gas       |    100 |      1870 |
+| grocery   |    120 |      1750 |
+| software  |     15 |      1735 |
+| sdge      |    231 |     $1315 |
+| cox       |     70 |     $1280 |
+| car insur |    100 |     $1180 |
+|-----------+--------+-----------|
+| Total     |    706 |           |
+#+TBLFM: @>$2=vsum(@I..@II)
+Looks like if i am smart I can potentially have an extra $1k every month that could go towards poker bankroll + debt payback. 
+- 2676
+
+#+Title Check 1p
+| Item      | Amount | remaining |
+|-----------+--------+-----------|
+| rent      |   1450 |       590 |
+| FI        |     60 |       150 |
+| Gas       |     50 |        60 |
+| Groceries |     60 |         0 |
+| CC avail  |     27 |           |
+|-----------+--------+-----------|
+| Total     |   1647 |           |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+#+Title Check 2
+| item      | Amount | Remainint |
+|-----------+--------+-----------|
+| gas       |    100 | 1870      |
+| grocery   |    120 | 1750      |
+| software  |     15 | 1735      |
+| sdge      |    120 | $1315     |
+| cox       |     70 | $1280     |
+| car insur |    100 | $1180     |
+|-----------+--------+-----------|
+| Total     |    525 |           |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+
+If i pay all of my grocery and gas to my cc and can spend under target I'll be able to wittle a bit off there.
+
+*** October
+**** Payoff targets
+- Car
+- Simple Loan
+- Phone + max $40 per month based on data
+  
+*** November
+Available after previous month for payoffs1400
+**** Payoff targets
+- Paypal
+*** December
+Available after premious month payoffs $1500
+**** Payoff targets
+- CC
+
+
+
+#+Title Monthly

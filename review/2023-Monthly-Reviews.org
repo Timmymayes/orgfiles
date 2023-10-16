@@ -1,0 +1,268 @@
+#+FILETAGS: 2023
+* January                                                               :Jan:
+** Overview
+
+#+NAME: Looking Forward
+|-------------------------------------------+---|
+| What would make this month truly awesome? |   |
+| Theme                                     |   |
+|-------------------------------------------+---|
+
+#+NAME: Looking Backward
+|---------------+---|
+| Gratitude     |   |
+| Wins / Highs  |   |
+| Losses / Lows |   |
+| Learnings     |   |
+
+
+** Review
+- [ ] Review Month's Action Items (='C-c a spc'= ~Then filter for~ =done=)
+- [ ] Review Accomplishments (='C-c w'= ~Then filter for~ =<curmonth>=)
+- [ ] Review Dissapointments  (='C-c w'= ~Then filter for~ =<curmonth>=)
+
+** Assessment
+*** Breakthroughs                                            :Breakthrough:
+**** 
+*** Discoveries                                                  :Disovery:
+**** 
+*** Activiites                                                   :Activity:
+**** 
+*** Improvements                                              :Improvement:
+**** 
+
+** Pillars
+/Review & Update/
+- [ ] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [ ] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [ ] Review Performance (check habit's in agenda)
+- [ ] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+
+** Pipelines
+*** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [ ] Mark any /Completed/ goals as done
+- [ ] Update Goal Timelines (Dates & Quarters)
+- [ ] Any new goals to add?
+  
+*** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [ ] Review / Update Status's
+- [ ] Update Review Dates (Deadline)
+- [ ] Update otucome/goal for each project
+- [ ] Prioritize Projects
+- [ ] Update next actions to reflect above
+
+
+** Vaults
+- [ ] Import any errant hand written notes into Roam
+- [ ] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+** Bookkeeping
+- [ ] Reconcile and fully update Ledger ([[file:~/Ledgers/2023.ledger][Ledger]])
+- [ ] Plan next months money usage
+* February                                                              :Feb:
+** Overview
+
+#+NAME: Looking Forward
+|-------------------------------------------+----------------------|
+| What would make this month truly awesome? | Spend time with jess |
+| Theme                                     | Rebuilding           |                                           |                      |
+|-------------------------------------------+----------------------|
+
+#+NAME: Looking Backward
+|---------------+---|
+| Gratitude     |   |
+| Wins / Highs  |   |
+| Losses / Lows |   |
+| Learnings     |   |
+
+
+** Review
+- [ ] Review Month's Action Items (='C-c a spc'= ~Then filter for~ =done=)
+- [ ] Review Accomplishments (='C-c w'= ~Then filter for~ Feb)
+- [ ] Review Dissapointments  (='C-c w'= ~Then filter for~ Feb)
+
+** Assessment
+*** Breakthroughs                                            :Breakthrough:
+**** 
+*** Discoveries                                                  :Disovery:
+**** 
+*** Activiites                                                   :Activity:
+**** 
+*** Improvements                                              :Improvement:
+**** 
+
+** Pillars
+/Review & Update/
+- [ ] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [ ] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [ ] Review Performance (check habit's in agenda)
+- [ ] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+
+** Pipelines
+*** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [ ] Mark any /Completed/ goals as done
+- [ ] Update Goal Timelines (Dates & Quarters)
+- [ ] Any new goals to add?
+  
+*** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [ ] Review / Update Status's
+- [ ] Update Review Dates (Deadline)
+- [ ] Update otucome/goal for each project
+- [ ] Prioritize Projects
+- [ ] Update next actions to reflect above
+
+
+** Vaults
+- [ ] Import any errant hand written notes into Roam
+- [ ] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+** Bookkeeping
+- [ ] Reconcile and fully update Ledger ([[file:~/Ledgers/2023.ledger][Ledger]])
+- [ ] Plan next months money usage
+* March                                                                 :Mar:
+* April                                                                 :Apr:
+* May                                                                   :May:
+** Overview
+
+#+NAME: Looking Forward
+|-------------------------------------------+-----------------------------------------|
+| What would make this month truly awesome? | Get a full reboot on everything rolling |
+| Theme                                     | Reset and reboot                        |
+|-------------------------------------------+-----------------------------------------|
+
+#+NAME: Looking Backward
+|---------------+---|
+| Gratitude     |   |
+| Wins / Highs  |   |
+| Losses / Lows |   |
+| Learnings     |   |
+
+
+** Review
+- [ ] Review Month's Action Items (='C-c a spc'= ~Then filter for~ =done=)
+- [ ] Review Accomplishments (='C-c w'= ~Then filter for~ )
+- [ ] Review Dissapointments  (='C-c w'= ~Then filter for~ )
+
+** Assessment
+*** Breakthroughs                                            :Breakthrough:
+**** 
+*** Discoveries                                                  :Disovery:
+**** 
+*** Activiites                                                   :Activity:
+**** 
+*** Improvements                                              :Improvement:
+**** 
+
+** Pillars
+/Review & Update/
+- [ ] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [ ] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [ ] Review Performance (check habit's in agenda)
+- [ ] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+
+** Pipelines
+*** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [ ] Mark any /Completed/ goals as done
+- [ ] Update Goal Timelines (Dates & Quarters)
+- [ ] Any new goals to add?
+  
+*** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [ ] Review / Update Status's
+- [ ] Update Review Dates (Deadline)
+- [ ] Update otucome/goal for each project
+- [ ] Prioritize Projects
+- [ ] Update next actions to reflect above
+
+
+** Vaults
+- [ ] Import any errant hand written notes into Roam
+- [ ] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+** Bookkeeping
+- [ ] Reconcile and fully update Ledger ([[file:~/Ledgers/2023.ledger][Ledger]])
+- [ ] Plan next months money usage
+* June                                                                  :Jun:
+* July                                                                  :Jul:
+** Overview
+
+#+NAME: Looking Forward
+|-------------------------------------------+-----------------------|
+| What would make this month truly awesome? | Get Moved and settled |
+| Theme                                     | New Beginnings        |
+|-------------------------------------------+-----------------------|
+
+
+*** Gratitude
+Grateful for steady job and no pay cuts
+
+*** Highs / Wins
+- Things are going great at work with the on-boarding of Troy. Zack is a bit more out of my hair and marketing is rolling forward.
+- Really dialing in my emacs configs, workflows etc and learning more lisp.
+- Feel like I'm getting a fresh start on health, habits etc
+- Got CPAP machine so I can start sleeping proper
+- Bagged & Boarded is getting closer and closer to the kickstarter timing
+
+*** Lows /  Losses
+- Poker bankroll wiped out due to downswing and IRL expense (moving)
+- First month of breakup. Hit by random sadness / awkwardness
+- Not enough time/tasks are logged. 
+  
+*** Learnings
+- I need to fight tooth and nail to not let myself put things off and just get them done.
+- I have time. I have a future outside of the failing relationship
+
+
+** Review
+- [X] Review Month's Action Items (='C-c a spc'= ~Then filter for~ =done=)
+- [X] Review Accomplishments (='C-c w'= ~Then filter for~ )
+- [X] Review Dissapointments  (='C-c w'= ~Then filter for~ )
+
+*** Assessment
+**** Breakthroughs                                          :Breakthrough:
+***** Finally started knocking rust off of habits. I'm nto perfect but I've hit a few days. 
+**** Discoveries                                                :Disovery:
+***** Proper CPAP usage might save me quite a bit of time. But I need to get my circadian rythmns on point and diet/exercise.
+**** Activiites                                                 :Activity:
+***** Moved into new apartment
+**** Improvements                                            :Improvement:
+***** 
+
+*** Pillars & Habits
+/Review & Update/
+- [X] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [X] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [X] Review Performance (check habit's in agenda)
+- [X] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+
+*** Pipelines
+**** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [X] Mark any /Completed/ goals as done
+- [X] Update Goal Timelines (Dates & Quarters)
+- [X] Any new goals to add?
+  
+**** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [X] Review / Update Status's
+- [X] Update Review Dates (Deadline)
+- [X] Update otucome/goal for each project
+- [X] Prioritize Projects
+- [X] Update next actions to reflect above
+
+
+*** Vaults
+- [X] Import any errant hand written notes into Roam
+- [X] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+*** Bookkeeping
+- [X] Reconcile and fully update Ledger ([[file:~/Orgfiles/Ledgers/2023.ledger][Ledger]])
+- [X] Plan next months money usage* August                                                                :Aug:
+
+* August                                                                :Aug:
+
+* September                                                             :Sep:
+* October                                                               :Oct:
+* November                                                              :Nov:
+* December                                                              :Dec:

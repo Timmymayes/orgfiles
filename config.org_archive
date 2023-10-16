@@ -1,0 +1,254 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/tyler/Orgfiles/config.org
+
+
+* DONE Figure out how to fix org-roam on windows
+CLOSED: [2022-12-20 Tue 14:34]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-14 Sat 13:05
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Org
+:ARCHIVE_CATEGORY: config
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: PERSONAL TOOLS
+:END:
+ [2022-12-16 Fri 14:16]
+
+
+* DONE Archiving test. 
+CLOSED: [2023-01-22 Sun 21:46] SCHEDULED: <2022-11-16 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-27 Fri 10:32
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: config
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: PERSONAL TOOLS
+:END:
+ [2023-01-22 Sun 20:57]
+
+
+* DONE Write a function or macro to collect links to org-roam files from a date range then paste them all for my weekly review. 
+CLOSED: [2023-01-22 Sun 19:57] SCHEDULED: <2023-01-22 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-27 Fri 10:33
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: config
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: PERSONAL TOOLS
+:END:
+ [2023-01-18 Wed 09:36]
+
+
+
+* DONE Syncing                                                    
+CLOSED: [2023-05-06 Sat 12:48]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-03 Mon 14:13
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+** DONE Figure out how to sync my yas-snippets
+CLOSED: [2023-05-05 Fri 11:32]
+
+* DONE Setup use-package for dired-hide-dotfiles
+CLOSED: [2023-06-08 Thu 15:10]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-01 Tue 18:14
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+This is for fresh installs. It's currently not using use package for dired-hide-dot-files-mode
+
+* DONE Update my config to include holiday and anniversary icons
+CLOSED: [2023-06-10 Sat 12:50] SCHEDULED: <2023-06-10 Sat 12:45>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-08-01 Tue 18:14
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 12:46]--[2023-06-10 Sat 12:50] =>  0:04
+:END:
+ [2023-06-08 Thu 17:12]
+ [[file:~/RoamNotes/20230127095420-custom_agenda.org::*Full Configs][Full Configs]]
+
+
+* DONE Unify my Linux and Windows configs
+CLOSED: [2023-06-10 Sat 17:15] SCHEDULED: <2023-06-10 Sat 13:30>
+:PROPERTIES:
+:Effort:   4:00
+:ARCHIVE_TIME: 2023-08-01 Tue 18:14
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+:LOGBOOK:
+CLOCK: [2023-06-10 Sat 15:16]--[2023-06-10 Sat 17:15] =>  1:59
+CLOCK: [2023-06-10 Sat 13:30]--[2023-06-10 Sat 15:16] =>  1:46
+:END:
+ [2023-06-10 Sat 12:55]
+
+
+* DONE Create an if function based on OS for hyper/super command settings. 
+CLOSED: [2023-07-07 Fri 08:25]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-18 Mon 16:06
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+
+
+* DONE Ensure prettier checkboxes are setup for my main config and work config
+CLOSED: [2023-07-07 Fri 08:25]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-18 Mon 16:06
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-05-11 Thu 10:40]
+ [[file:~/.emacs.d/init.el]]
+
+Implemented into work config
+
+ #+BEGIN_SRC emacs-lisp
+(global-prettify-symbols-mode t)
+
+(defun my/org-buffer-setup ()
+  (push '("[ ]" . "☐" ) prettify-symbols-alist)
+  (push '("[X]" . "☑" ) prettify-symbols-alist)
+  (push '("[-]" . "❍" ) prettify-symbols-alist)
+  )
+
+(add-hook 'org-mode-hook #'my/org-buffer-setup)
+;; Override some modes which derive from the above
+(dolist (mode '(org-mode-hook))
+  (add-hook mode (lambda () (display-line-numbers-mode 0))))
+
+ #+END_SRC
+
+* DONE Add reminder Capture template to Work and Linux configs
+CLOSED: [2023-07-29 Sat 14:04]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-18 Mon 16:06
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-05-11 Thu 11:02]
+Work config is setup. 
+
+#+BEGIN_SRC emacs-lisp
+			 ("r" "reminder" entry (file "~/Orgfiles/refile.org")
+			  "* %?\n %U\n %a\n %i" :empty-lines 1)
+
+#+END_SRC
+
+
+* DONE Create an all-in one kill buffer and close window. 
+CLOSED: [2023-07-29 Sat 14:20]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-18 Mon 16:06
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-06-10 Sat 13:18]
+
+
+* DONE Create  a capture template for habits
+CLOSED: [2023-08-13 Sun 21:22] SCHEDULED: <2023-08-07 Mon 17:30>
+:PROPERTIES:
+:CATEGORY: Task
+:ARCHIVE_TIME: 2023-10-01 Sun 23:39
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks/Org
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-08-06 Sun 14:42]
+
+
+* DONE Setup Metric Capture to go into review documents 
+CLOSED: [2023-08-01 Tue 18:59]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-01 Sun 23:39
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-06-08 Thu 17:03]
+
+
+* DONE Commands I want to figure out keybinds for
+CLOSED: [2023-08-01 Tue 21:04]
+:PROPERTIES:
+:CATEGORY: Project
+:ARCHIVE_TIME: 2023-10-01 Sun 23:39
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Project
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+:LOGBOOK:
+- State "DONE"       from "WAITING"    [2023-08-01 Tue 21:04]
+- State "WAITING"    from "HOLD"       [2023-08-01 Tue 21:04] \\
+  Waiting for new keybinds/macros I want.
+- State "HOLD"       from "TODO"       [2023-08-01 Tue 21:03] \\
+  On hold until I find more keys to bind
+:END:
+ [2023-06-09 Fri 13:47]
+
+** DONE Org Occur (single file)
+CLOSED: [2023-07-29 Sat 14:02]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:48]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+** DONE Find a binding for org-occur-in-agenda-files
+CLOSED: [2023-06-18 Sun 22:07]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:48]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+** DONE Design and write binding schema for narrow/widen
+CLOSED: [2023-06-18 Sun 14:58]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2023-06-09 Fri 13:49]
+ [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
+
+Utilize Hyper and/or Super for this. 

@@ -1,0 +1,14 @@
+
+* s US Config
+:PROPERTIES:
+:org-remark-file: main-config.org
+:END:
+
+** Org
+:PROPERTIES:
+:org-remark-beg: 88402
+:org-remark-end: 88405
+:org-remark-id: 5626869e
+:org-remark-label: nil
+:org-remark-link: [[file:main-config.org::1550]]
+:END:

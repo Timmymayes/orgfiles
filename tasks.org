@@ -1,32 +1,41 @@
 #+FILETAGS: PERSONAL
 
+#+BEGIN: clocktable :scope file :maxlevel 2 :block thisweek
+#+CAPTION: Clock summary at [2023-10-08 Sun 14:11], for week 2023-W40.
+| Headline                | Time |      |
+|-------------------------+------+------|
+| *Total time*              | *2:05* |      |
+|-------------------------+------+------|
+| Tasks                   | 2:05 |      |
+| \_  Clean Bedroom       |      | 0:26 |
+| \_  Work on Game Design |      | 1:39 |
+#+END:
+
 * Notes & Ideas
-** Game Design & Prototyping                                          
-*** Tools                                                            :NOTE:
+:PROPERTIES:
+:CATEGORY: Note
+:END:
+
+** Game Design & Prototyping
+*** Tools :NOTE:
 **** AI Art Generation
+
 - [[https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/mobilebasic][Mid Journey Prompting - Same character in multiple scenes]]
-*** Prototyping                                                      :NOTE:
-- [[https://www.youtube.com/watch?v=fws1hN782yw][Laminated Card Prototyping]]
-*** Influencer List                                                  :NOTE:
-| Name             | Type          | Subcount  | Link    | Contact                | Accepts Sponsors | Notes                     |
-|------------------+---------------+-----------+---------+------------------------+------------------+---------------------------|
-| Comicstorian     | Comic Focused | 2,600,000 | [[https://www.youtube.com/watch?v=A-RjIp7wG60][Youtube]] | Comicstorian@gmail.com | No               | Partner of Dungeons & Ale |
-| Comics Explained | Comic Focused | 2,009,000 | [[https://www.youtube.com/channel/UCKxQmKgrkUv4S7P5w0pLayw][Youtube]]        | business@geekified.com | No               |                           |
-| Comic Drake      | Comic Focused | 388,000   | [[https://www.youtube.com/user/ComicDrake][Youtube]]        |                        | No               |                           |
-| Nerdsync         | Comic Focused |           | [[https://www.youtube.com/channel/UCURz5rKDgt7YibUSageNhEw][Youtube]]        | nerdsync@standard.tv   | yes              |                           |
-| Prozd            | Game Focused  | 3,750,000 | [[https://www.youtube.com/user/ProZD/featured][Youtube]]        | prozdkp@gmail.com      | No               |                           |
-*** Convention List                                                  :NOTE:
-| Bgg Con Dallas       | Yes | November 17, 2021 → November 21, 2021   |                                                                                                       |     | Dallas TX      |        |
-| Pax Unplugged        | Yes | December 10, 2021 → December 12, 2021   | https://unplugged.paxsite.com                                                                         |  75 | Pennsylvania   | 30,000 |
-| Strategicon Spring   | Yes | February 18, 2022 → February 21, 2022   | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
-| Dice Tower West      | Yes | March 2, 2022 → March 6, 2022           | https://www.dicetowerwest.com                                                                         | 130 | Vegas          |        |
-| SaltCon              | Yes | March 3, 2022 → March 6, 2022           | https://saltcon.com                                                                                   |  80 | Salt Lake City |   1142 |
-| Arizona Game Fair    | Yes | March 10, 2022 → March 13, 2022         | https://www.arizonagamefair.com                                                                       |  45 | Phoenix        |    770 |
-| Strategicon Summer   | Yes | May 27, 2022 → May 30, 2022             | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
-| Strategicon Fall     | Yes | September 2, 2022 → September 5, 2022   | https://www.strategicon.net                                                                           |  44 | Los Angeles    |   2000 |
-| Cincinati Comic Expo | No  | September 16, 2022 → September 18, 2022 | https://cincinnaticomicexpo.com/?fbclid=IwAR1hMVhrpGWAE0mAiL7GtsT7mDsSh0yKjdxW_OYRvPRcKHRPFiX-S-Uxa9E |     |                |        |
+
+*** Influencer List :NOTE:
+
+| Name             | Type          | Subcount | Link    | Contact                | Accepts Sponsors | Notes                     |
+|------------------+---------------+----------+---------+------------------------+------------------+---------------------------|
+| Comicstorian     | Comic Focused | 3mil     | [[https://www.youtube.com/watch?v=A-RjIp7wG60][Youtube]] | Comicstorian@gmail.com | No               | Partner of Dungeons & Ale |
+| Comics Explained | Comic Focused | 2.25mil  | [[https://www.youtube.com/channel/UCKxQmKgrkUv4S7P5w0pLayw][Youtube]] | business@geekified.com | No               |                           |
+| Comic Drake      | Comic Focused | 425k     | [[https://www.youtube.com/user/ComicDrake][Youtube]] |                        | No               |                           |
+| Nerdsync         | Comic Focused | 534k     | [[https://www.youtube.com/channel/UCURz5rKDgt7YibUSageNhEw][Youtube]] | nerdsync@standard.tv   | yes              |                           |
+| Prozd            | Game Focused  | 3.9 mil  | [[https://www.youtube.com/user/ProZD/featured][Youtube]] | prozdkp@gmail.com      | No               |                           |
+|                  |               |          |         |                        |                  |                           |
+
 *** Design Ideas
 **** Token Pools as Dice Solution
+
 One of the elements I really love is a "token bag" as a customizable and changeable "die". A die is really just a randomizer. Traditionally one roles a die and uses a numeric result to create an effect. Arkham's use of numbers and symbols within one bag allowed for a "univeral" symbol to mean different thins in different scenarios. This is hyper useful. 
 
 One game I want to design is a BIG box sprawling RPG. My goal for this RPG is to use various randomizers that can change and be customized without being a nightmare to track. The problem is this could become an exercise in tedium and fiddly-ness that kills the experience. 
@@ -36,7 +45,9 @@ I think I have a solution.
 2 token bags. One is your "scenario bag" that is built for the scenario and modulates as you go through the campaign. The other is empty until used. The token pools that sit "around" the game at a campaign level are stored in the game box in a collection of "tuck boxes" or bins that can easily have tokens added or removed if an event prompts it. It can also be "called" from the box, dumped into the  2nd bag, a token selected, then everything returned to the bins. 
 
 This could also lead to the concept of each player having a token bag that they "build" over time and modulate chance on. This would only be used for certain cards / types of cards in their setup. (should we go with "cards")
+
 **** Worker Placement Mechanism
+
 A worker placement where workers have unique abilities and slowly get more powerful over time whether you want them to or not.
 
 You can steal your opponents’ workers by offering them a higher salary.
@@ -44,7 +55,9 @@ You can steal your opponents’ workers by offering them a higher salary.
 You can also protect your own workers by offering them a higher salary, but it’s almost never a good idea because you can always counter offer when they get stolen.
 
 This could be really cool for a corporate or startup focused game.
+
 **** Game Idea - Start Ups
+
 ## Overview
 
 Start ups is a game about starting companies, taking them public then starting new companies. 
@@ -76,8 +89,9 @@ Company
 - Sustainability?
 
 Companies would have a rating system that changes as the market interacts. So goods costed as luxury but with a quality of cheap)  would make a lot of initial value and have some initial influence but fall off out of the game more quicly as their intiial high rating would decrease quickly over time
+
 **** Game Idea - Don't Starve
-****  Don't starve game ideas
+**** Don't starve game ideas
 
 Exploration uses a time track so that for example picking grass is one space but digging up the grass needs a shovel and is 2 spaces. 
 
@@ -102,9 +116,13 @@ Temp bases possible when night approaches. No hammer means you lose your stuff. 
 When return to base you can take the safe way back or a new way which gets you more resources but is more dangerous
 
 You can return early and convert your time to base actions.
+
 ***** Resourcess
+
 [[https://www.youtube.com/watch?v=hkr2ylxzQ0E][Exporting art from don't starve]]
+
 **** Game Ideas - Eons (season based game idea)
+
 Conversing with Nick led to some interesting ideation for EONS. 
 
 Shifting away from a deck to a bag per season for each player. 
@@ -112,7 +130,9 @@ Shifting away from a deck to a bag per season for each player.
 Shared common areas and play boards similar to perhaps altiplano. The key theming here is the relationship to the land and potential for “over fishing” or “over farming” an area. 
 
 Action resolution affects what goes into other bags.
+
 **** World Building RPG
+
 Large Open World RPG system where playres randomize and decide elements that maek up the world the explore. Crafting system that allows you to build and experience a world.
 
 Large amount of cards in the base set with bonus expansion modules and big storage box etc
@@ -141,11 +161,15 @@ Token bags for seeding "World seed bags)" these will hold state but can change a
 💡 Maybe have a lighter resolution mode for combat for peole who find it too fiddly and don't want to do every combat. Maybe even hybridization where you care a lot abut this combat so you don't want to "take the avgs"
 
 </aside>
+
 **** Fantasy RPG Guild Game
+
 It could be interesting if each player runs a guild that has characters they control but it's not a win or lose game it's semi-cooperative with the goal of each player to tell the stories of their characters throughout the game fulfilling their destinies. So each player runs a guild of adventurers and they can send some of their adventures onto quests with other players adventures but their motivation is the destiny of their characters this would enable storytelling but also play er ownership
 
 It would also drive exploration trying to find and accomplish things for certain character groups might require exploring the map to find enemies a certain types or villain leaders
+
 **** The Machine
+
 ## Overview
 
 The machine is a "conveyer" belt style shared programming game experience. The start of the game will be a starting "map" or configuration. This will consist of conveyer belts, splitters,  arms ( i.e. inserters), machines (inputs & outputs), material sources (inputs), and finished product outputs. 
@@ -155,22 +179,31 @@ Each round the machine will run. All input goods will go in and cycle through.
 Players will take turns adding to / modifying the machine trying to modulate it for their benefit. 
 
 Add a splitter and a new line of conveyer to move some product to somewhere else. Rotate an arm, change out machines, add new resource inputs, move belts to other inputs.
+
 **** Netrunning / Hacking Game in the style of twilight struggle
+
 Essentially have a map with points of interest that is the represnetation of a city as its "network" with points of interest. So you can do things like hacking certain corps or the police station etc. 
 
 The hacking element is very much like twilight struggle where you play events or use them for hacking. So it could be programs that you either use to increase your presense in a location or play the event. Not sure if it would have events you play for the opponent. 
 
 Might make a solid mini-game as part of a larger cyber punk game.
+
 **** Asymmetric game about starting small businesses
+
 A game where essential resources are represented by cubes/ meebles etc but that each player is asymmetrically starting a business. Almost like "modules" and expansion content would be new business types. 
+
 **** Strategy Game Built on the idea of the fermi paradox
+
 Rogue like game that has quick iterations where you try to advance civilization through the epocs of time until you reach the ability to scale from type 1, 2 and 3 civilizations. 
 
 I'ts a god/game or Civilization game where you are nuturing a planet through MANY civilizaiotns. on a technology path. As new technologies are developed by different civilizations they will naturally wage war on each other. You're playing as an advanced civilization that wants to cultivate this new civ. 
 
 The civilization is AI.
+
 **** Oath Style "Evolution" focused game
+
 Oath change over time meta feature but with "evolution and mutation" at the forefront. 
+
 **** Space RPG Game
 ***** Overview
 
@@ -193,11 +226,15 @@ Each time you do a stasis-jump to reset the game you choose what you can take.  
  
 
 Dungeons could be reality rifts that players enter and they could be almost anythhinng
+
 ***** Maneuver Deck
+
 Each ship has a base maneuver hand/deck which operates mechanically as "hand management". Level up your crew for new manevers based on crews and class of ship. 
 
 Maneuvers will be thematic and spend resources / generate or restore others.
+
 ***** Delving Focus
+
 Dungeon crawling space themed rpg campaign game. Target game player size is solo with variant for 2 player co-op. 
 
 Goal of the game is to have the scenarios work off of an encounter deck but with everything in a singl ebox. 
@@ -219,8 +256,10 @@ setup home base and setup things like trade routes that provide recurring benefi
 build a planet typing ( as well as"regions" like central worlds vs rim worlds)
 
 Faction system to track where you are with certain races / groups
+
 **** Web Design Board Game
 ***** Overview
+
 ## Initial thoughts:
 
 - The player board presents itself ( right there in the picture)
@@ -245,7 +284,9 @@ a team based party game ( ala captain sonar)  where are creating startup compani
 Need a product development system.
 
 [[file:images/WebDesign-game.png][web design style]]
+
 **** Auto-battler Campaign Game (video game)
+
 ## Overview
 
 Each player is a planet wide AI that rose from a non_space capable civilization> as the planet started to lose resources you recognized the need to achieve space travel to reap the bounty of the stars. After your initial encounters with low intelligence planet bound species you finally bump into another of your kind. Another AI  with the same needs that took the same path as you. A fight over resources has begun. 
@@ -259,8 +300,10 @@ Battles on planets are considered on-going and the ai will work to build, dattac
 The number of planets in the universe are finite and the early game is about establishing your core then expanding. 
 
 Battles happen continuiously meaning that you spend your time on a planning UI which uses "turns" each turn that passes will advance technologies etc. you can jump to allt he planets you have forces or scouting on and send out more units to those locations. This ebb and flow seeks to emulate more of a war than a battle.
+
 **** Supply Chains
 ***** Overview
+
 # Overview
 
 Economic game of shared incentive with a “board” that is built out like a supply chain or tech tree. Flow or output is established during a turn and remains as set until obsolescence (like rusting a train but rusting a technology or end good type)
@@ -350,10 +393,10 @@ A board will be needed to track the demand of end goods.  Marketing can increase
 - Players have a tech tree like food chains tree ish. Like a flow chart.
     - 2 fold. “Front Era 1,
 - As “eras” end the board is assessed and the state of the intermediary producers is “checked and set” as the new baseline.
+
 **** Propoganda Party Game (based on propaganda posters)
-
-
 ***** Overview
+
 ## Inspiration
 
 This art style feels like it could lend itself well to a card game. In particular the Demands Sacrifice one.
@@ -363,11 +406,13 @@ This art style feels like it could lend itself well to a card game. In particula
 [[https://twitter.com/rob_sheridan][Artist I originally saw doing propoganda style posters]]
 [[https://en.wikipedia.org/wiki/J._C._Leyendecker][JC Leyendecker - Popular propaganda artist]]
 
-
 **** Strategic RPG Dungeon Crawler
+
 Shared board with populated dungeons players will "race" to defeat for reward to try and grow stronger. Push your luck element to take on bigger "camps" to grow stronger but real element of risk/reward etc.  Threats grow over time potentially and you need to "gear up" to take on bigger camps. 
+
 **** Space Civilization Dice Game
 ***** Overview
+
 ## Overview
 
 A dice game about building civilizations. The game is a thinky filler (most likely) with dice drafting and yahtzee style dice combo mechanisms. To start the game each player draws X dice from the dice bag. They then each take turns rolling them towards each other, each player rolling one die, until all dice are rolled. This forms the game board. Players now place 2 civilization disks. (snaking by turn order, last places 2). 
@@ -383,10 +428,14 @@ Dice tick down meaning a 5 → 4 → 3 style count down so if you use a 5 on a r
 ### Components:
 
 Colored D6's, A dice bag, Bits of "cord" that serve as rulers ( various length and in player color), cards.
+
 ***** Ideas from the internet (/u/almostcyclops)
+
 I like the sound of your game. It's actually very similar to the planet generation I was using in my own design until I decided to go all cards. If I'm being honest I think you're in the same default mindset of "bigger number equals more/better", since you say the number on the die is the quantity of resource. This is a fine approach, but I dont think it aligns with your interest in using runs of numbers to trigger abilities. A run of 4 sixes may indeed be more powerful than a run of 4 ones, but how do you thematically justify a straight? One possible fix would be to have each color correspond to a type of planet and each face be a resource type. Then you could have one ability that requires 5 titanium (a specific yachtzee) and a different ability require one each of titanium, eden incense, space potatoes, and warp juice (a small straight). You could go further by having different planet types have different probabilities of different resources (like an earth like planet die having 3 space potato faces). Some resources would be more rare than others across the board and abilities that use them could be more powerful. Naturally, players fight over these rarer resources, but some powerful abilities could just require a ton of common resources. This let's a player be sneaky and gobble up planets others think are less desirable. Of course you also dont need to waste the colors on just resource distribution, as some abilities may not care at all about resource only planet type. Thus there is natural synergy between an abity that cares about planet type, and another that cares about resources common to that type (but with a little press your luck, since despite the odds you can never guarantee a certain resource will spawn). All of this has the downside/upside of using custom dice (though could be completely play tested using regular dice and a lookup chart).
+
 **** Factories
 ***** Overview
+
 Possible name supply chain
 
 Square grid 2 factory sizes  4 or 8 sections is. 1x1 or 2x2. This dictates max input output
@@ -406,7 +455,9 @@ Excess goods are sold or moved down the supply chain. (if you have enough out pu
 Warehouses act as nodes in your supply chain to help you get low output goods farther down your chain. 
 
 Need to look at how rebuilding your supply chain works
+
 ***** Solo Consideration
+
 # Campaign Style with Memory
 
 Sprawling world map with factory prototyping. Modify my "factory" tray design to instead of being something you set tokens onto that you slide them into and "cap off". Basic and advanced factory designs. Multi floor designs. Beautiful 3d Factory pieces that inset into each "floor" tray (game ships with tokens in a tuckbox ala a legacy game. Includes a qr code for stl files to 3d print for your next game session.  Turn based "Dial" system. that utilizes Days  weeks and months with matching production cycles.  
@@ -418,7 +469,9 @@ Sprawling world map with factory prototyping. Modify my "factory" tray design to
 - Multiple ore systems
 - Factory and reFactoring.
 - sticker system for factory and logistics placement.
+
 **** Co-op CCG RPG
+
 # Why the CCG Model? More than a cash grab?
 
 CCG Model because I don't want people to have to spend money on a MASSIVE set in order to get all the possible variety. Only spend extra time in modules you love. It also has to do with exploration and variety.  
@@ -459,51 +512,66 @@ For replacement the player replacing the character will create a new character t
 - this process should be fun and engaging and cool to watch.  it shouldn't be too long. But it should make character creation fun and help you create a character you can't wait to play.
 - After creating the character the system will help you craft a mission that represents how the current party meets the new character and then comes to fall in with them.
 
-*** Thought Topics                                                   :IDEA:
+*** Thought Topics :IDEA:
 **** Zendo makes you a better designer
 **** Bags Vs Dice Vs Cards
 **** Time as a resource in design and development
 **** Agents in a game are part of a goal seeking feedback loop.
+
 If my goal is to slow or speed the game to seek a win.
 
-*** Board Game Content                                               :IDEA:
+*** Board Game Content :IDEA:
 **** Physical Cardboard Animation
+
 [[file:images/WebDesign-game.png][Webdesign out of cardboard]]
 
 **** Shoot board game content like Daniel Schiffer
+
 [[https://www.youtube.com/watch?time_continue=3&v=j9E3MlnHjOQ&embeds_euri=https%3A%2F%2Fwww.notion.so%2F&feature=emb_logo][Youtube]]
 
 **** Create animated infographics for board games
+
 These should hit a few different categories: 
 
 - How to play ( each phase is an infographic) [These will become instagram galleries & short youtube videos]
 - Create one to showcase how a mechanism works
 - Help showcase & break apart game systems.
+
 ** 3D Printing
 *** Dactyl Manuform
 **** My Notes
+
 I'm using standard Prusa Slicer supports, spacing at 3mm. Set your vertical offset to 0.3mm and turn support extrusion down to like 80% of normal and they will release much more easily.
+
 **** Resources
+
 - [[https://www.youtube.com/watch?v=VlHgEqLVYqA][I built a ridiculous keyboard by hand]]
 - [[https://github.com/aleung/dactyl-manuform-keyboard/blob/master/guide/index.md][Github Build Guide]]
 - [[https://docs.qmk.fm/#/hand_wire][QMK Firmware Resource]]
 - [[https://www.youtube.com/watch?v=oOgJzWx15ZI&lc=UgxD-8_A16onLk0LiRB4AaABAg.9M2WWUIEmla9M2ZCE0RSe2][Case Prep]]
+
 *** Time Lapse Filming
+
 - [[https://www.youtube.com/watch?v=0z2lAEISjqU][How-to Film a Timelapse of a 3d print.]]
+
 *** 3D Modeling
+
 - [[https://www.youtube.com/c/ChippWalters/videos][Chipp Walters - SciFi Style]]
+
 * Tasks
 :PROPERTIES:
 :CATEGORY: Task
 :END:
 
-
-
-** TODO Perform Annual Planning [9/13]
-SCHEDULED: <2023-07-30 Sun>
+** TODO Perform Annual Planning [12/13]
 :PROPERTIES:
 :CATEGORY: Project
 :END:
+
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
  [2023-01-14 Sat 11:19]
 
 *** DONE Clean up Habits file
@@ -516,14 +584,19 @@ CLOCK: [2023-01-29 Sun 12:36]--[2023-01-29 Sun 13:01] =>  0:25
 :END:
  [2023-01-14 Sat 11:28]
 
-*** NEXT Clean up good notes
-SCHEDULED: <2023-07-30 Sun 22:00>
+*** DONE Clean up good notes
+CLOSED: [2023-08-06 Sun 20:42] SCHEDULED: <2023-08-06 Sun 19:45>
 :PROPERTIES:
 :CATEGORY: Task
+:Effort:   1:00
 :END:
+:LOGBOOK:
+CLOCK: [2023-08-06 Sun 19:46]--[2023-08-06 Sun 20:42] =>  0:56
+:END:
+
  [2023-01-14 Sat 11:25]
 
-*** DONE [#E] Setup 2023 Ledger fresh 
+*** DONE [#E] Setup 2023 Ledger fresh
 CLOSED: [2023-07-30 Sun 21:40] SCHEDULED: <2023-07-30 Sun 21:00>
 :PROPERTIES:
 :CATEGORY: Task
@@ -535,6 +608,7 @@ CLOCK: [2023-07-30 Sun 21:06]--[2023-07-30 Sun 21:40] =>  0:34
 
 *** DONE Clean out Google Drive
 CLOSED: [2023-02-05 Sun 20:17] SCHEDULED: <2023-01-22 Sun>
+
  [2023-01-14 Sat 11:24]
 
 *** DONE List & Review Accomplishments & Dissapointments
@@ -560,7 +634,7 @@ CLOCK: [2023-01-15 Sun 11:36]--[2023-01-15 Sun 18:44] =>  7:08
 - Reflect
 - Interperet
 - Visualize
-  
+
 *** DONE Systems Review & Setup
 CLOSED: [2023-05-08 Mon 21:28] SCHEDULED: <2023-05-06 Sat 13:00>
 :PROPERTIES:
@@ -577,6 +651,7 @@ CLOCK: [2023-05-06 Sat 12:56]--[2023-05-07 Sun 22:04] => 33:08
   - Habits
   - Goal Outcomes
   - Projects
+
 *** DONE Review Annual Plan and determine Guiding Principles
 CLOSED: [2023-01-27 Fri 16:37] SCHEDULED: <2023-01-27 Fri 16:15>
 :LOGBOOK:
@@ -587,20 +662,32 @@ CLOCK: [2023-01-27 Fri 16:13]--[2023-01-27 Fri 16:37] =>  0:24
 
 *** DONE Work out weekly Review
 CLOSED: [2023-02-05 Sun 21:05]
+
  [2023-01-29 Sun 16:46]
 
-
-*** TODO Design & Implement Weekly Review Process
+*** DONE Design & Implement Weekly Review Process
+CLOSED: [2023-08-13 Sun 22:37]
 :PROPERTIES:
-:CATEGORY: Task
+:CATEGORY: Project
 :END:
+
  [2023-01-29 Sun 16:47]
 
-**** NEXT Rebuild my metric staging table
+**** DONE Rebuild my metric staging table
+CLOSED: [2023-08-01 Tue 19:20]
+
  [2023-06-18 Sun 22:31]
  [[file:~/Orgfiles/BodyTransformation.org::*Metrics][Metrics]]
 
-*** CANCELLED annual planning counter teest                     :CANCELLED:
+**** DONE Update yas snippet for weekly review
+CLOSED: [2023-08-13 Sun 22:37]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-06 Sun 23:20]
+
+*** CANCELLED annual planning counter teest :CANCELLED:
 CLOSED: [2023-06-18 Sun 22:07]
 :LOGBOOK:
 - State "CANCELLED"  from "TODO"       [2023-06-18 Sun 22:07] \\
@@ -608,342 +695,306 @@ CLOSED: [2023-06-18 Sun 22:07]
 :END:
  [2023-06-17 Sat 18:10]
 
-*** TODO Clean up Evernote
+*** DONE Clean up Evernote
+CLOSED: [2023-08-01 Tue 19:00]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
  [2023-07-19 Wed 11:52]
 
-*** TODO Reconfigure weekly/monthly process
-SCHEDULED: <2023-07-30 Sun>
+*** NEXT Reconfigure weekly/monthly process
+SCHEDULED: <2023-10-08 Sun>
 :PROPERTIES:
-:CATEGORY: Project
+:CATEGORY: Task
 :END:
+
  [2023-07-30 Sun 14:46]
 
-** CANCELLED Fat % Weigh In                                      :CANCELLED:
-CLOSED: [2023-06-18 Sun 14:13] DEADLINE: <2023-06-30 Fri> SCHEDULED: <2023-06-30 Fri>
+** CANCELLED Share Dactyl Layout with Reddit User :CANCELLED:
+CLOSED: [2023-09-07 Thu 08:54]
 :LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-06-18 Sun 14:13] \\
-  We'll eventually do this but we need to put in some real work.
+- State "CANCELLED"  from "TODO"       [2023-09-07 Thu 08:54] \\
+  Not doing this
 :END:
- [2023-01-29 Sun 12:04]
-Email Jolen text: 760.505.2341
 
-** DONE Plan the day 
-CLOSED: [2023-06-10 Sat 13:22] SCHEDULED: <2023-06-10 Sat 12:50>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-10 Sat 12:54]--[2023-06-10 Sat 13:22] =>  0:28
-:END:
- [2023-06-10 Sat 12:51]
-
-** DONE Organize and Clean 2nd Bedroom 
-CLOSED: [2023-06-11 Sun 00:31] SCHEDULED: <2023-06-10 Sat 19:00>
-:PROPERTIES:
-:Effort:   3:00
-:END:
- [2023-06-10 Sat 13:13]
-
-** DONE Do DIshes
-CLOSED: [2023-06-11 Sun 14:53] SCHEDULED: <2023-06-11 Sun 10:00>
-:PROPERTIES:
-:Effort:   0:10
-:END:
- [2023-06-10 Sat 13:15]
-
-** DONE Goto Grocery
-CLOSED: [2023-06-10 Sat 18:23] SCHEDULED: <2023-06-10 Sat 17:30>
-:LOGBOOK:
-CLOCK: [2023-06-10 Sat 17:31]--[2023-06-10 Sat 18:23] =>  0:52
-:END:
- [2023-06-10 Sat 17:18]
-
-** DONE Watch WSOP VLog While Planning my day
-CLOSED: [2023-06-11 Sun 15:26] SCHEDULED: <2023-06-11 Sun 15:00>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 14:55]--[2023-06-11 Sun 15:26] =>  0:31
-:END:
- [2023-06-11 Sun 14:53]
-
-
-** DONE Start Pasta Sauce
-CLOSED: [2023-06-11 Sun 15:41] SCHEDULED: <2023-06-11 Sun 15:30>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 15:26]--[2023-06-11 Sun 15:41] =>  0:15
-:END:
- [2023-06-11 Sun 14:57]
-
-** DONE Finish 2nd Bedroom Packing/Organizing
-CLOSED: [2023-06-11 Sun 18:43] SCHEDULED: <2023-06-11 Sun 16:00>
-:PROPERTIES:
-:Effort:   3:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 16:04]--[2023-06-11 Sun 18:43] =>  2:39
-:END:
- [2023-06-11 Sun 14:57]
-
-
-
-** DONE List games on Escon Geek list
-CLOSED: [2023-06-11 Sun 20:39] SCHEDULED: <2023-06-11 Sun 19:00>
-:PROPERTIES:
-:Effort:   1:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 19:10]--[2023-06-11 Sun 20:39] =>  1:29
-:END:
- [2023-06-11 Sun 14:59]
-
-** DONE Start Pasta
-CLOSED: [2023-06-11 Sun 17:27] SCHEDULED: <2023-06-11 Sun 16:30>
-:PROPERTIES:
-:Effort:   0:10
-:END:
- [2023-06-11 Sun 15:00]
-
-** DONE List Trading Cards on Ebay
-CLOSED: [2023-06-11 Sun 21:46] SCHEDULED: <2023-06-11 Sun 21:30>
- [2023-06-11 Sun 15:01]
-
-** DONE Play ARAM                                                    :Break:
-CLOSED: [2023-06-11 Sun 19:09] SCHEDULED: <2023-06-11 Sun 18:45>
-:PROPERTIES:
-:Effort:   0:15
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 18:44]--[2023-06-11 Sun 19:09] =>  0:25
-:END:
- [2023-06-11 Sun 18:43]
-
-** DONE Take a shower
-CLOSED: [2023-06-11 Sun 21:27] SCHEDULED: <2023-06-11 Sun 21:10>
-:PROPERTIES:
-:Effort:   0:15
-:END:
-:LOGBOOK:
-CLOCK: [2023-06-11 Sun 21:11]--[2023-06-11 Sun 21:27] =>  0:16
-:END:
- [2023-06-11 Sun 21:11]
-
-
-** CANCELLED Brainstorm ideas for a pricing tool for SEAS        :CANCELLED:
-CLOSED: [2023-07-03 Mon 14:28]
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-07-03 Mon 14:28] \\
-  Not gonna do this anymore.
-:END:
- [2023-06-16 Fri 10:49]
-- Package Builder
-- AV video references
-- Interactive Look Book - select a look and see what packages went into making it. 
-
-** DONE Preparations for Apt Move 
-CLOSED: [2023-07-19 Wed 11:29]
- [2023-06-17 Sat 17:59]
-
-*** DONE Call Cox and Move Service
-CLOSED: [2023-06-21 Wed 07:45] SCHEDULED: <2023-06-19 Mon 09:00>
- [2023-06-17 Sat 18:00]
-
-*** DONE Call SDGE and move services
-CLOSED: [2023-06-21 Wed 07:45] SCHEDULED: <2023-06-19 Mon 09:30>
- [2023-06-17 Sat 18:02]
-
-*** DONE Pack up Second Bedroom
-CLOSED: [2023-06-18 Sun 21:14] SCHEDULED: <2023-06-18 Sun 19:00>
-:LOGBOOK:
-CLOCK: [2023-06-18 Sun 19:04]--[2023-06-18 Sun 21:14] =>  2:10
-:END:
- [2023-06-17 Sat 18:03]
-
-*** DONE Pack up TV Stand
-CLOSED: [2023-06-18 Sun 19:04] SCHEDULED: <2023-06-18 Sun 18:30>
-:LOGBOOK:
-CLOCK: [2023-06-18 Sun 18:45]--[2023-06-18 Sun 19:04] =>  0:19
-CLOCK: [2023-06-18 Sun 17:54]--[2023-06-18 Sun 17:56] =>  0:02
-CLOCK: [2023-06-18 Sun 17:53]--[2023-06-18 Sun 17:53] =>  0:00
-CLOCK: [2023-06-18 Sun 17:48]--[2023-06-18 Sun 17:48] =>  0:00
-CLOCK: [2023-06-18 Sun 17:47]--[2023-06-18 Sun 17:47] =>  0:00
-CLOCK: [2023-06-18 Sun 17:46]--[2023-06-18 Sun 17:46] =>  0:00
-CLOCK: [2023-06-18 Sun 17:45]--[2023-06-18 Sun 17:46] =>  0:01
-:END:
- [2023-06-17 Sat 18:03]
-
-*** DONE Give TV & TV Stand to Julie
-CLOSED: [2023-07-03 Mon 14:26]
- [2023-06-17 Sat 18:03]
-
-*** DONE Pack up side table contents
-CLOSED: [2023-06-18 Sun 18:45] SCHEDULED: <2023-06-18 Sun 18:00>
-:LOGBOOK:
-CLOCK: [2023-06-18 Sun 17:56]--[2023-06-18 Sun 18:45] =>  0:49
-:END:
- [2023-06-17 Sat 18:03]
-
-*** DONE Pack up Kitchen w/ Jess
-CLOSED: [2023-07-04 Tue 19:36] SCHEDULED: <2023-07-03 Mon 16:30>
- [2023-06-17 Sat 18:03]
-
-*** DONE Remove all wall hangings and patch holes
-CLOSED: [2023-07-03 Mon 14:28]
- [2023-06-17 Sat 18:04]
-
-*** DONE Pack up clothes from drawer
-CLOSED: [2023-07-04 Tue 19:43]
- [2023-06-17 Sat 18:04]
-
-*** DONE Pack up Computer Desk
-CLOSED: [2023-07-19 Wed 11:29]
- [2023-06-17 Sat 18:04]
-
-*** DONE Pack up bathroom
-CLOSED: [2023-07-04 Tue 19:36] SCHEDULED: <2023-07-03 Mon 17:30>
- [2023-06-17 Sat 18:04]
-
-*** DONE List Items for sale 
-CLOSED: [2023-07-19 Wed 11:29]
- [2023-06-17 Sat 18:05]
-**** DONE List for sale Kitchen Table
-CLOSED: [2023-07-03 Mon 14:31]
-[2023-06-17 Sat]
-**** CANCELLED List for sale Dyson Fan                         :CANCELLED:
-CLOSED: [2023-07-19 Wed 11:29]
-:LOGBOOK:
-- State "CANCELLED"  from "HOLD"       [2023-07-19 Wed 11:29] \\
-  No longer celling
-- State "HOLD"       from "TODO"       [2023-07-03 Mon 09:29] \\
-  waiting till the move to post this up
-:END:
-**** [2023-06-17 Sat]
-*** DONE Call Cox and sort out my new account for new apt not showing up 
-CLOSED: [2023-07-19 Wed 11:29]
- [2023-07-04 Tue 19:42]
-
-** DONE Drop off Marvel Flair shipment
-CLOSED: [2023-07-03 Mon 14:28]
- [2023-06-17 Sat 18:08]
-
-** DONE Lunch/Dinner 
-CLOSED: [2023-06-18 Sun 17:45] SCHEDULED: <2023-06-18 Sun 17:00>
-:LOGBOOK:
-CLOCK: [2023-06-18 Sun 16:56]--[2023-06-18 Sun 17:45] =>  0:49
-:END:
- [2023-06-18 Sun 16:52]
-
-** TODO Share Dactyl Layout with Reddit User 
  [2023-06-28 Wed 10:49]
  [[https://www.reddit.com/r/emacs/comments/14kgnsh/comment/jprsbs4/?utm_source=share&utm_medium=web2x&context=3][Reddit Post to reply to]]
 
-** DONE Pay New Cox bill                                          :REMINDER:
-CLOSED: [2023-07-19 Wed 11:28]
- <2023-07-22 Sat 09:07> 
- [2023-07-05 Wed 09:07]
+** TODO Sell off unwanted board games
 
-
-** DONE Call Cox and link my account. 
-CLOSED: [2023-07-17 Mon 11:24] SCHEDULED: <2023-07-14 Fri 12:00>
- [2023-07-13 Thu 21:11]
-
-
-** TODO Sell off unwanted board games 
  [2023-07-19 Wed 11:21]
 
-** TODO Goto target for apt supplies
- [2023-07-19 Wed 11:43]
+** TODO Develop Next version of Zombie game :GAMEDESIGN:
+:PROPERTIES:
+:CATEGORY: Project
+:END:
 
-** TODO Develop Next version of Zombie game                     :GAMEDESIGN:
  [2023-07-19 Wed 11:45]
 
+*** NEXT Review the game design and build out project
+:PROPERTIES:
+:CATEGORY: Task
+:END:
 
-*** NEXT Tweak the meeple classes                              
- [2023-01-12 Thu 11:52]
-[[file:~/Projects/Zombie-Rebuild/design/Master-Design-Doc.org::*Class Based Meeple system][Class Based Meeple system]]
+ [2023-08-01 Tue 21:15]
+ [[file:~/Orgfiles/tasks.org::*Develop Next version of Zombie game][Develop Next version of Zombie game]]
 
-*** TODO Build out a new meeple power list
- [2023-06-11 Sun 15:50]
- [[file:~/GameDesigns/Zombie-Rebuild/design/Master-Design-Doc.org::*Class Based Meeple system][Class Based Meeple system]]
 ** TODO Rebuild heat block on 3d printer
+
  [2023-07-19 Wed 11:49]
 
 ** TODO Market Bagged & Boarded Launch
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+
  [2023-07-19 Wed 11:49]
 
 *** NEXT Build a marketing plan
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
  [2023-07-19 Wed 11:50]
 
-*** WAITING Set a meeting with Nick to go over bagged & Boarded   :WAITING:
+*** WAITING Set a meeting with Nick to go over bagged & Boarded :WAITING:
+:PROPERTIES:
+:CATEGORY: Task
+:END:
 :LOGBOOK:
 - State "WAITING"    from "TODO"       [2023-07-19 Wed 11:51] \\
   Need to put ducks in a row then setup a meeting
 :END:
  [2023-07-19 Wed 11:51]
 
-** DONE Clean up my game design area
-CLOSED: [2023-07-22 Sat 23:50] SCHEDULED: <2023-07-21 Fri 16:00>
- [2023-07-19 Wed 11:54]
-
-** DONE Game Night in Santee (OC Cancelled)
-CLOSED: [2023-07-23 Sun 23:59] SCHEDULED: <2023-07-23 Sun 10:00>--<2023-07-23 Sun 18:00>
- [2023-07-19 Wed 11:59]
-
-** DONE Capture Nick's Gender Reveal
-CLOSED: [2023-07-22 Sat 23:49] SCHEDULED: <2023-07-22 Sat 15:00>
- [2023-07-19 Wed 12:30]
-
-** DONE Play Poker
-CLOSED: [2023-07-22 Sat 23:49] SCHEDULED: <2023-07-22 Sat 12:00-14:30>
- [2023-07-19 Wed 12:31]
-
-** TODO Update my mailing address with carmax
-SCHEDULED: <2023-07-31 Mon 12:00>
- [2023-07-22 Sat 23:59]
-
-
-** TODO Dentist Apt. 
-SCHEDULED: <2023-08-22 Tue 16:00>
- [2023-07-22 Sat 23:59]
- [[file:~/Orgfiles/goals/Goals.org::*Get Dental Situation Fully Under Control][Get Dental Situation Fully Under Control]]
-
 ** TODO Take body measurements
-SCHEDULED: <2023-08-23 Wed>
+SCHEDULED: <2023-10-29 Sun>
+
  [2023-07-25 Tue 09:30]
  [[file:~/Orgfiles/BodyTransformation.org::*Measurements][Measurements]]
 
-** DONE Buy lanolin nipple cream
-CLOSED: [2023-07-29 Sat 20:19] SCHEDULED: <2023-07-29 Sat>
- [2023-07-29 Sat 11:45]
-
-** CANCELLED test a missed todo                                  :CANCELLED:
-CLOSED: [2023-07-29 Sat 15:08] SCHEDULED: <2023-07-28 Fri>
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-07-29 Sat 15:08] \\
-  Just a test
+** CANCELLED Work on inputting game designs into emacs :CANCELLED:
+CLOSED: [2023-09-23 Sat 15:01] SCHEDULED: <2023-09-20 Wed 18:00>
+:PROPERTIES:
+:CATEGORY: Task
 :END:
- [2023-07-29 Sat 15:07]
+:LOGBOOK:
+- State "CANCELLED"  from "CANCELLED"  [2023-09-23 Sat 15:01] \\
+  This is bigger than a simple task
+:END:
 
-** DONE Start Laundry
-CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun 16:00>
- [2023-07-29 Sat 22:22]
+[2023-08-01 Tue 09:25]
 
+** DONE Cancel or be sure you have funds to renew Cardboardconnoisseur.com
+CLOSED: [2023-09-20 Wed 13:31] SCHEDULED: <2023-08-27 Sun>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
 
-** DONE Go Grocery shopping 
-CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
- [2023-07-29 Sat 22:25]
+ [2023-08-13 Sun 21:45]
 
-** DONE Take out trash
-CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
- [2023-07-29 Sat 22:26]
+Email link: https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwgbtwPZTvSBvsRfwVTKLxFdD
 
-** DONE Run Dishwasher
-CLOSED: [2023-07-30 Sun 20:49] SCHEDULED: <2023-07-30 Sun>
- [2023-07-29 Sat 22:26]
+** TODO Setup DL on your phone
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-08-17 Thu 12:04]
+https://www.dmv.ca.gov/portal/ca-dmv-wallet/
+
+** CANCELLED Buy Nespresso :CANCELLED:
+CLOSED: [2023-09-18 Mon 16:08] SCHEDULED: <2023-09-16 Sat>
+:PROPERTIES:
+:CATEGORY: Tasks
+:END:
+
+ [2023-09-07 Thu 08:37]
+
+** TODO Catch up ledger
+SCHEDULED: <2023-10-08 Sun 14:00>
+:PROPERTIES:
+:CATEGORY: Tasks
+:END:
+
+ [2023-09-07 Thu 08:53]
+
+** TODO Read Richard Garfield Interview
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-12 Tue 16:03]
+ [[file:~/RoamNotes/20230912160219-richard_garfield.org::*Interviews & articles][Interviews & articles]]
+
+** DONE Run through simple finance planning for rest of year
+CLOSED: [2023-09-23 Sat 15:01] SCHEDULED: <2023-09-20 Wed>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-20 Wed 13:33]
+
+** DONE Grocery Shop
+CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 15:45>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+
+ [2023-09-23 Sat 15:02]
+- Target
+  - Cleaning supply for toilet
+  - bathmat front of toilet
+  - mason jar lids
+- Frazier
+  - Salad stuff
+  - Quinoa
+  - Black Beans
+  - Red Lentils
+  - veggies for roasting
+  - white onion
+  - Berries
+  - Bananas
+
+** DONE Meal Prep
+CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 17:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-23 Sat 15:02]
+
+Prep some food for the week(beans / quinoa etc)
+
+** CANCELLED Set some weekly goals :CANCELLED:
+CLOSED: [2023-09-24 Sun 13:16] SCHEDULED: <2023-09-24 Sun>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-09-24 Sun 13:16] \\
+  Incorporated to another task
+:END:
+ [2023-09-23 Sat 15:03]
+
+** CANCELLED Clean Cpap :CANCELLED:
+CLOSED: [2023-09-23 Sat 15:04]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-09-23 Sat 15:04] \\
+  already on habit list
+:END:
+ [2023-09-23 Sat 15:03]
+
+** DONE Do laundry
+CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 18:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+
+ [2023-09-23 Sat 15:04]
+
+** DONE Do initial work on "Algorithms" design
+CLOSED: [2023-09-24 Sun 13:07] SCHEDULED: <2023-09-23 Sat>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-23 Sat 15:27]--[2023-09-23 Sat 18:27] =>  3:00
+:END:
+ [2023-09-23 Sat 15:27]
+
+** DONE Morning Stack
+CLOSED: [2023-09-24 Sun 15:28] SCHEDULED: <2023-09-24 Sun 13:30>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   2:00
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-24 Sun 13:30]--[2023-09-24 Sun 15:28] =>  1:58
+CLOCK: [2023-09-24 Sun 13:16]--[2023-09-24 Sun 13:16] =>  0:00
+:END:
+ [2023-09-24 Sun 13:08]
+
+** DONE Plan The Day
+CLOSED: [2023-09-24 Sun 13:15] SCHEDULED: <2023-09-24 Sun 13:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-24 Sun 13:06]--[2023-09-24 Sun 13:15] =>  0:09
+:END:
+ [2023-09-24 Sun 13:05]
+
+** DONE Evening Stack
+CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 21:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-24 Sun 13:10]
+- Read
+- Brush Teeth
+
+** DONE Clean Bedroom
+CLOSED: [2023-10-02 Mon 19:58] SCHEDULED: <2023-10-02 Mon 19:32>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-02 Mon 19:32]--[2023-10-02 Mon 19:58] =>  0:26
+:END:
+ [2023-09-24 Sun 13:12]
+
+** DONE Weekly Planning / Goal setting
+CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 20:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+
+ [2023-09-24 Sun 13:14]
+
+** DONE Break/Chill Time
+CLOSED: [2023-10-01 Sun 23:46]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-09-24 Sun 15:29]--[2023-09-24 Sun 15:37] =>  0:08
+:END:
+ [2023-09-24 Sun 15:28]
+
+** DONE Delete Drive Data for show
+CLOSED: [2023-10-01 Sun 14:51]
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-09-28 Thu 11:37]
+
+** DONE Work on Game Design
+CLOSED: [2023-10-02 Mon 21:53] SCHEDULED: <2023-10-02 Mon 20:15>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-02 Mon 20:14]--[2023-10-02 Mon 21:53] =>  1:39
+:END:
+ [2023-10-02 Mon 20:14]
+
+** TODO Review and parse notes from Knizia podcast :GAMEDESIGN:
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-10-06 Fri 13:22]
+ [[file:~/RoamNotes/20231006124318-reiner_knizia_systems_for_publishing_700_games.org::*Quick Notes][Quick Notes]]
 
 * Meetings
 :PROPERTIES:
@@ -959,12 +1010,14 @@ CLOCK: [2023-06-07 Wed 21:05]--[2023-06-07 Wed 21:05] =>  0:00
 :END:
 
 ** TODO Game Night in Santee
-SCHEDULED: <2023-08-01 Tue .+7d>
+SCHEDULED: <2023-10-18 Wed 19:00 .+7d>
 :PROPERTIES:
 :Effort:   4:00
-:LAST_REPEAT: [2023-07-19 Wed 11:19]
+:LAST_REPEAT: [2023-09-20 Wed 13:12]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2023-09-20 Wed 13:12]
+- State "DONE"       from "TODO"       [2023-09-18 Mon 16:08]
 - State "DONE"       from "TODO"       [2023-07-19 Wed 11:19]
 - State "DONE"       from "TODO"       [2023-06-14 Wed 15:21]
 - State "DONE"       from "TODO"       [2023-05-10 Wed 11:50]
@@ -975,15 +1028,16 @@ SCHEDULED: <2023-08-01 Tue .+7d>
 - State "DONE"       from "TODO"       [2023-02-09 Thu 10:14]
 - State "DONE"       from "TODO"       [2023-02-01 Wed 08:36]
 :END:
- [2023-01-29 Sun 16:41]
+[2023-01-29 Sun 16:41]
 
 ** TODO Game Night in Mira Mesa
-SCHEDULED: <2023-08-04 Fri 18:30 .+7d>
+SCHEDULED: <2023-10-19 Thu 18:30 .+7d>
 :PROPERTIES:
 :Effort:   4:00
-:LAST_REPEAT: [2023-07-27 Thu 23:35]
+:LAST_REPEAT: [2023-09-18 Mon 16:08]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2023-09-18 Mon 16:08]
 - State "DONE"       from "TODO"       [2023-07-27 Thu 23:35]
 - State "DONE"       from "TODO"       [2023-07-20 Thu 23:50]
 - State "DONE"       from "TODO"       [2023-07-13 Thu 11:35]
@@ -992,14 +1046,17 @@ SCHEDULED: <2023-08-04 Fri 18:30 .+7d>
 - State "DONE"       from "TODO"       [2023-02-10 Fri 09:27]
 - State "DONE"       from "TODO"       [2023-02-03 Fri 09:58]
 :END:
- [2023-02-02 Thu 00:00]
+[2023-02-02 Thu 00:00]
 
-**  Lememcon 2023                                                 :REMINDER:
- <2023-06-22 Thu 08:00>--<2023-06-25 Sun>
- [2023-06-18 Sun 15:18]
+** Lememcon 2023 :REMINDER:
+
+<2023-06-22 Thu 08:00>--<2023-06-25 Sun>
+[2023-06-18 Sun 15:18]
 
 [[https://boardgamegeek.com/geeklist/314961/lememcon-4-2023-game-list][BGG Game List for what will be there]]
+
 *** Games I'm bringing
+
 - Antiquity
 - Neuland
 - Brick & Mortar
@@ -1013,19 +1070,31 @@ SCHEDULED: <2023-08-04 Fri 18:30 .+7d>
 - Power Struggle
 - Indonesia
 - Ricoccet Robots
-* Reminders                                                        :REMINDER:
+
+** DONE Garden Grove Game Day
+CLOSED: [2023-10-15 Sun 22:26] SCHEDULED: <2023-10-15 Sun 10:00-16:00>
+:PROPERTIES:
+:CATEGORY: Event
+:END:
+
+ [2023-10-11 Wed 11:26]
+
+* Reminders :REMINDER:
 :PROPERTIES:
 :CATEGORY: Reminder
 :END:
-** Look into Road Runner sports membership & make final purcahes  :REMINDER:
- <2023-07-02 Sun 15:30> 
- [2023-06-18 Sun 15:30]
+
+** Look into Road Runner sports membership & make final purcahes :REMINDER:
+
+<2023-07-02 Sun 15:30> 
+[2023-06-18 Sun 15:30]
 
 * Special Dates
 ** Birthdays
 :PROPERTIES:
 :CATEGORY: Birthday
 :END:
+
 *** TODO Jessica's Birthday
 SCHEDULED: <2024-05-23 Thu +1y>
 :PROPERTIES:
@@ -1034,23 +1103,34 @@ SCHEDULED: <2024-05-23 Thu +1y>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-05-24 Wed 09:15]
 :END:
- [2022-12-16 Fri 15:39]
+[2022-12-16 Fri 15:39]
+
 *** TODO Mom's Birthday
-SCHEDULED: <2023-08-25 Fri +1y>
+SCHEDULED: <2024-08-25 Sun +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2023-08-29 Tue 12:27]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-29 Tue 12:27]
+:END:
+
 *** TODO Nate's Birthday
 SCHEDULED: <2024-01-19 Fri +1y>
+
 *** TODO Davy's Birthday
 SCHEDULED: <2024-04-24 Wed +1y>
+
 *** TODO Julie's Birthday
 SCHEDULED: <2023-11-18 Sat +1y>
+
 *** TODO My Birthday
 SCHEDULED: <2024-04-10 Wed +1y>
-
 
 ** Anniversaries
 :PROPERTIES:
 :CATEGORY: Anniversary
 :END:
+
 *** TODO SEAS Anniversary
 :PROPERTIES:
 :LAST_REPEAT: [2023-07-19 Wed 11:28]
@@ -1058,13 +1138,16 @@ SCHEDULED: <2024-04-10 Wed +1y>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-07-19 Wed 11:28]
 :END:
- <2024-07-20 Sat +1y>
+<2024-07-20 Sat +1y>
 Started 07/20/2020
+
 ** Holidays
 :PROPERTIES:
 :CATEGORY: Holiday
 :END:
+
 *** 4th of July
+
 <2023-07-04 Tue +1y>
 
 * Health
@@ -1077,30 +1160,28 @@ Started 07/20/2020
 :CATEGORY: Vehicle
 :END:
 
-** HOLD Fix undercarriage plastics                            :vehicle:HOLD:
+** HOLD Fix undercarriage plastics :vehicle:HOLD:
 :LOGBOOK:
 - State "HOLD"       from "TODO"       [2023-05-06 Sat 12:49] \\
   For now tape is getting the job done and I want to save money through my move.
 :END:
- [2023-01-20 Fri 11:28]
+[2023-01-20 Fri 11:28]
 
 ** TODO Get tires rotated
-SCHEDULED: <2023-08-28 Mon>
- [2023-02-28 Tue 07:33]
+SCHEDULED: <2023-10-21 Sat>
 
-** TODO Get an oil change 
-SCHEDULED: <2023-08-01 Tue 17:30 +3m>
- [2023-07-19 Wed 11:22]
+[2023-02-28 Tue 07:33]
 
+** DONE Get an oil change
+CLOSED: [2023-10-14 Sat 16:18]
 
-** TODO Get a carwash
-SCHEDULED: <2023-08-01 Tue 18:00>
- [2023-07-19 Wed 11:41]
+[2023-07-19 Wed 11:22]
 
 * Passwords
 :PROPERTIES:
 :CATEGORY: Passwords
 :END:
+
 Experian EF7
 League - @9Efh7ni49
 sdge - @9EFh7ni49
@@ -1119,61 +1200,74 @@ Seas1234! - zoom login
 
 Email: [Julie@seaspro.com](mailto:Julie@seaspro.com)
  PW: Jt97Lt00! (case sensitive)
+
 ** Other
+
 latemuploads@gmail.com -  @9Efh6ni49
 
 
     
 - Vesta Sites
-    seasdemo - Xj&GbZAI#$O8$l3AuiC%
-    Seademo - pass2
+  seasdemo - Xj&GbZAI#$O8$l3AuiC%
+  Seademo - pass2
 
 - NDSS
-    [no-reply@ndss-symposium-portal.org](mailto:no-reply@ndss-symposium-portal.org)
-    ti#iN2WJ5K$xRwiS*Von
+  [no-reply@ndss-symposium-portal.org](mailto:no-reply@ndss-symposium-portal.org)
+  ti#iN2WJ5K$xRwiS*Von
     
 
 SEAS Wifi  Pass: SEASpro!
 
 * Purchases
 ** Groceries
-*** Buy Roasted Pecan coffee beans from Sprouts
- [2023-06-09 Fri 11:56]
 
+- Buy Roasted Pecan coffee beans from Sprouts
 
 ** Other
+
 - [X] [[https://www.amazon.com/s?k=polar&crid=3B3C9DHJO7CVP&sprefix=pola%2Caps%2C282&ref=nb_sb_noss_2][Polar On Amazon]]
 - [ ][[https://www.thecode.xyz/collections/all][Code Posters]]
 - [X] [[https://store.dailystoic.com/products/7-medallion-bundle-all-the-daily-stoic-coins][Stoic Coins]]
+
+** Tech
+*** Web Server
+
 - [ ] [[https://www.amazon.com/gp/product/B0BZCTYBLT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1][Mini Comuputer server]]
 - [ ] [[https://www.amazon.com/Crucial-64GB-2x32GB-Memory-CT2K32G4S266M/dp/B08DP8CPXF/ref=sr_1_5?crid=3DT53E7LUQN9Q&keywords=2x32GB%29+DDR4+2666&qid=1689872725&s=electronics&sprefix=2x32gb+ddr4+2666%2Celectronics%2C142&sr=1-5&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0][Ram for server]]
   - I would then use Ubuntu Server with Portainer
   - running Docker
 
-  
+*** Misc
+
+- Rolling charge InDesign cable
+
 ** Someday Maybe
+
 - [[https://www.youtube.com/watch?v=bWebs3ID6Hw][Hydroponics]]
 - [[https://sleep.me][Chill Sleep Systems]]
 
-*** Side Businesses
-
-**** 3d Printing based
-- [[https://www.reddit.com/r/3Dprinting/comments/1454s2p/query_can_nails_like_this_be_3d_printed/][3d printed fake nails]] - could be sold to cosplayers or branded or just be goth or whatever. Probably ideal with a resin printer. 
-
-** DONE Get a new Tape Measure
-CLOSED: [2023-06-18 Sun 17:45] SCHEDULED: <2023-06-18 Sun 17:45>
- [2023-06-17 Sat 18:04]
-
 * Travel
 ** TSA Precheck
+
 - KTN: TT12N4HB4
 - Expire: 3/10/2027
 
   [[file:images/TSA.png][TSA]]
 
+* Important Info
+** Parents Estate & Financial Info
+
+- Matt Longland
+- matt@mblongland.com
+- (859) 486-6890
+- 25 town center blvd suite 104 Crestview Hills, Kentucky 41017
+
 * Media To Consume
 ** Books To Read
+
 - Fingerprints of the gods
+
 ** Videos to Consume
+
 - [[https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi][Personality and its transformations (University of Toronto)]]
-  
+

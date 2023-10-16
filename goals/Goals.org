@@ -1,0 +1,92 @@
+#+FILETAGS: 
+
+#+transclude: [[file:~/Orgfiles/identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] 
+
+* Goals                                                                :GOAL:
+** Active
+*** Become a Game Designer & Publisher                   :VALUE:GAMEDESIGN:
+**** Prototype 3 new games in 2023 [0/3]                         :OUTCOME:
+- [ ] Game 1 - Algorithms
+- [ ] Game 2 - Hacking Game
+- [ ] Game 3 - Abstract shape push/conquer
+**** Kickstart Bagged & Boarded                                  :OUTCOME:
+***** Project List
+****** [[file:~/Orgfiles/tasks.org::*Market Bagged & Boarded Launch][Market Bagged & Boarded Launch]]
+****** 
+
+**** Become Active on BGG                                        :OUTCOME:
+**** Start a game design blog                                    :OUTCOME:
+
+*** Master Org Mode for productivity                                :VALUE:
+**** Learn and implement the system in CPD.org                   :OUTCOME:
+
+*** Become Healthy & Fit                             :VALUE:HEALTH:FITNESS:
+**** Outline a full-fledged fitness and diet plan                :OUTCOME:
+**** Hit Target Weight [ ~135lbs~ ] =starting weight:= ~223lbs~        :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Longterm: 1yr+
+:END:
+**** Convert to a 95% WPFB Diet                                  :OUTCOME:
+**** Drop Blood Pressure to 120/70                               :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Midterm: 6mo - 1yr
+:END:
+**** Run 5k (distance) 5x a week                                 :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Longterm: 1yr+
+:END:
+**** Establish Yearly Exam Schedule                              :OUTCOME:
+**** Get Dental Situation Fully Under Control [0/4]              :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Midterm: 6mo - 1yr
+:END:
+- [ ] Get all cavities taken care of.
+- [ ] Develop a habit of flossing.
+- [ ] Move away from quarterly cleanings.
+- [ ] Get old fillings replaced.
+
+*** Gain Financial Intelligence                             :VALUE:FINANCE:
+**** Pay off debt [1/4]                                          :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Longterm: 1yr+
+:END:
+- [ ] Paypal ($1,185.07)
+- [ ] US Bank ($5,000)
+- [ ] Jessica ($1400)
+- [X] Car ($1,017.60) 
+**** Setup Ledger and build daily habit of use [1/2]             :OUTCOME:
+- [X] Setup ledger (~across all emacs installs~)
+- [ ] Build daily habit of use
+**** Determine a reliable monthly expenditure amount             :OUTCOME:
+**** Establish 3 Month Emergency Fund (Seperate from poker bankroll) :OUTCOME:
+
+*** Know Thyself                                :VALUE:IDENTITY:PHILOSOPHY:
+**** Fully build out my value and outcome goals [0/2]            :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Short-term: 3mo - 6mo
+:END:
+- [ ] Complete all initial value goals
+- [ ] Complete all initial outcome goals
+  
+*** Become Well Read                                  :VALUE:MINDEXPANSION:
+**** Read 2 new books in 2023 [0/2]                              :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Short-term: 3mo - 6mo
+:END:
+- [ ] Book 1 - Stillness is the key
+- [ ] Book 2 - Peter Attia Outlive
+**** Read 12 new books in 2024 [0/12]                            :OUTCOME:
+- [ ] Book 1
+- [ ] Book 2
+- [ ] Book 3
+- [ ] Book 4
+- [ ] Book 5
+- [ ] Book 6
+- [ ] Book 7
+- [ ] Book 8
+- [ ] Book 9
+- [ ] Book 10
+- [ ] Book 11
+- [ ] Book 12
+** Waiting / Someday Maybe
+*** Become employed as a programmer
