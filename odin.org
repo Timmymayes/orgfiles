@@ -6,13 +6,3 @@
 :PROPERTIES:
 :CATEGORY: Odin
 :END:
-*** HOLD Update button to a toggle switch                            :HOLD:
-:LOGBOOK:
-- State "HOLD"       from "TODO"       [2023-01-27 Fri 14:48] \\
-  I'll come back to this when I have time
-- State "WAITING"    from "TODO"       [2022-12-13 Tue 09:41] \\
-  Changed to waiting for a test
-:END:
- [2022-11-27 Sun 14:46]
- [[file:~/Projects/odin-library/main.js::// https://www.w3schools.com/howto/howto_css_switch.asp]]
-

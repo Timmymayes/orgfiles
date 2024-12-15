@@ -1,5 +1,8 @@
 #+FILETAGS: CONFIG
 * Notes
+:PROPERTIES:
+:CATEGORY: Note
+:END:
 **  Recording Continous Professional Development                      :NOTE:
 [2023-01-27 Fri]
 
@@ -24,17 +27,22 @@ Execute the code block below i fyou run into any encoding issues
 #+RESULTS:
 
 
+** Under Shelf Dimensions For Husky                                   :NOTE:
+[2024-02-10 Sat]
+- 68.5 x 16.25
+** Emacs Key Commands                                                 :NOTE:
+[2024-03-22 Fri]
+#+transclude: [[file:configbackups/main-config.org::*Window Movement Keymap][Window Movement Keymap]]
+
+#+transclude: [[file:configbackups/main-config.org::*Cursor Movement Keymap][Cursor Movement Keymap]]
+
+
 * Tasks
 :PROPERTIES:
 :CATEGORY: Task
 :END:
 ** TODO Figure out sending mail through gmail with Mu4e
  [2023-01-14 Sat 13:04]
-
-** DONE [#E] Setup some kind of syncing and figure out how to tie in Orgzly
-CLOSED: [2023-09-20 Wed 13:30] SCHEDULED: <2023-08-20 Sun>
- [2023-01-20 Fri 11:18]
-
 
 ** TODO Org
 :PROPERTIES:
@@ -45,18 +53,6 @@ CLOSED: [2023-09-20 Wed 13:30] SCHEDULED: <2023-08-20 Sun>
 - State "WAITING"    from "TODO"       [2023-08-01 Tue 21:08] \\
   Waiting on new things I need to implement
 :END:
-*** TODO Create package to allow all-the-icons to insert from game-icons and maybe even noun-project
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "TODO"       from "HOLD"       [2022-12-16 Fri 13:21]
-- State "TODO"       from "HOLD"       [2022-12-13 Tue 21:15]
-- State "HOLD"       from "TODO"       [2022-12-13 Tue 09:41] \\
-  Set to hold until ready
-:END:
- [2022-11-24 Thu 15:32]
- [[file:~/Game Designs/Zombie Rebuild/design/Design-Log.org::*Timeline][Timeline]]
 *** DONE Move from handbuilt init.el to a proper .org version
 CLOSED: [2023-03-26 Sun 17:25]
 [2022-12-16 Fri 13:14]
@@ -132,7 +128,7 @@ CLOSED: [2023-08-01 Tue 18:59]
 
 
  This will require a function that determines the current category and flip flops it 
-*** TODO Create agenda views to be able to goal/accomplishment/etc 
+*** NEXT Create agenda views to be able to see goal/accomplishment/etc 
 :PROPERTIES:
 :CATEGORY: Task
 :END:
@@ -147,7 +143,12 @@ CLOSED: [2023-08-01 Tue 18:59]
 
  Probably want to use a property drawer and maybe some ids? Also look into the CPD.org stuff with goals 
 
-** HOLD Build an install package that installs dependancies   :HOLD:
+*** Overview
+I want to be able to see all of my "events" on a calendar. I may need to parse events out of the core tasks.org file for this, not fully sure yet. Ideally I can grab only from one heading or do some sort of filtering with Calfw.
+
+For now we just have it setup as a default and we'll want to build out our views and see how things are going. I imagine full days will start to look really full since it shows completed items as well. 
+
+** HOLD Build an install bash script that installs dependancies       :HOLD:
 :PROPERTIES:
 :CATEGORY: Project
 :END:
@@ -182,25 +183,6 @@ For fresh installs. Didn't work on windows.
 :END:
 
 
-*** CANCELLED Update js-comint-send-region-and-go to be a macro :CANCELLED:
-CLOSED: [2023-08-01 Tue 21:10]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-08-01 Tue 21:10] \\
-  Figure out if we need this later
-:END:
-so that default install works out of the box instead of my edits I made. 
-
-*** NEXT Create a zoom-to function for org-agenda
-:PROPERTIES:
-:CATEGORY: Task
-:END:
- [2023-08-06 Sun 23:03]
- [[file:~/Orgfiles/config.org::*Build Custom Functions][Build Custom Functions]]
-
- I want a function + hotkey to quickly Zoom into a task or project. It should open then narrow to 
 ** HOLD Setup default tag filter function for work / linux configs.   :HOLD:
 :LOGBOOK:
 - State "HOLD"       from "TODO"       [2023-07-31 Mon 11:20] \\
@@ -221,8 +203,17 @@ Ensure this filters out config, hold and review by default.
 :CATEGORY: Task
 :END:
  [2022-12-16 Fri 13:39]
+** TODO Move my system to overall metric capture not weekly capture. 
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-02-24 Sat 10:35]
+Need to implement gnuplot and do actual metric capture to create larger data sets such that I'd be able view my data over
+longer
+time periods. 
+
 * Reminders                                                        :REMINDER:
-* Someday
+* Someday Maybe
 ** Package Ideas
 *** Side peak help buffer with hotkeys (Think Treemacs)
 This would be an addon for help likely that enable you to define command groupings that you can call up as side bars for contextual reference. This could be logical groupings like "org uml hotkeys" or "narrow/widen" or it could be "trying to internalize". These are essentially notes and hotkeys for "cheatsheet" type learning tools. 
@@ -230,3 +221,24 @@ This would be an addon for help likely that enable you to define command groupin
 *** Ace Window Scroll
 An addon that lets you bind a command to scroll a specific ace window when multilpe are open. 
 
+** Org Tasks
+:LOGBOOK:
+- State "HOLD"       from "TODO"       [2023-10-22 Sun 22:31] \\
+  A holding project for org tasks
+:END:
+*** TODO Create package to allow all-the-icons to insert from game-icons and maybe even noun-project
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "TODO"       from "HOLD"       [2022-12-16 Fri 13:21]
+- State "TODO"       from "HOLD"       [2022-12-13 Tue 21:15]
+- State "HOLD"       from "TODO"       [2022-12-13 Tue 09:41] \\
+  Set to hold until ready
+:END:
+ [2022-11-24 Thu 15:32]
+ [[file:~/Game Designs/Zombie Rebuild/design/Design-Log.org::*Timeline][Timeline]]

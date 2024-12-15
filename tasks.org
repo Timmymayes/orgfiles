@@ -1,17 +1,12 @@
 #+FILETAGS: PERSONAL
-
-#+BEGIN: clocktable :scope file :maxlevel 2 :block thisweek
-#+CAPTION: Clock summary at [2023-10-08 Sun 14:11], for week 2023-W40.
-| Headline                | Time |      |
-|-------------------------+------+------|
-| *Total time*              | *2:05* |      |
-|-------------------------+------+------|
-| Tasks                   | 2:05 |      |
-| \_  Clean Bedroom       |      | 0:26 |
-| \_  Work on Game Design |      | 1:39 |
+#+BEGIN: clocktable :scope file :maxlevel 2 :block thismonth
+#+CAPTION: Clock summary at [2024-12-11 Wed 13:00], for December 2024.
+| Headline   | Time |
+|------------+------|
+| *Total time* | *0:00* |
 #+END:
 
-* Notes & Ideas
+* Notes
 :PROPERTIES:
 :CATEGORY: Note
 :END:
@@ -31,7 +26,6 @@
 | Comic Drake      | Comic Focused | 425k     | [[https://www.youtube.com/user/ComicDrake][Youtube]] |                        | No               |                           |
 | Nerdsync         | Comic Focused | 534k     | [[https://www.youtube.com/channel/UCURz5rKDgt7YibUSageNhEw][Youtube]] | nerdsync@standard.tv   | yes              |                           |
 | Prozd            | Game Focused  | 3.9 mil  | [[https://www.youtube.com/user/ProZD/featured][Youtube]] | prozdkp@gmail.com      | No               |                           |
-|                  |               |          |         |                        |                  |                           |
 
 *** Design Ideas
 **** Token Pools as Dice Solution
@@ -558,435 +552,20 @@ I'm using standard Prusa Slicer supports, spacing at 3mm. Set your vertical offs
 
 - [[https://www.youtube.com/c/ChippWalters/videos][Chipp Walters - SciFi Style]]
 
+** Desk Dimensions :NOTE:
+
+[2024-01-11 Thu]
+
+63" x 27.5"
+
+** Comic style content idea                                           :NOTE:
+[2024-06-11 Tue]
+
+https://pocket-syndicated-images.s3.amazonaws.com/60ff587601ad4.jpg
 * Tasks
 :PROPERTIES:
 :CATEGORY: Task
 :END:
-
-** TODO Perform Annual Planning [12/13]
-:PROPERTIES:
-:CATEGORY: Project
-:END:
-
-:PROPERTIES:
-:CATEGORY: Project
-:END:
-
- [2023-01-14 Sat 11:19]
-
-*** DONE Clean up Habits file
-CLOSED: [2023-01-29 Sun 13:01] SCHEDULED: <2023-01-29 Sun 12:30>
-:PROPERTIES:
-:Effort:   0:30
-:END:
-:LOGBOOK:
-CLOCK: [2023-01-29 Sun 12:36]--[2023-01-29 Sun 13:01] =>  0:25
-:END:
- [2023-01-14 Sat 11:28]
-
-*** DONE Clean up good notes
-CLOSED: [2023-08-06 Sun 20:42] SCHEDULED: <2023-08-06 Sun 19:45>
-:PROPERTIES:
-:CATEGORY: Task
-:Effort:   1:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-08-06 Sun 19:46]--[2023-08-06 Sun 20:42] =>  0:56
-:END:
-
- [2023-01-14 Sat 11:25]
-
-*** DONE [#E] Setup 2023 Ledger fresh
-CLOSED: [2023-07-30 Sun 21:40] SCHEDULED: <2023-07-30 Sun 21:00>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-07-30 Sun 21:06]--[2023-07-30 Sun 21:40] =>  0:34
-:END:
- [2023-01-14 Sat 11:25]
-
-*** DONE Clean out Google Drive
-CLOSED: [2023-02-05 Sun 20:17] SCHEDULED: <2023-01-22 Sun>
-
- [2023-01-14 Sat 11:24]
-
-*** DONE List & Review Accomplishments & Dissapointments
-CLOSED: [2023-01-15 Sun 11:36] SCHEDULED: <2023-01-15 Sun 11:00>
-:PROPERTIES:
-:Effort:   45
-:END:
-:LOGBOOK:
-CLOCK: [2023-01-15 Sun 11:05]--[2023-01-15 Sun 11:36] =>  0:31
-:END:
- [2023-01-14 Sat 12:40]
-
-*** DONE Conduct Deep Reflection
-CLOSED: [2023-01-15 Sun 18:44] SCHEDULED: <2023-01-15 Sun 11:30>
-:PROPERTIES:
-:Effort:   5:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-01-15 Sun 11:36]--[2023-01-15 Sun 18:44] =>  7:08
-:END:
- [2023-01-14 Sat 12:43]
-
-- Reflect
-- Interperet
-- Visualize
-
-*** DONE Systems Review & Setup
-CLOSED: [2023-05-08 Mon 21:28] SCHEDULED: <2023-05-06 Sat 13:00>
-:PROPERTIES:
-:Effort:   3:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-05-06 Sat 12:56]--[2023-05-07 Sun 22:04] => 33:08
-:END:
- [2023-01-14 Sat 12:44]
-
-  - Guiding Principle
-  - Pillars
-  - Value Goals
-  - Habits
-  - Goal Outcomes
-  - Projects
-
-*** DONE Review Annual Plan and determine Guiding Principles
-CLOSED: [2023-01-27 Fri 16:37] SCHEDULED: <2023-01-27 Fri 16:15>
-:LOGBOOK:
-CLOCK: [2023-01-27 Fri 16:13]--[2023-01-27 Fri 16:37] =>  0:24
-:END:
- [2023-01-27 Fri 16:12]
- [[file:~/Orgfiles/tasks.org::*Perform Annual Planning][Perform Annual Planning]]
-
-*** DONE Work out weekly Review
-CLOSED: [2023-02-05 Sun 21:05]
-
- [2023-01-29 Sun 16:46]
-
-*** DONE Design & Implement Weekly Review Process
-CLOSED: [2023-08-13 Sun 22:37]
-:PROPERTIES:
-:CATEGORY: Project
-:END:
-
- [2023-01-29 Sun 16:47]
-
-**** DONE Rebuild my metric staging table
-CLOSED: [2023-08-01 Tue 19:20]
-
- [2023-06-18 Sun 22:31]
- [[file:~/Orgfiles/BodyTransformation.org::*Metrics][Metrics]]
-
-**** DONE Update yas snippet for weekly review
-CLOSED: [2023-08-13 Sun 22:37]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-08-06 Sun 23:20]
-
-*** CANCELLED annual planning counter teest :CANCELLED:
-CLOSED: [2023-06-18 Sun 22:07]
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-06-18 Sun 22:07] \\
-  test event
-:END:
- [2023-06-17 Sat 18:10]
-
-*** DONE Clean up Evernote
-CLOSED: [2023-08-01 Tue 19:00]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-07-19 Wed 11:52]
-
-*** NEXT Reconfigure weekly/monthly process
-SCHEDULED: <2023-10-08 Sun>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-07-30 Sun 14:46]
-
-** CANCELLED Share Dactyl Layout with Reddit User :CANCELLED:
-CLOSED: [2023-09-07 Thu 08:54]
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-09-07 Thu 08:54] \\
-  Not doing this
-:END:
-
- [2023-06-28 Wed 10:49]
- [[https://www.reddit.com/r/emacs/comments/14kgnsh/comment/jprsbs4/?utm_source=share&utm_medium=web2x&context=3][Reddit Post to reply to]]
-
-** TODO Sell off unwanted board games
-
- [2023-07-19 Wed 11:21]
-
-** TODO Develop Next version of Zombie game :GAMEDESIGN:
-:PROPERTIES:
-:CATEGORY: Project
-:END:
-
- [2023-07-19 Wed 11:45]
-
-*** NEXT Review the game design and build out project
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-08-01 Tue 21:15]
- [[file:~/Orgfiles/tasks.org::*Develop Next version of Zombie game][Develop Next version of Zombie game]]
-
-** TODO Rebuild heat block on 3d printer
-
- [2023-07-19 Wed 11:49]
-
-** TODO Market Bagged & Boarded Launch
-:PROPERTIES:
-:CATEGORY: Project
-:END:
-
- [2023-07-19 Wed 11:49]
-
-*** NEXT Build a marketing plan
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-07-19 Wed 11:50]
-
-*** WAITING Set a meeting with Nick to go over bagged & Boarded :WAITING:
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "WAITING"    from "TODO"       [2023-07-19 Wed 11:51] \\
-  Need to put ducks in a row then setup a meeting
-:END:
- [2023-07-19 Wed 11:51]
-
-** TODO Take body measurements
-SCHEDULED: <2023-10-29 Sun>
-
- [2023-07-25 Tue 09:30]
- [[file:~/Orgfiles/BodyTransformation.org::*Measurements][Measurements]]
-
-** CANCELLED Work on inputting game designs into emacs :CANCELLED:
-CLOSED: [2023-09-23 Sat 15:01] SCHEDULED: <2023-09-20 Wed 18:00>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "CANCELLED"  from "CANCELLED"  [2023-09-23 Sat 15:01] \\
-  This is bigger than a simple task
-:END:
-
-[2023-08-01 Tue 09:25]
-
-** DONE Cancel or be sure you have funds to renew Cardboardconnoisseur.com
-CLOSED: [2023-09-20 Wed 13:31] SCHEDULED: <2023-08-27 Sun>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-08-13 Sun 21:45]
-
-Email link: https://mail.google.com/mail/u/0/#inbox/FMfcgzGtwgbtwPZTvSBvsRfwVTKLxFdD
-
-** TODO Setup DL on your phone
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-08-17 Thu 12:04]
-https://www.dmv.ca.gov/portal/ca-dmv-wallet/
-
-** CANCELLED Buy Nespresso :CANCELLED:
-CLOSED: [2023-09-18 Mon 16:08] SCHEDULED: <2023-09-16 Sat>
-:PROPERTIES:
-:CATEGORY: Tasks
-:END:
-
- [2023-09-07 Thu 08:37]
-
-** TODO Catch up ledger
-SCHEDULED: <2023-10-08 Sun 14:00>
-:PROPERTIES:
-:CATEGORY: Tasks
-:END:
-
- [2023-09-07 Thu 08:53]
-
-** TODO Read Richard Garfield Interview
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-09-12 Tue 16:03]
- [[file:~/RoamNotes/20230912160219-richard_garfield.org::*Interviews & articles][Interviews & articles]]
-
-** DONE Run through simple finance planning for rest of year
-CLOSED: [2023-09-23 Sat 15:01] SCHEDULED: <2023-09-20 Wed>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-09-20 Wed 13:33]
-
-** DONE Grocery Shop
-CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 15:45>
-:PROPERTIES:
-:CATEGORY: Task
-:Effort:   1:00
-:END:
-
- [2023-09-23 Sat 15:02]
-- Target
-  - Cleaning supply for toilet
-  - bathmat front of toilet
-  - mason jar lids
-- Frazier
-  - Salad stuff
-  - Quinoa
-  - Black Beans
-  - Red Lentils
-  - veggies for roasting
-  - white onion
-  - Berries
-  - Bananas
-
-** DONE Meal Prep
-CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 17:00>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-09-23 Sat 15:02]
-
-Prep some food for the week(beans / quinoa etc)
-
-** CANCELLED Set some weekly goals :CANCELLED:
-CLOSED: [2023-09-24 Sun 13:16] SCHEDULED: <2023-09-24 Sun>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-09-24 Sun 13:16] \\
-  Incorporated to another task
-:END:
- [2023-09-23 Sat 15:03]
-
-** CANCELLED Clean Cpap :CANCELLED:
-CLOSED: [2023-09-23 Sat 15:04]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-- State "CANCELLED"  from "TODO"       [2023-09-23 Sat 15:04] \\
-  already on habit list
-:END:
- [2023-09-23 Sat 15:03]
-
-** DONE Do laundry
-CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 18:00>
-:PROPERTIES:
-:CATEGORY: Task
-:Effort:   1:00
-:END:
-
- [2023-09-23 Sat 15:04]
-
-** DONE Do initial work on "Algorithms" design
-CLOSED: [2023-09-24 Sun 13:07] SCHEDULED: <2023-09-23 Sat>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-09-23 Sat 15:27]--[2023-09-23 Sat 18:27] =>  3:00
-:END:
- [2023-09-23 Sat 15:27]
-
-** DONE Morning Stack
-CLOSED: [2023-09-24 Sun 15:28] SCHEDULED: <2023-09-24 Sun 13:30>
-:PROPERTIES:
-:CATEGORY: Task
-:Effort:   2:00
-:END:
-:LOGBOOK:
-CLOCK: [2023-09-24 Sun 13:30]--[2023-09-24 Sun 15:28] =>  1:58
-CLOCK: [2023-09-24 Sun 13:16]--[2023-09-24 Sun 13:16] =>  0:00
-:END:
- [2023-09-24 Sun 13:08]
-
-** DONE Plan The Day
-CLOSED: [2023-09-24 Sun 13:15] SCHEDULED: <2023-09-24 Sun 13:00>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-09-24 Sun 13:06]--[2023-09-24 Sun 13:15] =>  0:09
-:END:
- [2023-09-24 Sun 13:05]
-
-** DONE Evening Stack
-CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 21:00>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-09-24 Sun 13:10]
-- Read
-- Brush Teeth
-
-** DONE Clean Bedroom
-CLOSED: [2023-10-02 Mon 19:58] SCHEDULED: <2023-10-02 Mon 19:32>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-10-02 Mon 19:32]--[2023-10-02 Mon 19:58] =>  0:26
-:END:
- [2023-09-24 Sun 13:12]
-
-** DONE Weekly Planning / Goal setting
-CLOSED: [2023-09-25 Mon 11:22] SCHEDULED: <2023-09-24 Sun 20:00>
-:PROPERTIES:
-:CATEGORY: Task
-:Effort:   1:00
-:END:
-
- [2023-09-24 Sun 13:14]
-
-** DONE Break/Chill Time
-CLOSED: [2023-10-01 Sun 23:46]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-09-24 Sun 15:29]--[2023-09-24 Sun 15:37] =>  0:08
-:END:
- [2023-09-24 Sun 15:28]
-
-** DONE Delete Drive Data for show
-CLOSED: [2023-10-01 Sun 14:51]
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-
- [2023-09-28 Thu 11:37]
-
-** DONE Work on Game Design
-CLOSED: [2023-10-02 Mon 21:53] SCHEDULED: <2023-10-02 Mon 20:15>
-:PROPERTIES:
-:CATEGORY: Task
-:END:
-:LOGBOOK:
-CLOCK: [2023-10-02 Mon 20:14]--[2023-10-02 Mon 21:53] =>  1:39
-:END:
- [2023-10-02 Mon 20:14]
 
 ** TODO Review and parse notes from Knizia podcast :GAMEDESIGN:
 :PROPERTIES:
@@ -996,12 +575,217 @@ CLOCK: [2023-10-02 Mon 20:14]--[2023-10-02 Mon 21:53] =>  1:39
  [2023-10-06 Fri 13:22]
  [[file:~/RoamNotes/20231006124318-reiner_knizia_systems_for_publishing_700_games.org::*Quick Notes][Quick Notes]]
 
+** TODO Read Zendo Design Blog
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+
+ [2023-10-25 Wed 10:56]
+
+http://www.koryheath.com/zendo/design-history/
+
+** DONE Sunday Reset
+CLOSED: [2024-12-09 Mon 18:04] SCHEDULED: <2024-11-24 Sun>
+
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2024-03-31 Sun 11:32]
+
+
+*** DONE Clean Room                                             
+CLOSED: [2024-12-09 Mon 18:04] SCHEDULED: <2024-11-24 Sun 17:00>
+
+*** DONE Batch Cook
+CLOSED: [2024-11-24 Sun 12:37] SCHEDULED: <2024-11-03 Sun 18:00>
+** TODO Work On game prototype (Supply Chains)                  :GAMEDESIGN:
+SCHEDULED: <2024-12-14 Sat>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   2:00
+:END:
+ [2024-04-01 Mon 14:59]
+
+** Poker Bankroll Tracker will Renew                              :REMINDER:
+ <2024-05-13 Mon 10:17 +1y> 
+ [2024-04-15 Mon 10:17]
+Google Play
+
+** NEXT Octoraffe Notion Build Out
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-04-15 Mon 10:24]
+
+
+*** NEXT Review Notion and determine what needs done
+SCHEDULED: <2024-12-13 Fri 16:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-11-24 Sun 12:42]
+ [[file:~/Orgfiles/tasks.org::*Octoraffe Notion Build Out][Octoraffe Notion Build Out]]
+
+** NEXT Market Bagged & Boarded
+:PROPERTIES:
+:CATEGORY: Project
+:END:
+ [2024-04-15 Mon 10:25]
+
+*** CANCELLED Work on Bagged & Boarded Kickstarter    :Octoraffe:CANCELLED:
+CLOSED: [2024-10-29 Tue 12:56] SCHEDULED: <2024-10-07 Mon 19:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2024-10-29 Tue 12:56] \\
+  Need to make a better task than this. It's too broad
+- State "TODO"       from "WAITING"    [2024-04-07 Sun 14:15]
+:END:
+ [2024-04-01 Mon 14:47]
+
+*** DONE Write blogs for Octoraffe
+CLOSED: [2024-05-27 Mon 11:55] SCHEDULED: <2024-05-01 Wed 20:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-04-01 Mon 14:48]
+
+** BGG Con                                                        :REMINDER:
+<2024-11-11 Tue>--<2024-11-18 Mon>
+ [2024-10-09 Wed 12:58]
+
+** San San South Circuit Event                                    :REMINDER:
+ <2024-11-03 Sun 10:00>--<2024-11-03 Sun 15:00>
+ [2024-10-29 Tue 11:05]
+
+** OC Thankgiving Bonus Game Day                                  :REMINDER:
+ <2024-11-30 Sat 10:00> 
+ [2024-10-29 Tue 12:02]
+
+** DONE Grocery Shop at Frasier (coffee & bulk)
+CLOSED: [2024-11-21 Thu 13:53] SCHEDULED: <2024-10-30 Wed 17:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-10-29 Tue 13:12]
+
+
+*** DONE Shop at Farmers Market
+CLOSED: [2024-11-21 Thu 13:53] SCHEDULED: <2024-11-02 Sat 10:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-10-29 Tue 13:16]
+
+
+*** DONE Clean
+CLOSED: [2024-11-21 Thu 13:53] SCHEDULED: <2024-10-31 Thu 17:30>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+ [2024-10-29 Tue 13:34]
+
+**** DONE Lunch 
+CLOSED: [2024-10-29 Tue 15:04] SCHEDULED: <2024-10-29 Tue 14:00>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   1:00
+:END:
+:LOGBOOK:
+CLOCK: [2024-10-29 Tue 14:04]--[2024-10-29 Tue 15:04] =>  1:00
+:END:
+ [2024-10-29 Tue 13:34]
+
+**** DONE Leave to Game Night
+CLOSED: [2024-10-29 Tue 23:59] SCHEDULED: <2024-10-29 Tue 18:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-10-29 Tue 13:35]
+
+** DONE Plan the day
+CLOSED: [2024-11-24 Sun 12:54] SCHEDULED: <2024-11-24 Sun 12:40>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   0:30
+:END:
+:LOGBOOK:
+CLOCK: [2024-11-24 Sun 12:39]--[2024-11-24 Sun 12:54] =>  0:15
+:END:
+ [2024-11-24 Sun 12:39]
+
+
+** DONE Spend time working on multiscalar planning
+CLOSED: [2024-12-09 Mon 18:03] SCHEDULED: <2024-11-24 Sun 13:30>
+:PROPERTIES:
+:CATEGORY: Task
+:Effort:   3:00
+:END:
+ [2024-11-24 Sun 12:50]
+
+** DONE SLEEP
+CLOSED: [2024-12-09 Mon 18:03] SCHEDULED: <2024-11-24 Sun 22:00>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-11-24 Sun 12:53]
+
+** DONE Grocery Shop for pot luck
+CLOSED: [2024-11-24 Sun 18:11] SCHEDULED: <2024-11-24 Sun 17:30>
+:PROPERTIES:
+:CATEGORY: Task
+:ID:       f710e7ff-e868-4599-b1d8-cee4c3717c4d
+:END:
+ [2024-11-24 Sun 17:07]
+
+ [[file:data/f7/10e7ff-e868-4599-b1d8-cee4c3717c4d/shopping list.png]]
+
+** TODO Plan games for friendsgiving
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-11-24 Sun 18:14]
+*** 3p (pre Cauldrin arrival)
+- Taluva
+- Shinjuku
+- Mind Mgmt
+- Scout
+- Mind Bug
+- Cats
+- Haggis
+- 
+*** 5p (Post Cauldrin arrival)
+- RA
+- TF Mars
+- Bus
+- Antike
+- Broom Service
+- No Thanks
+ 
+** TODO Order Straight magnet connector
+SCHEDULED: <2024-12-15 Sun>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-12-09 Mon 15:05]
+https://www.amazon.com/gp/product/B09WJWQMML/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
+** TODO Buy off noble Knight
+SCHEDULED: <2024-12-15 Sun>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-12-11 Wed 11:36]
+Gheos - https://www.nobleknight.com/P/2147367925/Gheos?UTM_Campaign=BGG_Shop_Now&awid=1292
+
+Prospectus -  https://www.nobleknight.com/P/2147804298/Prospectus?UTM_Campaign=BGG_Shop_Now&awid=1292
 * Meetings
 :PROPERTIES:
 :CATEGORY: Meeting
 :END:
 
-* Events
+* Events                                                              :Event:
 :PROPERTIES:
 :CATEGORY: Event
 :END:
@@ -1009,85 +793,104 @@ CLOCK: [2023-10-02 Mon 20:14]--[2023-10-02 Mon 21:53] =>  1:39
 CLOCK: [2023-06-07 Wed 21:05]--[2023-06-07 Wed 21:05] =>  0:00
 :END:
 
-** TODO Game Night in Santee
-SCHEDULED: <2023-10-18 Wed 19:00 .+7d>
-:PROPERTIES:
-:Effort:   4:00
-:LAST_REPEAT: [2023-09-20 Wed 13:12]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-09-20 Wed 13:12]
-- State "DONE"       from "TODO"       [2023-09-18 Mon 16:08]
-- State "DONE"       from "TODO"       [2023-07-19 Wed 11:19]
-- State "DONE"       from "TODO"       [2023-06-14 Wed 15:21]
-- State "DONE"       from "TODO"       [2023-05-10 Wed 11:50]
-- State "DONE"       from "TODO"       [2023-05-06 Sat 12:39]
-- State "DONE"       from "TODO"       [2023-04-11 Tue 10:21]
-- State "DONE"       from "TODO"       [2023-03-26 Sun 17:26]
-- State "DONE"       from "TODO"       [2023-02-21 Tue 12:07]
-- State "DONE"       from "TODO"       [2023-02-09 Thu 10:14]
-- State "DONE"       from "TODO"       [2023-02-01 Wed 08:36]
-:END:
-[2023-01-29 Sun 16:41]
+** Netrunner Cube Draft                                           :REMINDER:
+ <2024-12-29 Sun 12:09> 
+ [2024-10-29 Tue 12:09]
 
-** TODO Game Night in Mira Mesa
-SCHEDULED: <2023-10-19 Thu 18:30 .+7d>
-:PROPERTIES:
-:Effort:   4:00
-:LAST_REPEAT: [2023-09-18 Mon 16:08]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-09-18 Mon 16:08]
-- State "DONE"       from "TODO"       [2023-07-27 Thu 23:35]
-- State "DONE"       from "TODO"       [2023-07-20 Thu 23:50]
-- State "DONE"       from "TODO"       [2023-07-13 Thu 11:35]
-- State "DONE"       from "TODO"       [2023-03-26 Sun 17:26]
-- State "DONE"       from "TODO"       [2023-02-21 Tue 12:07]
-- State "DONE"       from "TODO"       [2023-02-10 Fri 09:27]
-- State "DONE"       from "TODO"       [2023-02-03 Fri 09:58]
-:END:
-[2023-02-02 Thu 00:00]
+** Netrunner Game Day                                             :REMINDER:
+ <2024-11-06 Wed 18:00> 
+ [2024-10-29 Tue 12:06]
 
-** Lememcon 2023 :REMINDER:
+** Octoraffe Weekly Meeting                                       :REMINDER:
+ <2024-11-02 Sat 19:00> 
+ [2024-10-29 Tue 11:46]
 
-<2023-06-22 Thu 08:00>--<2023-06-25 Sun>
-[2023-06-18 Sun 15:18]
+** Octoraffe Weekly Meeting                                       :REMINDER:
+ <2024-11-09 Sat 19:00> 
+ [2024-10-29 Tue 11:47]
 
-[[https://boardgamegeek.com/geeklist/314961/lememcon-4-2023-game-list][BGG Game List for what will be there]]
+** OC November Game Day                                           :REMINDER:
+ <2024-11-09 Sat 10:00> 
+ [2024-10-29 Tue 11:57]
 
-*** Games I'm bringing
 
-- Antiquity
-- Neuland
-- Brick & Mortar
-- Star Wars: Rebellion
-- Pax Pamir: Second Edition
-- Captain Sonar
-- Innovation
-- The Great Zimbabwe
-- Carolus Magnus
-- Rat Race
-- Power Struggle
-- Indonesia
-- Ricoccet Robots
 
-** DONE Garden Grove Game Day
-CLOSED: [2023-10-15 Sun 22:26] SCHEDULED: <2023-10-15 Sun 10:00-16:00>
-:PROPERTIES:
-:CATEGORY: Event
-:END:
 
- [2023-10-11 Wed 11:26]
+** Thankgiving w/ Jim & Sandra                                    :REMINDER:
+ <2024-11-28 Thu 10:00>--<2024-12-01 Sun>
+ [2024-10-29 Tue 12:02]
+
+** DONE Arcane Event in LA                                        :REMINDER:
+CLOSED: [2024-11-24 Sun 11:28] SCHEDULED: <2024-11-22 Fri 15:00>
+ [2024-10-29 Tue 12:05]
+
+** League of Legends Worlds                                       :REMINDER:
+ <2024-11-02 Sat 07:00> 
+ [2024-10-29 Tue 13:21]
 
 * Reminders :REMINDER:
 :PROPERTIES:
 :CATEGORY: Reminder
 :END:
 
-** Look into Road Runner sports membership & make final purcahes :REMINDER:
+** Look into Road Runner sports membership & make final purcahes  :REMINDER:
 
-<2023-07-02 Sun 15:30> 
+<2025-06-27 Thu 15:30> 
 [2023-06-18 Sun 15:30]
+
+** Netrunner Game Day                                             :REMINDER:
+ <2024-11-20 Wed 18:00> 
+ [2024-10-29 Tue 13:51]
+
+
+** Octoraffe Meeting                                              :REMINDER:
+ <2024-11-23 Sat 19:00> 
+ [2024-10-29 Tue 13:51]
+
+** Santee Game Day                                                :REMINDER:
+ <2024-11-05 Tue 19:30> 
+ [2024-10-29 Tue 13:53]
+
+** This San Marcos Game Day :REMINDER:
+:PROPERTIES:
+:ID:       996a649c-e12e-41b1-a722-8eea0ae94d48
+:END:
+ <2024-11-07 Thu 19:00> 
+ [2024-10-29 Tue 13:54]
+ - [[file:data/99/6a649c-e12e-41b1-a722-8eea0ae94d48/Chat Screenshot.png]]
+   
+
+** San Marcos Game Day                                            :REMINDER:
+ <2024-11-21 Thu 19:00> 
+ [2024-10-29 Tue 13:54]
+
+** Santee Game Day                                                :REMINDER:
+ <2024-11-26 Tue 19:30> 
+ [2024-10-29 Tue 13:55]
+
+** Santee Game Day                                                :REMINDER:
+ <2024-11-19 Tue 19:30> 
+ [2024-10-29 Tue 13:59]
+
+* Recurring                                                       :RECURRING:PERSONAL:
+:PROPERTIES:
+:CATEGORY: Recurring
+:END:
+** Game Night in Santee 19:00-23:00
+
+<%%(memq(calendar-day-of-week date) '(2))>
+[2023-01-29 Sun 16:41]
+
+** Game Night @ Nick & Natalie's 19:00-22:30
+
+<%%(memq(calendar-day-of-week date) '(4))>
+[2023-02-02 Thu 00:00]
+
+** Octoraffe Weekly Meeting 19:00
+CLOSED: [2024-04-07 Sun 12:50]
+
+<%%(memq(calendar-day-of-week date) '(6))>
+[2024-02-22 Thu 12:44]
 
 * Special Dates
 ** Birthdays
@@ -1096,36 +899,108 @@ CLOSED: [2023-10-15 Sun 22:26] SCHEDULED: <2023-10-15 Sun 10:00-16:00>
 :END:
 
 *** TODO Jessica's Birthday
-SCHEDULED: <2024-05-23 Thu +1y>
+SCHEDULED: <2025-05-23 Fri +1y>
 :PROPERTIES:
-:LAST_REPEAT: [2023-05-23 Tue]
+:LAST_REPEAT: [2024-05-27 Mon 11:55]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2024-05-27 Mon 11:55]
 - State "DONE"       from "TODO"       [2023-05-24 Wed 09:15]
 :END:
 [2022-12-16 Fri 15:39]
 
+*** TODO Daniel Bornman
+SCHEDULED: <2025-07-02 Wed +1y>
+
 *** TODO Mom's Birthday
-SCHEDULED: <2024-08-25 Sun +1y>
+SCHEDULED: <2025-08-25 Mon +1y>
 :PROPERTIES:
-:LAST_REPEAT: [2023-08-29 Tue 12:27]
+:LAST_REPEAT: [2024-09-03 Tue 15:16]
 :END:
 :LOGBOOK:
+- State "DONE"       from "TODO"       [2024-09-03 Tue 15:16]
 - State "DONE"       from "TODO"       [2023-08-29 Tue 12:27]
 :END:
 
 *** TODO Nate's Birthday
-SCHEDULED: <2024-01-19 Fri +1y>
+SCHEDULED: <2025-01-19 Sun +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-01-30 Tue 08:05]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-30 Tue 08:05]
+:END:
 
 *** TODO Davy's Birthday
-SCHEDULED: <2024-04-24 Wed +1y>
+SCHEDULED: <2025-04-24 Thu +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-04-25 Thu 09:34]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-25 Thu 09:34]
+:END:
 
 *** TODO Julie's Birthday
-SCHEDULED: <2023-11-18 Sat +1y>
+SCHEDULED: <2025-11-18 Tue +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-11-21 Thu 13:54]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-21 Thu 13:54]
+- State "DONE"       from "TODO"       [2023-11-27 Mon 20:34]
+:END:
 
 *** TODO My Birthday
-SCHEDULED: <2024-04-10 Wed +1y>
+SCHEDULED: <2025-04-10 Thu +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-04-11 Thu 14:10]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-11 Thu 14:10]
+:END:
 
+*** Jeff's Birthday
+SCHEDULED: <2026-04-12 Sun +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-12-10 Tue 23:59]
+:END:
+:LOGBOOK:
+- State "DONE"       from ""           [2024-12-10 Tue 23:59]
+- State "DONE"       from "TODO"       [2024-04-13 Sat 23:59]
+:END:
+
+*** DONE Natalie McCollum's Birthday
+SCHEDULED: <2026-11-27 Fri +1y>
+:PROPERTIES:
+:LAST_REPEAT: [2024-12-09 Mon 10:38]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-12-09 Mon 10:38]
+:END:
+
+*** TODO Nick McCollums Birthday
+SCHEDULED: <2025-08-11 Mon +1y>
+
+*** TODO TJ's Birthday
+SCHEDULED: <2025-09-08 Mon +1y>
+
+*** TODO Chris Giroir's Birthday
+SCHEDULED: <2025-06-13 Fri +1y>
+
+*** TODO Frank Teplin's Birthday
+SCHEDULED: <2025-05-04 Sun +1y>
+
+*** TODO Jordan Feigner's Birthday
+SCHEDULED: <2025-05-04 Sun +1yr>
+
+*** TODO Matthew Waymost's Birthday
+SCHEDULED: <2025-04-21 Mon +1yr>
+
+*** TODO Joshua Starr's Birthday
+SCHEDULED: <2025-04-05 Sat +1yr>
+
+*** TODO Chris (Wetrock)'s Birthday
+SCHEDULED: <2024-12-30 Mon +1yr>
 ** Anniversaries
 :PROPERTIES:
 :CATEGORY: Anniversary
@@ -1155,6 +1030,22 @@ Started 07/20/2020
 :CATEGORY: Health
 :END:
 
+** Issue Tracking
+
+*** Neck Pain
+- Started: [2025-10-09 Thu]
+- Ended:
+**** Notes
+I think this was probably caused by either playing a lot of satisfactory OR some weird tweak from carrying or sleeping. It got worse and seemed weird but seems to be getting better. It vaguely reminded me of the pain I experienced on both sides after the one flight I had without a pillow where I had neck pain for like 8 months.
+
+- [2024-11-20 Wed] still persisting
+
+*** Grey / Clay colored  Stool
+- Started [2024-11-20 Wed]
+  had one brown large stool then sort of pushed a stool out that was grey. Maybe i pushed it before it was ready?
+*Future Incidents*
+- 
+  
 * Vehicle Maintenance
 :PROPERTIES:
 :CATEGORY: Vehicle
@@ -1167,16 +1058,8 @@ Started 07/20/2020
 :END:
 [2023-01-20 Fri 11:28]
 
-** TODO Get tires rotated
-SCHEDULED: <2023-10-21 Sat>
-
-[2023-02-28 Tue 07:33]
-
-** DONE Get an oil change
-CLOSED: [2023-10-14 Sat 16:18]
-
-[2023-07-19 Wed 11:22]
-
+** NEXT Update Registration & Tags
+SCHEDULED: <2024-12-20 Fri>
 * Passwords
 :PROPERTIES:
 :CATEGORY: Passwords
@@ -1187,9 +1070,26 @@ League - @9Efh7ni49
 sdge - @9EFh7ni49
 seasvirtual - PassUpdate125
 comicon - @9Efh6ni491234
-Southwest: A9Efh6ni49 
+Southwest: A9Efh6ni49
+Geico: @9Efh6ni49
 Rapid Reward #**20823256344**
+cloudflare - 3SL;KvJgX4pFqnN
+app password for noreply - copier: kzns shfb xuuz nxmy 
 
+
+Canva
+----
+user: torre167@cougars.csusm 
+pass: Jt97Lt00!
+
+314953014
+520550248
+977402955
+910350060
+933496391
+711950022
+522051000
+713828399
 ** Calendly Zoom info
 
 seas1234! - google login
@@ -1216,19 +1116,32 @@ latemuploads@gmail.com -  @9Efh6ni49
   ti#iN2WJ5K$xRwiS*Von
     
 
-SEAS Wifi  Pass: SEASpro!
+SEAS Wifi Pass: SEASpro!
+
 
 * Purchases
-** Groceries
+** Groceries & Household                                         :GROCERIES:
 
-- Buy Roasted Pecan coffee beans from Sprouts
+*** NEXT Buy Soda Stream Replacements 
+SCHEDULED: <2024-12-13 Fri 16:30>
+:PROPERTIES:
+:CATEGORY: Task
+:END:
+ [2024-10-23 Wed 12:51]
 
+** Restaurants to Try
+
+*** Flavor of Himalaya - San Marcos
+:PROPERTIES:
+:recomender: Craig
+:END:
+- https://www.yelp.com/biz/flavor-of-himalaya-san-marcos-8
 ** Other
 
 - [X] [[https://www.amazon.com/s?k=polar&crid=3B3C9DHJO7CVP&sprefix=pola%2Caps%2C282&ref=nb_sb_noss_2][Polar On Amazon]]
 - [ ][[https://www.thecode.xyz/collections/all][Code Posters]]
 - [X] [[https://store.dailystoic.com/products/7-medallion-bundle-all-the-daily-stoic-coins][Stoic Coins]]
-
+  
 ** Tech
 *** Web Server
 
@@ -1241,6 +1154,7 @@ SEAS Wifi  Pass: SEASpro!
 
 - Rolling charge InDesign cable
 
+  - Pocket KO:  https://teenage.engineering/
 ** Someday Maybe
 
 - [[https://www.youtube.com/watch?v=bWebs3ID6Hw][Hydroponics]]
@@ -1253,7 +1167,8 @@ SEAS Wifi  Pass: SEASpro!
 - Expire: 3/10/2027
 
   [[file:images/TSA.png][TSA]]
-
+** Travel Sites
+- https://www.tijuanatalk.net/
 * Important Info
 ** Parents Estate & Financial Info
 
@@ -1262,12 +1177,25 @@ SEAS Wifi  Pass: SEASpro!
 - (859) 486-6890
 - 25 town center blvd suite 104 Crestview Hills, Kentucky 41017
 
-* Media To Consume
-** Books To Read
+** Turbo Tax 5 Digit ID
+- 31415
+* Media
+** Books to Read
 
-- Fingerprints of the gods
-
-** Videos to Consume
+** Videos to Watch
 
 - [[https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi][Personality and its transformations (University of Toronto)]]
+- [[https://www.youtube.com/watch?v=V4M_9S_-2V4&ab_channel=GregGrubbs%28kodegen%29][Integrate emacs with chatgpt or any llm]]
+- [[https://www.youtube.com/watch?v=1sn8m5u5VaE][Projectile vs project.el]]
+** Movies to Watch
+- Kinds of Kindness
+- Substance
+* Someday Maybe :SOMEDAY:
+** Serge LLaMa - Language Model on your PC
+
+- [[https://github.com/serge-chat/serge][Serge github]]
+
+** Rebuild heat block on 3d printer
+
+ [2023-07-19 Wed 11:49]
 

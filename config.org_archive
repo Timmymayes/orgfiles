@@ -252,3 +252,69 @@ CLOSED: [2023-06-18 Sun 14:58]
  [[file:~/Orgfiles/config.org::*Commands I want to figure out keybinds for][Commands I want to figure out keybinds for]]
 
 Utilize Hyper and/or Super for this. 
+
+* DONE CreateCreate a zoom-to function for org-agenda
+CLOSED: [2023-10-28 Sat 13:08] SCHEDULED: <2023-10-26 Thu>
+:PROPERTIES:
+:CATEGORY: Task
+:ARCHIVE_TIME: 2023-12-01 Fri 12:08
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks/Build Custom Functions
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-08-06 Sun 23:03]
+ [file:~/Orgfiles/config.org::*Build Custom Functions][Build Custom Functions]]
+
+ I want a function + hotkey to quickly Zoom into a task or project. It should open then narrow to 
+
+* DONE [#E] Setup some kind of syncing and figure out how to tie in Orgzly
+CLOSED: [2023-09-20 Wed 13:30] SCHEDULED: <2023-08-20 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-12-01 Fri 12:48
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+ [2023-01-20 Fri 11:18]
+
+
+
+* CANCELLED Update js-comint-send-region-and-go to be a macro     :CANCELLED:
+CLOSED: [2023-08-01 Tue 21:10]
+:PROPERTIES:
+:CATEGORY: Task
+:ARCHIVE_TIME: 2023-12-01 Fri 12:48
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks/Build Custom Functions
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: CONFIG
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-08-01 Tue 21:10] \\
+  Figure out if we need this later
+:END:
+so that default install works out of the box instead of my edits I made. 
+
+
+* DONE Update emacs config
+CLOSED: [2024-03-22 Fri 15:11] SCHEDULED: <2024-03-22 Fri 12:20>
+:PROPERTIES:
+:CATEGORY: Task
+:ARCHIVE_TIME: 2024-08-02 Fri 10:51
+:ARCHIVE_FILE: ~/Orgfiles/config.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: CONFIG
+:END:
+:LOGBOOK:
+CLOCK: [2024-03-22 Fri 12:21]--[2024-03-22 Fri 12:36] =>  0:15
+:END:
+ [2024-03-22 Fri 12:20]
+
+

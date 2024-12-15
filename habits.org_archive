@@ -20,3 +20,191 @@ SCHEDULED: <2023-03-28 Tue .+1d>
 :LOGBOOK:
 :END:
 
+
+* CANCELLED February Review                                       :CANCELLED:
+CLOSED: [2023-05-05 Fri 11:18] SCHEDULED: <2023-03-01 Wed 08:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-05 Fri 11:18] \\
+  This never happend. Lets kill it.
+:END:
+ [2023-02-28 Tue 09:23]
+
+
+* CANCELLED March Review                                          :CANCELLED:
+CLOSED: [2023-05-05 Fri 11:26] SCHEDULED: <2023-04-01 Sat 08:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-05-05 Fri 11:26] \\
+  This has passed we've missed it
+:END:
+ [2023-02-28 Tue 09:25]
+
+
+
+* CANCELLED April Review                                          :CANCELLED:
+CLOSED: [2023-05-08 Mon 21:28] SCHEDULED: <2023-05-06 Sat 14:30>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-05-08 Mon 21:28] \\
+  Didn't really have anything to log or enter
+:END:
+ [2023-02-28 Tue 09:26]
+
+
+
+* DONE May Review
+CLOSED: [2023-06-10 Sat 15:23] SCHEDULED: <2023-06-01 Thu 8:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+ [2023-02-28 Tue 09:26]
+
+* CANCELLED June Review                                           :CANCELLED:
+CLOSED: [2023-07-22 Sat 23:59] SCHEDULED: <2023-07-01 Sat 8:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "TODO"       [2023-07-22 Sat 23:59] \\
+  never did it. gotta skip to july
+:END:
+[2023-02-28 Tue 9:26]
+
+* DONE July Review
+CLOSED: [2023-08-01 Tue 23:01] SCHEDULED: <2023-08-01 Tue 19:50>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+CLOCK: [2023-08-01 Tue 22:00]--[2023-08-01 Tue 23:01] =>  1:01
+CLOCK: [2023-08-01 Tue 22:00]--[2023-08-01 Tue 22:00] =>  0:00
+CLOCK: [2023-08-01 Tue 20:24]--[2023-08-01 Tue 22:00] =>  1:36
+CLOCK: [2023-08-01 Tue 19:55]--[2023-08-01 Tue 20:23] =>  0:28
+CLOCK: [2023-08-01 Tue 19:50]--[2023-08-01 Tue 19:54] =>  0:04
+:END:
+[2023-02-28 Tue 9:26]
+
+* CANCELLED August Review                                         :CANCELLED:
+CLOSED: [2023-09-20 Wed 13:30] SCHEDULED: <2023-09-01 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-09-20 Wed 13:30] \\
+  Never did this
+:END:
+[2023-02-28 Tue 9:26]
+
+* CANCELLED September Review                                      :CANCELLED:
+CLOSED: [2023-10-22 Sun 22:27] SCHEDULED: <2023-10-08 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-10-22 Sun 22:27] \\
+  Never did this
+:END:
+[2023-02-28 Tue 9:26]
+
+* CANCELLED October Review                                        :CANCELLED:
+CLOSED: [2023-11-27 Mon 20:34] SCHEDULED: <2023-11-01 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2023-11-27 Mon 20:34] \\
+  Didn't happen
+:END:
+[2023-02-28 Tue 9:26]
+
+* DONE November Review
+CLOSED: [2023-12-14 Thu 21:29] SCHEDULED: <2023-12-01 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+[2023-02-28 Tue 9:26]
+
+* CANCELLED December Review                                       :CANCELLED:
+CLOSED: [2024-01-30 Tue 08:21] SCHEDULED: <2023-12-31 Sun>
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Habit
+:ARCHIVE_TODO: CANCELLED
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+[2023-02-28 Tue 9:26]
+
+
+* DONE March Review
+CLOSED: [2024-04-07 Sun 21:38] SCHEDULED: <2024-04-07 Sun>
+:PROPERTIES:
+:CATEGORY: Task
+:ARCHIVE_TIME: 2024-04-14 Sun 13:34
+:ARCHIVE_FILE: ~/Orgfiles/habits.org
+:ARCHIVE_OLPATH: Cycle Reviews/Monthly Reviews
+:ARCHIVE_CATEGORY: Task
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: REVIEW 2023
+:END:
+ [2024-03-22 Fri 15:13]
+
+

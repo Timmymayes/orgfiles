@@ -1,2 +1,0 @@
-#+transclude: [[file:~/Orgfiles/identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] :level 2 
-

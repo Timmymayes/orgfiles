@@ -7,36 +7,51 @@
 - Income: 2038.35x2 = 4076.7
 
   #+Title Budget
-  | Item            | Amount | Category       | Rolling Total |
-  |-----------------+--------+----------------+---------------|
-  | Rent            | $1400  | Housing        | $2676         |
-  | Car payment     | $317   | Transportation | $2359         |
-  | Fuel            | $120   | Transportation | $2239         |
-  | Cox             | $35    | Utilities      | $2204         |
-  | Groceries       | $200   | Food           | $2004         |
-  | SDGE            | $100   | Utilities      | $1904         |
-  | Youtube         | $10    | Recurring      | $1894         |
-  | Car Insurance   | $98    | Transportation | $1796         |
-  | CC Interest     | $100   | DEBT           | $1696         |
-  | Paypal          | $150   | DEBT           | $1546         |
-  | CC Payment      | $300   | DEBT           | $1246         |
-  | Notion          | $5     | Recurring      | $1241         |
-  | Project Fi      | $110   | Utilities      | $1130         |
-  | Paypal Interest | $30    | DEBT           | $1100         |
+  | Item            | Amount | Category       |
+  |-----------------+--------+----------------|
+  | Rent            | $1400  | Housing        |
+  | Car payment     | $317   | Transportation |
+  | Fuel            | $120   | Transportation |
+  | Cox             | $35    | Utilities      |
+  | Groceries       | $200   | Food           |
+  | SDGE            | $100   | Utilities      |
+  | Youtube         | $10    | Recurring      |
+  | Car Insurance   | $98    | Transportation |
+  | CC Interest     | $100   | DEBT           |
+  | Paypal          | $150   | DEBT           |
+  | CC Payment      | $300   | DEBT           |
+  | Notion          | $5     | Recurring      |
+  | Project Fi      | $110   | Utilities      |
+  | Paypal Interest | $30    | DEBT           |
+  |-----------------+--------+----------------|
+  | Total           |        |                |
+#+TBLFM: @>$2=vsum(@I..@II)
 
 
 #+Title Check 1
-| Item      | Amount | remaining |
-|-----------+--------+-----------|
-| rent      |   1450 |       590 |
-| CC        |    320 |       260 |
-| FI        |     50 |       150 |
-| Paypal    |     40 |       110 |
-| Gas       |     50 |        60 |
-| Groceries |     60 |         0 |
-|-----------+--------+-----------|
-| Total     |   1970 |           |
+| Item          | Amount | remaining |
+|---------------+--------+-----------|
+| rent          |   1350 |       590 |
+| CC            |    320 |       260 |
+| FI            |     50 |       150 |
+| Paypal        |     40 |       110 |
+| Gas           |    180 |        60 |
+| Groceries     |    200 |         0 |
+| Car Insurance |     98 |           |
+| Notion        |      5 |           |
+| Youtube       |     10 |           |
+| Cox           |     35 |           |
+| SDGE          |    100 |           |
+|               |        |           |
+|---------------+--------+-----------|
+| Total         |   2388 |           |
 #+TBLFM: @>$2=vsum(@I..@II)
+
+$4000-$2388=
+$1600 a month for paying off credit cards.
+1 month savings
+4 months to pay off debt.
+
 
 #+Title Check 2
 | item      | Amount | Remainint |

@@ -24,22 +24,21 @@
 #+END:
 
 #+TODO: Pending(p) In-Progress(i) Complete(c)
-
-* Pending _Figure out the CPD Document_ [0/0] :noexport:
+* _Figure out the CPD Document_ [0/0] :noexport:
   :PROPERTIES:
   :TYPE:     Some Skill
   :OUTCOME:  Know how to incorporate the CPD document into my main config.
   :RETROSPECTIVE: Fill in after completing
   :END:
 
-* Pending _My Test Goal_ [0/1] :noexport:
+* _My Test Goal_ [0/1]                                       :noexport:
   :PROPERTIES:
   :TYPE:     Some Skill
   :OUTCOME:  Become confident in applying blah blah
   :RETROSPECTIVE: Fill in after completing
   :END:
 
-** In-Progress Another Example
+** Another Example
    :PROPERTIES:
    :TYPE:     Lecture
    :OUTCOME:  More insight into specifics of blah

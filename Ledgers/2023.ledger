@@ -4,127 +4,14 @@
 ;; 2. Snore Lab
 ;; 
 
-2023/07/30 * Opening Balance
-    Assets:Fiat:Checking                     $1563.53
-    Assets:Fiat:Savings                       $0.00
-    Assets:Fiat:Cash                           $0.00
-    Assets:Fiat:Poker Bankroll                 $0.00
-    Liabilities:Fiat:Car Loan              -$1020.42
-    Liabilities:Fiat:CreditCard            -$4942.26
-    Liabilities:Fiat:Paypal                -$1185.07
+2024/07/07 * Opening Balance
+    Assets:Fiat:Checking	           $0.26
+    Assets:Fiat:Savings			   $0.00
+    Assets:Fiat:Cash                       $49.00
+    Assets:Fiat:Poker Bankroll             $0.00
+    Liabilities:Fiat:CreditCard            -$5001.40
+    Liabilities:Fiat:SimpleLoan		   -$212.00
+    Liabilities:Fiat:Paypal                -1417.58
     Liabilities:Fiat:Jessica               -$1500.00
     Equity:OpeningBalance
-
-2023/07/30 * Frazier Farms
-    Expenses:Food:Groceries                   $29.80
-    Assets:Fiat:Checking                     
-    
-
-
-2023/07/30 * Thai One On
-    Expenses:Food:Restaurants:Thai One On     $30.60
-    Liabilities:Fiat:CreditCard
-
-2023/07/31 * Wendy's
-    Expenses:Food:Restaurants:Wendy's         $13.30
-    Assets:Fiat:Checking                     
-
-2023/08/01 * Breeze Hill
-    Expenses:Housing:Rent                  $1329.00
-    Assets:Fiat:Checking
-
-2023/08/01 * Google
-    Expenses:Digital:Storage                   $9.99
-    Assets:Fiat:Checking
-
-2023/08/01 * ME
-    Assets:Fiat:Checking                      $34.67
-    Transfer:Fiat:Jessica
-    
-
-2023/08/01 * Chipotle
-    Expenses:Food:Restaurants:Chipotle        $30.03
-    Assets:Fiat:Checking
-    
-
-2023/08/01 Shuffle It
-    Expenses:Digital:Dominion                 $15.00
-    Assets:Fiat:Checking
-
-2023/08/02 * Transfer
-    Assets:Fiat:Poker Bankroll                        $205
-    Assets:Fiat:Checking
-
-2023/08/02 * US Bank
-    Expenses:Fees:ATM Fee                      $2.50
-    Assets:Fiat:Checking
-
-2023/08/02 * US Bank
-    Assets:Fiat:Checking                        $500
-    Liabilities:Fiat:Simple Loan
-
-2023/08/03 * Transfer
-    Assets:Fiat:Poker Bankroll                        $205
-    Assets:Fiat:Checking
-
-2023/08/03 * US Bank
-    Expenses:Fees:ATM Fee                      $2.50
-    Assets:Fiat:Checking
-
-2023/08/04 * Gyu Kaku
-    Expenses:Food:Restaurants:Gyu Kaku        $58.76
-    Assets:Fiat:Checking
-
-2023/08/04 Notion
-    Expenses:Digital:Apps                      $5.00
-    Liabilities:Fiat:CreditCard
-    
-
-2023/08/05 * Joyee Dumpling House
-    Expenses:Food:Restaurants:Joyee Dumpling House  $63.27
-    Assets:Fiat:Checking
-
-2023/08/05 * Amazon
-    Expenses:Misc                             $61.84
-    Assets:Fiat:Checking
-
-2023/08/05 * Origen Coffee Roasters
-    Expenses:Food:Cart:Origen Coffee Roasters  $7.00
-    Assets:Fiat:Checking
-
-2023/08/04 * Burger King
-    Expenses:Food:Restaurants:Burger King      $7.23
-    Assets:Fiat:Checking
-
-2023/08/03 * Jersey Mike's
-    Expenses:Food:Restaurants:Jersey Mikes    $17.14
-    Assets:Fiat:Checking
-
-2023/08/05 * Farmeres Market (Various)
-    Expenses:Food:Groceries                      $40
-    Assets:Fiat:Poker Bankroll
-
-2023/08/06 Lowes
-    Expenses:Home:Hardware                     $6.91
-    Liabilities:Fiat:CreditCard
-
-2023/08/06 * AM/PM
-    Expenses:Transportation:Gas                  $40
-    Assets:Fiat:Poker Bankroll
-
-2023/08/07 * Mobil Gas Station
-    Expenses:Transportation:Gas               $25.13
-    Assets:Fiat:Checking
-
-    
-
-2023/08/07 * Paypal
-    Liabilities:Fiat:Paypal                   $43.00
-    Assets:Fiat:Checking
-
-
-    
-    
-
-
 

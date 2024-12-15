@@ -5,6 +5,7 @@
 * Config Overview
 This config is my personal config and is evolving over time. You can find the updated version here: [[https://github.com/Timmymayes/emacsone/blob/main/OrgFiles/emacsconf.org][Emacsone]].
 
+
 This is my first run through configuring emacs so there is probably a lot of inefficiency in the layout and possibly some redundancy that needs cleaning up. That being said, this is a living document that will probably be evolving for some time before it gets a pure reboot. 
 
 * Initialization
@@ -13,11 +14,22 @@ Initial setup for the core of Emacs. Mostly low level system type elements and p
 On the rare occasion utf-8 encoding is lost this is a note for myself on how to fix it.
 - (revert-buffer-with-coding-system (C-x ret r) then select utf-+BEGIN_SRC emacs-lisp
   (set-language-environment "UTF-8")
+** Set default directory for find-file
+#+BEGIN_SRC emacs-lisp
+  (setq default-directory "~/Orgfiles")
+#+END_SRC
 ** Load additional Lisp directory
 #+BEGIN_SRC emacs-lisp
   (add-to-list 'load-path "~/.emacs.d/lisp")
   ;;tangle test
 #+END_SRC
+** Load Hyper
+#+BEGIN_SRC emacs-lisp
+  (shell-command "~/hyper.sh")
+#+END_SRC
+#+RESULTS:
+| ~/.emacs.d/lisp | /home/tyler/.emacs.d/elpa/add-node-modules-path-20230307.655 | /home/tyler/.emacs.d/elpa/all-the-icons-completion-20240128.2048 | /home/tyler/.emacs.d/elpa/all-the-icons-dired-20231207.1324 | /home/tyler/.emacs.d/elpa/all-the-icons-20240108.559 | /home/tyler/.emacs.d/elpa/battle-haxe-20210219.354 | /home/tyler/.emacs.d/elpa/calfw-cal-20170411.220 | /home/tyler/.emacs.d/elpa/calfw-gcal-20120111.1000 | /home/tyler/.emacs.d/elpa/calfw-org-20170411.220 | /home/tyler/.emacs.d/elpa/company-web-20220115.2146 | /home/tyler/.emacs.d/elpa/company-20240311.1943 | /home/tyler/.emacs.d/elpa/consult-org-roam-20240217.1442 | /home/tyler/.emacs.d/elpa/consult-20240314.642 | /home/tyler/.emacs.d/elpa/counsel-projectile-20211004.2003 | /home/tyler/.emacs.d/elpa/counsel-20240229.1509 | /home/tyler/.emacs.d/elpa/doom-modeline-20240311.1107 | /home/tyler/.emacs.d/elpa/doom-themes-20231208.2011 | /home/tyler/.emacs.d/elpa/emmet-mode-20221111.329 | /home/tyler/.emacs.d/elpa/emojify-20210108.1111 | /home/tyler/.emacs.d/elpa/evil-nerd-commenter-20230625.254 | /home/tyler/.emacs.d/elpa/forge-20240312.1335 | /home/tyler/.emacs.d/elpa/closql-20240216.q1729 | /home/tyler/.emacs.d/elpa/ghub-20240311.1716 | /home/tyler/.emacs.d/elpa/git-gutter-fringe-20211003.2228 | /home/tyler/.emacs.d/elpa/fringe-helper-20140620.2109 | /home/tyler/.emacs.d/elpa/git-gutter-20220922.256 | /home/tyler/.emacs.d/elpa/haxe-mode-20220930.251 | /home/tyler/.emacs.d/elpa/helm-20240315.1910 | /home/tyler/.emacs.d/elpa/helm-core-20240311.547 | /home/tyler/.emacs.d/elpa/async-20240312.1716 | /home/tyler/.emacs.d/elpa/helpful-20231028.516 | /home/tyler/.emacs.d/elpa/elisp-refs-20230920.201 | /home/tyler/.emacs.d/elpa/js-comint-20231126.230 | /home/tyler/.emacs.d/elpa/ledger-mode-20240314.1455 | /home/tyler/.emacs.d/elpa/lsp-treemacs-20230811.611 | /home/tyler/.emacs.d/elpa/lsp-ui-20230811.552 | /home/tyler/.emacs.d/elpa/lsp-mode-20240314.857 | /home/tyler/.emacs.d/elpa/magit-20240311.1442 | /home/tyler/.emacs.d/elpa/git-commit-20240229.1416 | /home/tyler/.emacs.d/elpa/marginalia-20240306.1241 | /home/tyler/.emacs.d/elpa/markdown-mode-20240311.318 | /home/tyler/.emacs.d/elpa/minimap-1.4 | /home/tyler/.emacs.d/elpa/nerd-icons-20240312.1407 | /home/tyler/.emacs.d/elpa/org-bullets-20200317.1740 | /home/tyler/.emacs.d/elpa/org-present-20220806.1847 | /home/tyler/.emacs.d/elpa/org-remark-1.2.1 | /home/tyler/.emacs.d/elpa/org-roam-ui-20221105.1040 | /home/tyler/.emacs.d/elpa/org-roam-20240114.1941 | /home/tyler/.emacs.d/elpa/magit-section-20240311.1407 | /home/tyler/.emacs.d/elpa/emacsql-20240124.1601 | /home/tyler/.emacs.d/elpa/org-transclusion-1.3.2 | /home/tyler/.emacs.d/elpa/org-9.6.21 | /home/tyler/.emacs.d/elpa/popup-20240101.830 | /home/tyler/.emacs.d/elpa/prettier-js-20180109.726 | /home/tyler/.emacs.d/elpa/projectile-20240212.1100 | /home/tyler/.emacs.d/elpa/rainbow-delimiters-20210515.1254 | /home/tyler/.emacs.d/elpa/rjsx-mode-20200224.2149 | /home/tyler/.emacs.d/elpa/js2-mode-20240310.1755 | /home/tyler/.emacs.d/elpa/shrink-path-20190208.1335 | /home/tyler/.emacs.d/elpa/f-20240308.906 | /home/tyler/.emacs.d/elpa/simple-httpd-20230821.1458 | /home/tyler/.emacs.d/elpa/spinner-1.7.4 | /home/tyler/.emacs.d/elpa/swiper-20240214.2118 | /home/tyler/.emacs.d/elpa/ivy-20240214.2118 | /home/tyler/.emacs.d/elpa/transient-20240311.1638 | /home/tyler/.emacs.d/elpa/treemacs-20240229.2108 | /home/tyler/.emacs.d/elpa/cfrs-20220129.1149 | /home/tyler/.emacs.d/elpa/posframe-20230714.227 | /home/tyler/.emacs.d/elpa/ht-20230703.558 | /home/tyler/.emacs.d/elpa/hydra-20220910.1206 | /home/tyler/.emacs.d/elpa/lv-20200507.1518 | /home/tyler/.emacs.d/elpa/pfuture-20220913.1401 | /home/tyler/.emacs.d/elpa/ace-window-20220911.358 | /home/tyler/.emacs.d/elpa/avy-20230420.404 | /home/tyler/.emacs.d/elpa/s-20220902.1511 | /home/tyler/.emacs.d/elpa/dash-20240103.1301 | /home/tyler/.emacs.d/elpa/treepy-20230715.2154 | /home/tyler/.emacs.d/elpa/typescript-mode-20230116.1533 | /home/tyler/.emacs.d/elpa/valign-3.1.1 | /home/tyler/.emacs.d/elpa/vertico-20240128.1526 | /home/tyler/.emacs.d/elpa/visual-fill-column-20240223.2340 | /home/tyler/.emacs.d/elpa/web-completion-data-20160318.848 | /home/tyler/.emacs.d/elpa/web-mode-20240315.1838 | /home/tyler/.emacs.d/elpa/websocket-20230809.305 | /home/tyler/.emacs.d/elpa/wfnames-20230924.1538 | /home/tyler/.emacs.d/elpa/which-key-20240312.2033 | /home/tyler/.emacs.d/elpa/with-editor-20240101.2226 | /home/tyler/.emacs.d/elpa/yaml-20231211.1501 | /home/tyler/.emacs.d/elpa/yasnippet-20240308.815 | /usr/local/share/emacs/30.0.50/site-lisp | /usr/local/share/emacs/site-lisp | /usr/local/share/emacs/30.0.50/lisp | /usr/local/share/emacs/30.0.50/lisp/vc | /usr/local/share/emacs/30.0.50/lisp/use-package | /usr/local/share/emacs/30.0.50/lisp/url | /usr/local/share/emacs/30.0.50/lisp/textmodes | /usr/local/share/emacs/30.0.50/lisp/progmodes | /usr/local/share/emacs/30.0.50/lisp/play | /usr/local/share/emacs/30.0.50/lisp/org | /usr/local/share/emacs/30.0.50/lisp/nxml | /usr/local/share/emacs/30.0.50/lisp/net | /usr/local/share/emacs/30.0.50/lisp/mh-e | /usr/local/share/emacs/30.0.50/lisp/mail | /usr/local/share/emacs/30.0.50/lisp/leim | /usr/local/share/emacs/30.0.50/lisp/language | /usr/local/share/emacs/30.0.50/lisp/international | /usr/local/share/emacs/30.0.50/lisp/image | /usr/local/share/emacs/30.0.50/lisp/gnus | /usr/local/share/emacs/30.0.50/lisp/eshell | /usr/local/share/emacs/30.0.50/lisp/erc | /usr/local/share/emacs/30.0.50/lisp/emulation | /usr/local/share/emacs/30.0.50/lisp/emacs-lisp | /usr/local/share/emacs/30.0.50/lisp/cedet | /usr/local/share/emacs/30.0.50/lisp/calendar | /usr/local/share/emacs/30.0.50/lisp/calc | /usr/local/share/emacs/30.0.50/lisp/obsolete |
+
 ** Setup Hyper & Super on Windows
 #+BEGIN_SRC emacs-lisp
   ;; setup passthrough keys
@@ -26,6 +38,10 @@ On the rare occasion utf-8 encoding is lost this is a note for myself on how to 
   (setq w32-pass-lwindow-to-system nil)
   (setq w32-lwindow-modifier 'super)
 #+END_SRC
+
+#+RESULTS:
+: super
+
 ** Undo Limit
 #+BEGIN_SRC emacs-lisp
   (setq undo-limit 50)
@@ -84,93 +100,6 @@ Move all backup files into a single directory. Another option is to turn off bac
 #+RESULTS:
 : ((. . ~/.emacs.d/tmp/backups/))
 
-* Mail with mu4e
-Setup gmail to use mu4e. Currently this only works on my main linux install on the home pc. Largely becuase I don't need to check my current work's email in emacs. I'd rather keep it seperate. 
-** Config
-#+BEGIN_SRC emacs-lisp
-  (if (eq system-type 'gnu/linux)
-      (use-package mu4e
-        :ensure nil
-        ;; :load-path "/usr/share/emacs/site-lisp/mu4e/"
-        :config
-        ;; this is set to t to avoid mail syncing issues
-        (setq mu4e-change-filenames-when-moving t)
-        ;; refresh mail using isync every 10 minutes
-        (setq mu4e-update-interval (* 10 60))
-        (setq mu4e-get-mail-command "mbsync -a")
-        (setq mu4e-maildir "~/Mail")
-
-        (setq mu4e-drafts-folder "/'[Gmail]'.Drafts")
-        (setq mu4e-sent-folder "/[Gmail].Sent Mail")
-        (setq mu4e-refile-folder "/[Gmail].All Mail")
-        (setq mu4e-trash-folder "/[Gmail].Trash")
-
-        (setq mu4e-maildir-shortcuts
-              '(("/Inbox"                   . ?i)
-                ("/[Gmail].Sent Mail"       . ?s)
-                ("/[Gmail].Trash"           . ?t)
-                ("/[Gmail].Drafts"          . ?d)
-                ("/[Gmail].All Mail"        . ?a))))
-
-    (setq
-     user-mail-address "Timmymayes@gmail.com"
-     user-full-name "Timothy Tyler Mayes"
-     mu4e-compose-signature
-     (concat
-      "Best Regards,\n"
-      "Tyler Mayes"))
-    ;; Not working atm
-    (require 'smtpmail)
-    (setq message-send-mail-function 'smtpmail-send-it
-          starttls-use-gnutls t
-          smtpmail-starttls-credentials '(("smtp.gmail.com" 587 nil nil))
-          smtpmail-auth-credentials
-          '(("smtp.gmail.com" 587 "Timmymayes@gmail.com" nil))
-          smtpmail-default-smtp-server "smtp.gmail.com"
-          smtpmail-smtp-server "smtp.gmail.com"
-          smtpmail-smtp-service 587))
-
-
-#+END_SRC
-
-#+RESULTS:
-: t
-
-#+RESULTS:mu
-: t
-** Hotkeys
-| Key | Command                             | Description                                    |
-| --  | -------------------                 | ---------------------------------------------- |
-|     | *Movement*                            |                                                |
-|     | ---                                 |                                                |
-| n   | next-line                           | moves to next line                             |
-| p   | prev-line                           | moves to prev line                             |
-| [   | mu4e-headers-prev-unread            | moves to prev unread message                   |
-| ]   | mu4e-headers-next-unread            | moves to next unread message                   |
-| j   | mu4e-headers-jump-to-mail-dir       | Jump to another mail directory                 |
-|     |                                     |                                                |
-|     | *Toggles*                             |                                                |
-| P   | mu4e-headers-toggle-threading       | Toggles threaded message display               |
-| W   | mu4e-headers-toggle-include-related | Toggles related message display                |
-|     |                                     |                                                |
-|     | *Marking*                             |                                                |
-| d   | mu4e-headers-mark-for-trash         | Marks message for deletion                     |
-| m   | mu4e-headers-mark-for-move          | Marks message for move to folder               |
-| +   | mu4e-headers-mark-for-flag          | Marks message for flagging                     |
-| -   | mu4e-headers-mark-for-unflag        | Marks smessage for unflagging                  |
-| %   | mu4e-headers-mark-for-pattern       | Marks based on a regex pattern                 |
-| u   | mu4e-headers-mark-for-unmark        | Removes mark for message                       |
-| U   | mu4e-mark-unmark-all                | Removes mark for all marks in view             |
-| x   | mu4e-mark-execute-all               | Execute all marks in view                      |
-|     |                                     |                                                |
-|     | *Searching*                           |                                                |
-| s   | mu4e-headers-search                 | Search all e-mails                             |
-| S   | mu4e-headers-search-edit            | Edit current search (useful!!)                 |
-| /   | mu4e-headers-search-narrow          | Narrow down the current results                |
-| b   | mu4e-headers-search-bookmark        | Select a bookmark to search with               |
-| B   | mu4e-headers-search-bookmark-edit   | Edit bookmark before search                    |
-| g   | mu4e-rerun-search                   | Rerun current search                           |
-
 * UI Config
 ** Basic UI Config
 Basic setup for cleaning up the ui.
@@ -197,11 +126,13 @@ Basic setup for cleaning up the ui.
   ;; turn on hydras CONFIG-TODO: Create a Hydra Section
   (use-package hydra)
 
+  ;; using eshell to run bash script on startup setting up hyper and F keys
+  (start-process-shell-command "setup hyper" "*Messages*" "~/xmodstartup.sh")
 
 #+end_src
 
 #+RESULTS:
-: t
+: #<process setup hyper>
 
 ** Themes
 #+begin_src emacs-lisp
@@ -217,9 +148,6 @@ Basic setup for cleaning up the ui.
     :init (doom-modeline-mode 1)
     :config
     ;; consider adding a mu4e alert
-    (setq doom-modeline-mu4e t)
-    (if (eq system-type 'gnu/linux)
-        (mu4e-alert-enable-mode-line-display))
     (setq doom-modeline-height 15))
 
 
@@ -249,7 +177,7 @@ Transparnecy toggle for when you want to have a cool hacker mode.
                       ((numberp (cadr alpha)) (cadr alpha)))
                 100)
            '(90 . 60) '(100 . 100)))))
-  (global-set-key (kbd "C-c x t") 'toggle-transparency)
+
   ;; testing if this works to set transparency to full on startup
 
 
@@ -312,6 +240,34 @@ I've recently switched from counsel to vertico.
     :init
     (vertico-mode))
 
+  (setq vertico-multiform-commands
+        '((consult-line
+           posframe
+           (vertico-posframe-poshandler . posframe-poshandler-frame-top-center)
+           (vertico-posframe-border-width . 10)
+           ;; NOTE: This is useful when emacs is used in both in X and
+           ;; terminal, for posframe do not work well in terminal, so
+           ;; vertico-buffer-mode will be used as fallback at the
+           ;; moment.
+           (vertico-posframe-fallback-mode . vertico-buffer-mode))
+          (consult-org-roam-search buffer)
+          (consult-outline buffer ,(lambda (_) (text-scale-set -1)))
+          (t posframe)
+          ))
+  (vertico-multiform-mode 1)
+
+  ;; Commnds for switching  while in the vertico mini-buffer
+  ;; ~Last word of each command can be used in the multiform commands variable above~
+  ;; M-B -> vertico-multiform-buffer
+  ;; M-F -> vertico-multiform-flat
+  ;; M-G -> vertico-multiform-grid
+  ;; M-R -> vertico-multiform-reverse
+  ;; M-U -> vertico-multiform-unobtrusive
+  ;; M-V -> vertico-multiform-vertical
+  ;; M-P -> vertico-multiform-posframe
+
+
+
   (use-package savehist
     :init
     (savehist-mode))
@@ -327,7 +283,7 @@ I've recently switched from counsel to vertico.
     (marginalia-mode))
 
   ;; turn on all the icons for completions
-  (use-package all-the-icons-completion
+  (use-package all-icons-completion
     :after(marginalia all-the-icons)
     :hook (marginalia-mode . all-the-icons-completion-marginalia-setup)
     :init
@@ -348,15 +304,19 @@ I've recently switched from counsel to vertico.
 Turn on Yas global mode
 
 #+BEGIN_SRC emacs-lisp
+
+  (use-package yasnippet)
   (yas-global-mode 1)
   (if (eq system-type 'windows-nt)
       (progn
-        (setq yas-snippet-dirs '("c:/Users/Tyler/snippets" "~/.emacs.d/snippets"))
-        (yas-reload-all)))
+        (setq yas-snippet-dirs '("c:/Users/Tyler/snippets" "~/.emacs.d/snippets" "~/snippets"))
+        (yas-reload-all))
+    (setq yas-snippet-dirs '("~/snippets" "~/.emacs.d/snippets"))
+    )
 #+END_SRC
 
 #+RESULTS:
-: t
+| ~/snippets | ~/.emacs.d/snippets |
 ** Scale Text Hydra
 #+BEGIN_SRC emacs-lisp
   (defhydra hydra-zoom (global-map "<f16>")
@@ -397,6 +357,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
   (global-set-key (kbd "M-.") 'my/avy-end)
   (global-set-key (kbd "M-,") 'avy-goto-char-timer)
   (global-set-key (kbd "C-M-,") 'avy-copy-region)
+  (global-set-key (kbd "C-M-]") 'ace-window)
 
   (define-key isearch-mode-map (kbd "M-,") 'avy-isearch)
 
@@ -441,7 +402,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 : my/make-frame-on-bottom-dell
 
 * Org Config Setup
-** Custom org-mode setup function
+** Custom org- setup function
 #+begin_src emacs-lisp
                              ;;;;; Org mode setup ;;;;;
 
@@ -455,8 +416,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+end_src
 
 
-#+begin_src emacs-lisp 
-
+#+begin_src emacs-lisp
   (use-package org
     :hook (org-mode . org-mode-setup)
     :bind (
@@ -468,13 +428,20 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
            ("M-s o" . my/org-occur)
            ("H-]" . 'consult-org-roam-forward-links)
            ("H-[" . 'consult-org-roam-backlinks)
+           ("s-b" . 'org-tree-to-indirect-buffer)
+           ("C-c d" . my/set-todo-ordered)
+           ("C-M-<right>" . org-demote-subtree)
+           ("C-M-<left>" . org-promote-subtree)
+           ("M-p" . org-previous-visible-heading) 
+           ("M-n" . org-next-visible-heading)
            ("C-t". org-toggle-checkbox))
     :config
     (setq org-agenda-files
           (quote ("~/Orgfiles"
-                  "~/Orgfiles/goals"
-                  "~/Orgfiles/review"
+                  "~/Orgfiles/Productivity/Goals"
+                  "~/Orgfiles/Productivity/Review"
                   )))
+
 
     (setq org-image-actual-width nil)
     (setq org-agenda-start-with-log-mode t)
@@ -483,8 +450,8 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
     (setq org-extend-today-until 3
           org-use-effective-time t)
     (setq org-startup-with-inline-images t)
-    (setq org-ellipsis " ▾"
-          org-hide-emphasis-markers t)
+    (setq org-ellipsis " ▼")
+    (setq org-hide-emphasis-markers t)
     (setq org-agenda-window-setup 'current-window)
     (setq org-use-speed-commands t)      
     (setq org-apture-babel-evaluate t)
@@ -522,35 +489,69 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 
     (setq org-capture-templates
           '(
-            ("t" "Task" entry (file "~/Orgfiles/refile.org")
-             "* TODO %?\n %U\n %a\n %i %^{CATEGORY|Task}p " :empty-lines 1)
+            ("t" "Tasks/Projects")
+            ("tt" "Task" entry (file "~/Orgfiles/refile.org")
+             "* TODO %?\n:PROPERTIES:\n:CATEGORY: Task\n:END:\n %U\n %a\n %i " :empty-lines 1)
+            ("tp" "Project" entry (file "~/Orgfiles/refile.org")
+             "* TODO %?\n:PROPERTIES:\n:CATEGORY: Project\n:END:\n %U\n %a\n %i " :empty-lines 1)
+
             ("m" "Meeting" entry (file "~/Orgfiles/refile.org")
-             "* MEETING with %? :MEETING:\n%U" :clock-in t :clock-resume t :jump-to-captured t)
+             "* MEETING re: %? :MEETING:\n%U\n** Attendees\n- \n** Meetings Notes   :NOTE:\n- \n** Next Steps\n\n" :clock-in t :clock-resume t :jump-to-captured t)
             ("p" "Phone call" entry (file "~/Orgfiles/refile.org")
              "* PHONE %? :PHONE:\n%U" :clock-in t :clock-resume t :jump-to-captured t)
             ("n" "note" entry (file "~/Orgfiles/refile.org")
              "* %? :NOTE:\n%u\n%a\n %i" :empty-lines 1)
-            ("r" "reminder" entry (file "~/Orgfiles/refile.org")
+            ("r" "Reminders")
+            ("r1" "One Time Reminder" entry (file "~/Orgfiles/refile.org")
              "* %? :REMINDER:\n %^T \n %U\n %a\n%i" :empty-lines 1)
-            ("!" "recurring reminder" entry (file "~/Orgfiles/refile.org")
+            ("r!" "Recurring Reminder" entry (file "~/Orgfiles/refile.org")
              "* %? :REMINDER:\n %U\n <%\\%(memq (calendar-day-of-week date) '(1 2 3 4 5))>  \n%a\n%i" :empty-lines 1)
             ("d" "Daily Metrics")
             ("dm" "Morning Metrics" table-line (file+headline "~/Orgfiles/metrics.org" "Morning")
              "| %^{Day} | %^{Weight} | %^{BP SYS} | %^{BP DIA}| %^{Sleep Time} | %^{AHI} | %^{Mood} | " :kill-buffer t)
             ("de" "Evening Metrics" table-line (file+headline "~/Orgfiles/metrics.org" "Evening")
              "| %^{Day} | %^{Output} | %^{On Schedule} | %^{Mood}| " :kill-buffer t)
-            ("di" "Daily Improvement" item (file+headline "~/Orgfiles/metrics.org" "Improvements List")
-             "- %?")
+            ("di" "Daily Improvement" entry (file+headline "~/Orgfiles/metrics.org" "Improvements List")
+             "*** %^{Day Of The Week}\n- %?")
             ("df" "Food Log" entry (file+datetree "~/Orgfiles/FoodLog.org")
              "* %?")
             ("h" "Habit" entry (file "~/Orgfiles/habits.org")
              "* TODO %? %^g\n%U\n %a\n%i %^{STYLE|habit}p" :empty-lines 1)
-            ("g" "Goal" entry 
-             (file buffer-file-name)
-             "* _%^{Goal}_ [/] :noexport: %^{TYPE}p %^{OUTCOME}p %^{RETROSPECTIVE}p" :prepend t)
-            ("a" "Activity" entry
-             (file+function buffer-file-name set-activity-pos-from-goal)
-             "** Pending %^{Activity} %^{TYPE}p %^{OUTCOME}p %^{RETROSPECTIVE}p" :prepend t))))
+            ("g" "Goal")
+            (
+             "gv"     ;key
+             "Goal"  ; description
+             entry   ; type  
+             (file "~/Orgfiles/refile.org") ; target
+             "* ~%^{Goal}~ :VALUE:\n:PROPERTIES:\n:created: %u\n:END:\n:LINKS:\n:END: %^{custom_id}"
+             :prepend t ; prepend properties
+             :created t ;
+
+             )
+            (
+             "go"     ;key
+             "Outcome"  ; description
+             entry   ; type  
+             (file "~/Orgfiles/refile.org") ; target
+             "* %^{Goal} [/] :OUTCOME:\n:PROPERTIES:\n:created: %u\n:END:\n:LINKS:\n:goal:\n:habit:\n:project:\n:END: %^{timeline}p %^{custom_id}p"
+             :prepend t ; prepend properties
+             :created t ;
+             )
+            ("l" "Lexicon" )
+            (
+             "ln" ; key
+             "New Word"
+             entry
+             (file+headline "~/Orgfiles/Lexicon.org" "New Words")
+             "** %^{Word}  :drill:\n*Pronunciation:*\n\n*Definition:*\n[%?]\n\nEx:\n*** Synonyms\n- ")
+            (
+             "lm"
+             "Use More"
+             entry
+             (file+headline "~/Orgfiles/Lexicon.org" "Words To Use More")
+             "** %^{Word}\n")
+
+            )))
 
   ;; setup org mode map
 
@@ -563,18 +564,21 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+BEGIN_SRC emacs-lisp 
                                           ; hotkey bindings
   (define-key global-map (kbd "C-c c")
-    (lambda () (interactive) (org-capture)))
+              (lambda () (interactive) (org-capture)))
 
-  (define-key global-map (kbd "C-c t")
-    (lambda () (interactive) (org-capture nil "t")))  
+  (define-key global-map (kbd "<f13>")
+              (lambda () (interactive) (org-capture nil "tt")))
+  (define-key global-map (kbd "M-<f13>")
+              (lambda () (interactive) (org-capture nil "tp")))
+
 
   (define-key global-map (kbd "C-c m")
-    (lambda () (interactive) (org-capture nil "m")))
+              (lambda () (interactive) (org-capture nil "m")))
 
   (global-set-key (kbd "C-c a") 'org-agenda)
   (global-set-key (kbd "<f5>") 'toggle-next-task-display)
   ;; promote and demote trees using hyper
-  (global-set-key (kbd "H-i") 'org-toggle-inline-images)  
+  (global-set-key (kbd "<f18>") 'org-toggle-inline-images)  
 
 
                                           ; refile targets
@@ -593,7 +597,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 
                                           ; Use IDO for both buffer and file completion and ido-everywhere to t
 
-                                   ;;;; Refile settings
+                                     ;;;; Refile settings
                                           ; Exclude DONE state tasks from refile targets
   (defun bh/verify-refile-target ()
     "Exclude todo keywords with a done state from refile targets"
@@ -607,14 +611,14 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
   (setq org-habit-preceding-days 53)
 
   (add-to-list  'org-src-lang-modes '("plantuml" . plantuml))
-
+  (setq org-plantuml-jar-path "C:/Users/tyler/AppData/Roaming")
   (global-set-key (kbd "C-c b") 'org-switchb)
   (global-set-key (kbd "C-c l") 'org-store-link)
   (global-set-key (kbd "C-c H-a") 'org-archive-subtree)
 
-                                         ;;;;; end org mode setup ;;;;;
+                                           ;;;;; end org mode setup ;;;;;
 
-                                         ;;;;;;; Org Agenda Setup ;;;;;;;;;
+                                           ;;;;;;; Org Agenda Setup ;;;;;;;;;
   ;; Do not dim blocked tasks
   (setq org-agenda-dim-blocked-tasks nil)
   (add-hook 'org-agenda-finalize-hook #'hl-line-mode)
@@ -626,7 +630,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
   ;; variable setup
 
   ;; disable value goals from being inherited
-  (setq org-tags-exclude-from-inheritance '("VALUE" "NOTE"))
+  (setq org-tags-exclude-from-inheritance '("VALUE" "NOTE" "Q1" "Q2" "Q3" "Q4"))
   ;;reverse note order disabled
   (setq org-reverse-note-order nil)
   ;; Leading 0 for military time
@@ -671,19 +675,20 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
     (and (cond
           ((string= tag "REVIEW")
            t)
-          ((string= tag "SEAS")
-           t)
           ((string= tag "CONFIG")))
          (concat "-" tag)))
 
   (setq org-agenda-auto-exclude-function 'my/org-auto-exclude-function)
+
+  (fset 'my/set-todo-ordered
+        (kmacro-lambda-form [?\C-c ?\C-x ?p ?\C-n ?\C-n ?O ?r ?d ?e ?r ?e ?d return ?1 return] 0 "%d"))
 
 
 
 #+end_src
 
 #+RESULTS:
-: my/org-auto-exclude-function
+: #[256 "\301\242\302\305\300\306#\210\301\240*\207" [[3 24 112 14 14 79 114 100 101 114 101 100 return 49 return] (0) "%d" kmacro-counter-format-start kmacro-counter execute-kbd-macro kmacro-loop-setup-function] 5 kmacro]
 ** Org Agenda Custom Functions & Macros
 #+BEGIN_SRC emacs-lisp
   ;; Jumping Macro Definitions
@@ -711,6 +716,21 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
         (kmacro-lambda-form [?\M-< ?\C-s ?T ?a ?s ?k ?s ?  ?t ?o ?  ?R ?e ?f ?i ?l ?e return ?\C-a] 0 "%d"))
 
 
+  (fset 'my/org-make-list-todos
+        (kmacro-lambda-form [return ?\C-e return ?\C-p ?\C-a ?* ?  delete ?T ?O ?D ?\S-  backspace ?o ?\S-  backspace backspace ?O ?\S-  ?\C-c ?\C-x ?p ?C ?A ?T ?E ?G ?O ?R ?Y return ?T ?a ?s ?k return ?\C-n ?\C-n ?\C-c ?! return ?\C-n ?\C-a] 0 "%d"))
+
+
+  (defun my/org-convert-list-into-todos()
+    "Macro expansion for repeat key"
+    (interactive)
+    (my/org-make-list-todos)
+    (set-temporary-overlay-map
+     (let ((map (make-sparse-keymap)))
+       (define-key map (kbd "t") 'my/org-convert-list-into-todos)
+       map)))
+
+
+
   ;; keybinds
   (define-key org-agenda-mode-map (kbd "C-j s") 'my/org-agenda-jump-to-stuck-projects)
   (define-key org-agenda-mode-map (kbd "C-j p") 'my/org-agenda-jump-to-projects)
@@ -720,6 +740,9 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
   (define-key org-agenda-mode-map (kbd "C-j w") 'my/org-agenda-jump-to-waiting-and-postponed-tasks)
   (define-key org-agenda-mode-map (kbd "C-j a") 'my/org-agenda-jump-to-tasks-to-archive)
   (define-key org-agenda-mode-map (kbd "C-j r") 'my/org-agenda-jump-to-tasks-to-refile)
+
+
+  (global-set-key  (kbd "H-c t") 'my/org-convert-list-into-todos)
 
   ;; goto-entry macro definitions
   (fset 'my/org-agenda-zoom-to-entry
@@ -739,7 +762,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 *** Custom Agenda Setup
 #+BEGIN_SRC emacs-lisp
   (setq org-agenda-custom-commands
-        (quote (("N" "Notes" tags "NOTE"
+        (quote (("n" "Notes" tags "NOTE"
                  ((org-agenda-overriding-header "Notes")
                   (org-tags-match-list-sublevels t)))
                 ("h" "Habits" tags-todo "STYLE=\"habit\""
@@ -753,11 +776,12 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
                                               ((org-agenda-span 1))
                                               ))
                   )
+                ( "w" "Weekly Agenda" ((agenda ""
+                                               ((org-agenda-span 7))
+                                               ))
+                  )                
                 ("p" "Personal Agenda"
                  ((agenda "" nil)
-                  (tags "REFILE"
-                        ((org-agenda-overriding-header "Tasks to Refile")
-                         (org-tags-match-list-sublevels nil)))
                   (tags-todo "-CANCELLED/!"
                              ((org-agenda-overriding-header "Stuck Projects")
                               (org-agenda-skip-function 'bh/skip-non-stuck-projects)
@@ -816,12 +840,191 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
                         ((org-agenda-overriding-header "Tasks to Archive")
                          (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
                          (org-tags-match-list-sublevels nil))))
-                 ((org-agenda-tag-filter-preset '("-SEAS"))))                
-                ("w" "SEAS Agenda"
+                 ((org-agenda-tag-filter-preset '("+PERSONAL"))))
+                ("P" "Personal Project List"
+                 (
+                  (tags-todo "-CANCELLED/!"
+                             ((org-agenda-overriding-header "Personal Project List\n---------------------\nStuck Projects")
+                              (org-agenda-skip-function 'bh/skip-non-stuck-projects)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-HOLD-CANCELLED/!"
+                             ((org-agenda-overriding-header "Projects")
+                              (org-agenda-skip-function 'bh/skip-non-projects)
+                              (org-tags-match-list-sublevels 'indented)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED/!NEXT"
+                             ((org-agenda-overriding-header (concat "Project Next Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks)
+                              (org-tags-match-list-sublevels t)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(todo-state-down effort-up category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Project Subtasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Standalone Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED+WAITING|HOLD/!"
+                             ((org-agenda-overriding-header (concat "Waiting and Postponed Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+
+                              (org-tags-match-list-sublevels nil)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)))
+                  (tags "-REFILE/"
+                        ((org-agenda-overriding-header "Tasks to Archive")
+                         (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
+                         (org-tags-match-list-sublevels nil))))
+                 ((org-agenda-tag-filter-preset '("+PERSONAL"))))                
+                ("C" "Config Project List"
+                 ((tags-todo "-CANCELLED/!"
+                             ((org-agenda-overriding-header "Config Project List\n-------------------\nStuck Projects")
+                              (org-agenda-skip-function 'bh/skip-non-stuck-projects)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-HOLD-CANCELLED/!"
+                             ((org-agenda-overriding-header "Projects")
+                              (org-agenda-skip-function 'bh/skip-non-projects)
+                              (org-tags-match-list-sublevels 'indented)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED/!NEXT"
+                             ((org-agenda-overriding-header (concat "Project Next Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks)
+                              (org-tags-match-list-sublevels t)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(todo-state-down effort-up category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Project Subtasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Standalone Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED+WAITING|HOLD/!"
+                             ((org-agenda-overriding-header (concat "Waiting and Postponed Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-tasks)
+                              (org-tags-match-list-sublevels nil)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)))
+                  (tags "-REFILE/"
+                        ((org-agenda-overriding-header "Tasks to Archive")
+                         (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
+                         (org-tags-match-list-sublevels nil))))
+                 ((org-agenda-tag-filter-preset '("+CONFIG"))))
+                ("c" "Config Agenda"
                  ((agenda "" nil)
-                  (tags "REFILE"
-                        ((org-agenda-overriding-header "Tasks to Refile")
-                         (org-tags-match-list-sublevels nil)))
+                  (tags-todo "-CANCELLED/!"
+                             ((org-agenda-overriding-header "Stuck Projects")
+                              (org-agenda-skip-function 'bh/skip-non-stuck-projects)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-HOLD-CANCELLED/!"
+                             ((org-agenda-overriding-header "Projects")
+                              (org-agenda-skip-function 'bh/skip-non-projects)
+                              (org-tags-match-list-sublevels 'indented)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED/!NEXT"
+                             ((org-agenda-overriding-header (concat "Project Next Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks)
+                              (org-tags-match-list-sublevels t)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(todo-state-down effort-up category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Project Subtasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Standalone Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED+WAITING|HOLD/!"
+                             ((org-agenda-overriding-header (concat "Waiting and Postponed Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-tasks)
+                              (org-tags-match-list-sublevels nil)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)))
+                  (tags "-REFILE/"
+                        ((org-agenda-overriding-header "Tasks to Archive")
+                         (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
+                         (org-tags-match-list-sublevels nil))))
+                 ((org-agenda-tag-filter-preset '("+CONFIG"))))                
+                ("o" "Office Agenda"
+                 ((agenda "" nil)
                   (tags-todo "-CANCELLED/!"
                              ((org-agenda-overriding-header "Stuck Projects")
                               (org-agenda-skip-function 'bh/skip-non-stuck-projects)
@@ -881,6 +1084,67 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
                          (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
                          (org-tags-match-list-sublevels nil))))
                  ((org-agenda-tag-filter-preset '("+SEAS"))))
+                ("O" "Office Project List"
+                 (
+                  (tags-todo "-CANCELLED/!"
+                             ((org-agenda-overriding-header "Office Project List\n--------------------\nStuck Projects")
+                              (org-agenda-skip-function 'bh/skip-non-stuck-projects)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-HOLD-CANCELLED/!"
+                             ((org-agenda-overriding-header "Projects")
+                              (org-agenda-skip-function 'bh/skip-non-projects)
+                              (org-tags-match-list-sublevels 'indented)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED/!NEXT"
+                             ((org-agenda-overriding-header (concat "Project Next Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks)
+                              (org-tags-match-list-sublevels t)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(todo-state-down effort-up category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Project Subtasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-REFILE-CANCELLED-WAITING-HOLD/!"
+                             ((org-agenda-overriding-header (concat "Standalone Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-project-tasks)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-sorting-strategy
+                               '(category-keep))))
+                  (tags-todo "-CANCELLED+WAITING|HOLD/!"
+                             ((org-agenda-overriding-header (concat "Waiting and Postponed Tasks"
+                                                                    (if bh/hide-scheduled-and-waiting-next-tasks
+                                                                        ""
+                                                                      " (including WAITING and SCHEDULED tasks)")))
+                              (org-agenda-skip-function 'bh/skip-non-tasks)
+                              (org-tags-match-list-sublevels nil)
+                              (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks)
+                              (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks)))
+                  (tags "-REFILE/"
+                        ((org-agenda-overriding-header "Tasks to Archive")
+                         (org-agenda-skip-function 'bh/skip-non-archivable-tasks)
+                         (org-tags-match-list-sublevels nil))))
+                 ((org-agenda-tag-filter-preset '("+SEAS"))))                
                 (" " "Agenda"
                  ((agenda "" nil)
                   (tags "REFILE"
@@ -948,13 +1212,14 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+END_SRC
 
 #+RESULTS:
-| N | Notes                | tags                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | NOTE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | ((org-agenda-overriding-header Notes) (org-tags-match-list-sublevels t))                                         |                                                                                                              |
-| h | Habits               | tags-todo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | STYLE="habit"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | ((org-agenda-overriding-header Habits) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep))) |                                                                                                              |
-| r | Weekly Review Rollup | tags                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Accomplishment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Disappointment                                                                                                   | ((org-agenda-overriding-header Accomplishments & Disappointments) (org-tags-match-list-sublevels 'indented)) |
-| d | Daily Agenda         | ((agenda  ((org-agenda-span 1))))                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                  |                                                                                                              |
-| p | Personal Agenda      | ((agenda  nil) (tags REFILE ((org-agenda-overriding-header Tasks to Refile) (org-tags-match-list-sublevels nil))) (tags-todo -CANCELLED/! ((org-agenda-overriding-header Stuck Projects) (org-agenda-skip-function 'bh/skip-non-stuck-projects) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -HOLD-CANCELLED/! ((org-agenda-overriding-header Projects) (org-agenda-skip-function 'bh/skip-non-projects) (org-tags-match-list-sublevels 'indented) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED/!NEXT ((org-agenda-overriding-header (concat Project Next Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks) (org-tags-match-list-sublevels t) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Project Subtasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Standalone Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED+WAITING | HOLD/! ((org-agenda-overriding-header (concat Waiting and Postponed Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-tasks) (org-tags-match-list-sublevels nil) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks))) (tags -REFILE/ ((org-agenda-overriding-header Tasks to Archive) (org-agenda-skip-function 'bh/skip-non-archivable-tasks) (org-tags-match-list-sublevels nil)))) | ((org-agenda-tag-filter-preset '(-SEAS)))                                                                        |                                                                                                              |
-| w | SEAS Agenda          | ((agenda  nil) (tags REFILE ((org-agenda-overriding-header Tasks to Refile) (org-tags-match-list-sublevels nil))) (tags-todo -CANCELLED/! ((org-agenda-overriding-header Stuck Projects) (org-agenda-skip-function 'bh/skip-non-stuck-projects) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -HOLD-CANCELLED/! ((org-agenda-overriding-header Projects) (org-agenda-skip-function 'bh/skip-non-projects) (org-tags-match-list-sublevels 'indented) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED/!NEXT ((org-agenda-overriding-header (concat Project Next Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks) (org-tags-match-list-sublevels t) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Project Subtasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Standalone Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED+WAITING | HOLD/! ((org-agenda-overriding-header (concat Waiting and Postponed Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-tasks) (org-tags-match-list-sublevels nil) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks))) (tags -REFILE/ ((org-agenda-overriding-header Tasks to Archive) (org-agenda-skip-function 'bh/skip-non-archivable-tasks) (org-tags-match-list-sublevels nil)))) | ((org-agenda-tag-filter-preset '(+SEAS)))                                                                        |                                                                                                              |
-|   | Agenda               | ((agenda  nil) (tags REFILE ((org-agenda-overriding-header Tasks to Refile) (org-tags-match-list-sublevels nil))) (tags-todo -CANCELLED/! ((org-agenda-overriding-header Stuck Projects) (org-agenda-skip-function 'bh/skip-non-stuck-projects) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -HOLD-CANCELLED/! ((org-agenda-overriding-header Projects) (org-agenda-skip-function 'bh/skip-non-projects) (org-tags-match-list-sublevels 'indented) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED/!NEXT ((org-agenda-overriding-header (concat Project Next Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks) (org-tags-match-list-sublevels t) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Project Subtasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Standalone Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED+WAITING | HOLD/! ((org-agenda-overriding-header (concat Waiting and Postponed Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-tasks) (org-tags-match-list-sublevels nil) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks))) (tags -REFILE/ ((org-agenda-overriding-header Tasks to Archive) (org-agenda-skip-function 'bh/skip-non-archivable-tasks) (org-tags-match-list-sublevels nil)))) | nil                                                                                                              |                                                                                                              |
+| n | Notes                 | tags                                                                                                                                                                                                                                                                                                                   | NOTE                                                                                                                                                                                                                                                                                                                   | ((org-agenda-overriding-header Notes) (org-tags-match-list-sublevels t))                                         |                                                                                                              |
+| h | Habits                | tags-todo                                                                                                                                                                                                                                                                                                              | STYLE="habit"                                                                                                                                                                                                                                                                                                          | ((org-agenda-overriding-header Habits) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep))) |                                                                                                              |
+| r | Weekly Review Rollup  | tags                                                                                                                                                                                                                                                                                                                   | Accomplishment                                                                                                                                                                                                                                                                                                         | Disappointment                                                                                                   | ((org-agenda-overriding-header Accomplishments & Disappointments) (org-tags-match-list-sublevels 'indented)) |
+| d | Daily Agenda          | ((agenda  ((org-agenda-span 1))))                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                        |                                                                                                                  |                                                                                                              |
+| w | Weekly Agenda         | ((agenda  ((org-agenda-span 7))))                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                        |                                                                                                                  |                                                                                                              |
+| p | Personal Agenda       | ((agenda  nil) (tags-todo -CANCELLED/! ((org-agenda-overriding-header Stuck Projects) (org-agenda-skip-function 'bh/skip-non-stuck-projects) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -HOLD-CANCELLED/! ((org-agenda-overriding-header Projects) (org-agenda-skip-function 'bh/skip-non-projects) (org-tags-match-list-sublevels 'indented) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED/!NEXT ((org-agenda-overriding-header (concat Project Next Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-projects-and-habits-and-single-tasks) (org-tags-match-list-sublevels t) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(todo-state-down effort-up category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Project Subtasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -REFILE-CANCELLED-WAITING-HOLD/! ((org-agenda-overriding-header (concat Standalone Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-project-tasks) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-with-date bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-sorting-strategy '(category-keep)))) (tags-todo -CANCELLED+WAITING | HOLD/! ((org-agenda-overriding-header (concat Waiting and Postponed Tasks (if bh/hide-scheduled-and-waiting-next-tasks   (including WAITING and SCHEDULED tasks)))) (org-agenda-skip-function 'bh/skip-non-tasks) (org-tags-match-list-sublevels nil) (org-agenda-todo-ignore-scheduled bh/hide-scheduled-and-waiting-next-tasks) (org-agenda-todo-ignore-deadlines bh/hide-scheduled-and-waiting-next-tasks))) (tags -REFILE/ ((org-agenda-overriding-header Tasks to Archive) (org-agenda-skip-function 'bh/skip-non-archivable-tasks) (org-tags-match-list-sublevels nil)))) | ((org-agenda-tag-filter-preset '(+PERSONAL)))                                                                    |                                                                                                              |
+| P | Personal Project List | ((tags-todo -CANCELLED/! ((org-agenda-overriding-header Personal Project List                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                        |                                                                                                                  |                                                                                                              |
+|---+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------|
 
 *** Helper functiqons
 #+begin_src emacs-lisp
@@ -1267,7 +1532,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+end_src
 
 #+RESULTS:
-| (closure (org-agenda-skip-regexp org-table1-hline-regexp org-table-tab-recognizes-table.el org-table-dataline-regexp org-table-any-border-regexp org-agenda-restriction-lock-overlay org-agenda-overriding-restriction org-agenda-diary-file org-complex-heading-regexp t) nil (setq imenu-create-index-function 'org-imenu-get-tree)) | org-transclusion-mode | org-mode-visual-fill | (lambda nil (add-hook 'after-save-hook #'my/org-babel-tangle-config)) | (lambda nil (display-line-numbers-mode 0)) | my/org-buffer-setup | org-bullets-mode | valign-mode | org-mode-setup | (closure (org--rds reftex-docstruct-symbol org-element-greater-elements visual-fill-column-width org-clock-history org-agenda-current-date org-with-time org-defdecode org-def org-read-date-inactive org-ans2 org-ans1 org-columns-current-fmt-compiled org-clock-current-task org-clock-effort org-agenda-skip-function org-agenda-skip-comment-trees org-agenda-archives-mode org-end-time-was-given org-time-was-given org-log-note-extra org-log-note-purpose org-log-post-message org-last-inserted-timestamp org-last-changed-timestamp org-entry-property-inherited-from org-blocked-by-checkboxes org-state org-agenda-headline-snapshot-before-repeat org-agenda-buffer-name org-agenda-start-on-weekday org-agenda-buffer-tmp-name org-priority-regexp org-mode-abbrev-table org-mode-syntax-table buffer-face-mode-face org-tbl-menu org-org-menu org-struct-menu org-entities org-last-state org-id-track-globally org-clock-start-time texmathp-why remember-data-file org-agenda-tags-todo-honor-ignore-options iswitchb-temp-buflist calc-embedded-open-mode calc-embedded-open-formula calc-embedded-close-formula align-mode-rules-list org-emphasis-alist org-emphasis-regexp-components org-export-registered-backends org-modules crm-separator org-babel-load-languages org-id-overriding-file-name org-indent-indentation-per-level org-element--timestamp-regexp org-element-paragraph-separate org-inlinetask-min-level t) nil (add-hook 'change-major-mode-hook 'org-show-all 'append 'local)) | (closure (org-src-window-setup *this* org-babel-confirm-evaluate-answer-no org-babel-tangle-uncomment-comments org-src-preserve-indentation org-src-lang-modes org-edit-src-content-indentation org-babel-library-of-babel t) nil (add-hook 'change-major-mode-hook #'org-babel-show-result-all 'append 'local)) | org-babel-result-hide-spec | org-babel-hide-all-hashes |
+| (closure (org-agenda-skip-regexp org-table1-hline-regexp org-table-tab-recognizes-table.el org-table-dataline-regexp org-table-any-border-regexp org-agenda-restriction-lock-overlay org-agenda-overriding-restriction org-agenda-diary-file org-complex-heading-regexp t) nil (setq imenu-create-index-function 'org-imenu-get-tree)) | org-transclusion-mode | org-mode-visual-fill | (lambda nil (add-hook 'after-save-hook #'my/org-babel-tangle-config)) | (lambda nil (display-line-numbers-mode 0)) | my/org-buffer-setup | org-bullets-mode | valign-mode | org-mode-setup | (closure (org--rds reftex-docstruct-symbol org-element-greater-elements visual-fill-column-width org-clock-history org-agenda-current-date org-with-time org-defdecode org-def org-read-date-inactive org-ans2 org-ans1 org-columns-current-fmt-compiled org-clock-current-task org-clock-effort org-agenda-skip-function org-agenda-skip-comment-trees org-agenda-archives-mode org-end-time-was-given org-time-was-given org-log-note-extra org-log-note-purpose org-log-post-message org-last-inserted-timestamp org-last-changed-timestamp org-entry-property-inherited-from org-blocked-by-checkboxes org-state org-agenda-headline-snapshot-before-repeat org-agenda-buffer-name org-agenda-start-on-weekday org-agenda-buffer-tmp-name org-priority-regexp org-mode-abbrev-table org-mode-syntax-table buffer-face-mode-face org-tbl-menu org-org-menu org-struct-menu org-entities org-last-state org-id-track-globally org-clock-start-time texmathp-why remember-data-file org-agenda-tags-todo-honor-ignore-options iswitchb-temp-buflist calc-embedded--mode calc-embedded-open-formula calc-embedded-close-formula align-mode-rules-list org-emphasis-alist org-emphasis-regexp-components org-export-registered-backends org-modules crm-separator org-babel-load-languages org-id-overriding-file-name org-indent-indentation-per-level org-element--timestamp-regexp org-element-paragraph-separate org-inlinetask-min-level t) nil (add-hook 'change-major-mode-hook 'org-show-all 'append 'local)) | (closure (org-src-window-setup *this* org-babel-confirm-evaluate-answer-no org-babel-tangle-uncomment-comments org-src-preserve-indentation org-src-lang-modes org-edit-src-content-indentation org-babel-library-of-babel t) nil (add-hook 'change-major-mode-hook #'org-babel-show-result-all 'append 'local)) | org-babel-result-hide-spec | org-babel-hide-all-hashes |
 *** Font Configuration
 #+begin_src emacs-lisp
   (dolist (face '((org-level-1 . 1.2)
@@ -1299,7 +1564,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+RESULTS:
 : t
 
-*** bullets and dashes
+*** bullets and dashes[
 #+begin_src emacs-lisp
   (use-package org-bullets
     :after org
@@ -1316,16 +1581,18 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 
   (global-prettify-symbols-mode t)
 
-  (defun my/org-buffer-setup ()
-    (push '("[ ]" . "☐" ) prettify-symbols-alist)
-    (push '("[X]" . "☑" ) prettify-symbols-alist)
-    (push '("[-]" . "❍" ) prettify-symbols-alist)
-    )
+                                          ; (defun my/org-buffer-setup ()
+  ;; (push '("[ ]" . "☐" ) prettify-symbols-alist)
+  ;; (push '("[X]" . "☑" ) prettify-symbols-alist)
+  ;; (push '("[-]" . "❍" ) prettify-symbols-alist)
+  ;; )
 
-  (add-hook 'org-mode-hook #'my/org-buffer-setup)
+                                          ;  (add-hook 'org-mode-hook #'my/org-buffer-setup)
   ;; Override some modes which derive from the above
   (dolist (mode '(org-mode-hook))
     (add-hook mode (lambda () (display-line-numbers-mode 0))))
+
+
 
 
 #+end_src
@@ -1338,6 +1605,8 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
                                           ;  (require 'org-tempo)
                                           ;  (with-eval-after-load 'org-tempo
 
+
+
   ;; C-C C-, to use a structure template
   (add-to-list 'org-structure-template-alist '("sh" . "src shell"))
   (add-to-list 'org-structure-template-alist '("el" . "src emacs-lisp")) 
@@ -1347,13 +1616,15 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+RESULTS:
 : ((py . src python) (el . src emacs-lisp) (sh . src shell) (a . export ascii) (c . center) (C . comment) (e . example) (E . export) (h . export html) (l . export latex) (q . quote) (s . src) (v . verse))
 
+
+
 *** Category Icons
 #+BEGIN_SRC emacs-lisp
   (load "org-agenda-category-icons")
   (org-agenda-category-icons!
 
    :material
-   (repeat Habit)
+   (repeat Recurring)
    (group Meeting)
    (cake Birthday)
    (cake Anniversary)
@@ -1362,9 +1633,12 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
    (people Meeting)
 
 
+   :octicon
+   (tools Habit)
 
    :faicon
    (cogs Config)
+   (book Lexicon)
    (check-circle Task)
    (code Odin)
    (list-ul Project)
@@ -1375,6 +1649,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
    (exclamation-circle Reminder)
    (flag Holiday)
    (info Note)
+   (star Goals)
    (archive Archive))
 
 
@@ -1394,6 +1669,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
      (js .t)
      (shell . t)
      (dot . t)
+     (gnuplot . t)
      (plantuml . t)
      (python .t)))
 
@@ -1418,7 +1694,7 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+RESULTS:
 | (lambda nil (add-hook 'after-save-hook #'emacsone/org-babel-tangle-config)) | (closure (org--rds reftex-docstruct-symbol org-element-greater-elements visual-fill-column-width org-clock-history org-agenda-current-date org-with-time org-defdecode org-def org-read-date-inactive org-ans2 org-ans1 org-columns-current-fmt-compiled org-clock-current-task org-clock-effort org-agenda-skip-function org-agenda-skip-comment-trees org-agenda-archives-mode org-end-time-was-given org-time-was-given org-log-note-extra org-log-note-purpose org-log-post-message org-last-inserted-timestamp org-last-changed-timestamp org-entry-property-inherited-from org-blocked-by-checkboxes org-state org-agenda-headline-snapshot-before-repeat org-agenda-buffer-name org-agenda-start-on-weekday org-agenda-buffer-tmp-name org-priority-regexp org-mode-abbrev-table org-mode-syntax-table buffer-face-mode-face org-tbl-menu org-org-menu org-struct-menu org-entities org-last-state org-id-track-globally org-clock-start-time texmathp-why remember-data-file org-agenda-tags-todo-honor-ignore-options iswitchb-temp-buflist calc-embedded-open-mode calc-embedded-open-formula calc-embedded-close-formula align-mode-rules-list org-emphasis-alist org-emphasis-regexp-components org-export-registered-backends org-modules crm-separator org-babel-load-languages org-id-overriding-file-name org-indent-indentation-per-level org-element--timestamp-regexp org-element-paragraph-separate org-inlinetask-min-level t) nil (add-hook 'change-major-mode-hook 'org-show-all 'append 'local))  | (closure (org-src-window-setup *this* org-babel-confirm-evaluate-answer-no org-babel-tangle-uncomment-comments org-src-preserve-indentation org-src-lang-modes org-edit-src-content-indentation org-babel-library-of-babel t) nil (add-hook 'change-major-mode-hook #'org-babel-show-result-all 'append 'local)) | org-babel-result-hide-spec | org-babel-hide-all-hashes |
 
-*** Vit0:00:00 0:00:04 0:00:06 0:00:22 sual Fill Mode
+*** Vit sual Fill Mode
 #+begin_src emacs-lisp
   (defun org-mode-visual-fill()
     (setq visual-fill-column-width 110 visual-fill-column-center-text t)
@@ -1438,11 +1714,11 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 :APPT_WARNTIME: 1
 :END:
 #+BEGIN_SRC emacs-lisp 
-  (setq org-clock-sound "~/Downloads/cheer.wav")
+  (setq org-clock-sound "~/Orgfiles/Kids_cheering.wav")
 #+END_SRC
 
 #+RESULTS:
-: ~/Downloads/cheer.wav
+: ~/Orgfiles/Kids_cheering.wav
 
 #+RESULTS:
 : org-agenda-remove-restriction-lock
@@ -1469,11 +1745,11 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
      ("C-c n t" . org-roam-tag-add)
      ("C-c n r" . org-roam-ref-add)
      ("C-c n s" . consult-org-roam-search)
-     ("C-c n m" . my/MOC-find)
      ("C-c n x a" . org-roam-alias-remove)
      ("C-c n x r" . org-roam-ref-remove)
      ("C-c n x t" . org-roam-tag-remove)
-
+     ("C-c n F g" . my/GAME-find)
+     ("C-c n m" . my/MOC-find)
      ("C-c n I" . org-roam-node-insert-immediate)
      :map org-mode-map
      ("C-c n b" . org-mark-ring-goto)
@@ -1487,6 +1763,18 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
     :config
     (require 'org-roam-dailies)
     (org-roam-db-autosync-mode))
+
+
+  ;; for org-roam-buffer-toggle
+  ;; Recommendation in the official manual
+  (add-to-list 'display-buffer-alist
+               '("\\*org-roam\\*"
+                 (display-buffer-in-direction)
+                 (direction . right)
+                 (window-width . 0.33)
+                 (window-height . fit-window-to-buffer)))
+
+
 
   ;;  Bind this to C-c n In
   (defun org-roam-node-insert-immediate (arg &rest args)
@@ -1502,12 +1790,21 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
     (let ((tags (org-roam-node-tags node)))
       (member "MOC" tags)))
 
+
   (defun my/MOC-find ()
     "Find moc files"
     (interactive)
     (org-roam-node-find t nil 'my/find-MOC-only))
 
+  (defun my/find-games-only(node)
+    "Find entries tagged as games"
+    (let ((tags (org-roam-node-tags node)))
+      (member "Game" tags)))
 
+  (defun my/GAME-find()
+    "Find game files"
+    (interactive)
+    (org-roam-node-find t nil 'my/find-games-only))
 
   (with-eval-after-load "org-roam" 
     (setq org-roam-capture-templates
@@ -1515,23 +1812,23 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
              "%?"
              :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\n")
              :unnarrowed t)
-            ;; programming language
-            ("l" "programming language" plain
-             "* Characteristics\n\n- Family: %?\n- Inspired by: \n\n* Reference:\n\n"
-             :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\n")go
-             :unnarrowed t)
-            ;; programming insight - javascript
-            ("i" "Programming Insights" plain
-             "* Problem\n\n* Insight:\n\n* Solution:\n\n* Refactoring:\n\n* Fig1:\n\n#+BEGIN_SRC javascript\n\n\n#+END_SRC"
-             :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\n")
+            ("g" "games")
+            ("ga" "Add Game" plain
+             "\n* Details\n\nGame Name: ${title}\nDesigner: %^{Designer}\nYear: %^{Year}\nPublisher: %^{Publisher}\nBGG Link: %^{BGG Link}\n\n* Description\n\n* First Impression\n\n%?"
+             :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title:${title}\n#+filetags: :Game:\n#+date: %U\n")
              :unnarrowed t)
             ("b" "book notes" plain
              "\n* Source\n\nAuthor: %^{Author}\nTitle: ${title}\nYear: %^{Year}\n\n* Summary\n\n%?"
-             :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\nest")
+             :if-new (file+head "%<%Y%m%d%H%M%S>-${slug}.org" "#+title: ${title}\n#+date: %U\n")
              :unnarrowed t))))
 
+  (setq org-roam-mode-sections
+        (list #'org-roam-backlinks-section
+              #'org-roam-reflinks-section
+              #'org-roam-unlinked-references-section
+              ))
 
-  (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:15}" 'face 'org-tag)))
+  (setq org-roam-node-display-template (concat "${title:*} " (propertize "${tags:30}" 'face 'org-tag)))
 
   (use-package org-roam-ui
     :bind ("C-H-4" . org-roam-ui-open)
@@ -1605,7 +1902,9 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+BEGIN_SRC emacs-lisp
   (use-package org-transclusion)
   (add-hook 'org-mode-hook #'org-transclusion-mode)
-  (fset 'my/org-transclusion-bake
+  (global-set-key (kbd "s-t") 'org-transclusion-mode)
+
+  (fset 'my/org-transclusion-make
         (kmacro-lambda-form [?\C-  ?\C-c ?\C-n ?\M-w ?\C-p ?\C-y ?\C-c ?\C-p ?\C-c ?\C-p ?\M-x ?o ?r ?g ?- ?t ?r ?a ?n ?s ?c ?l ?u ?s ?i ?o ?n ?- ?d ?e ?a tab return ?\C-p ?\C-k] 0 "%d"))
 
 
@@ -1613,7 +1912,13 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 #+END_SRC
 
 #+RESULTS:
-| org-transclusion-mode | (lambda nil (display-line-numbers-mode 0)) | (closure (org-agenda-skip-regexp org-table1-hline-regexp org-table-tab-recognizes-table.el org-table-dataline-regexp org-table-any-border-regexp org-agenda-restriction-lock-overlay org-agenda-overriding-restriction org-agenda-diary-file org-complex-heading-regexp t) nil (setq imenu-create-index-function 'org-imenu-get-tree)) | org-mode-visual-fill | (lambda nil (add-hook 'after-save-hook #'emacsone/org-babel-tangle-config)) | org-bullets-mode | valign-mode | org-mode-setup | (closure (org--rds reftex-docstruct-symbol org-element-greater-elements visual-fill-column-width org-clock-history org-agenda-current-date org-with-time org-defdecode org-def org-read-date-inactive org-ans2 org-ans1 org-columns-current-fmt-compiled org-clock-current-task org-clock-effort org-agenda-skip-function org-agenda-skip-comment-trees org-agenda-archives-mode org-end-time-was-given org-time-was-given org-log-note-extra org-log-note-purpose org-log-post-message org-last-inserted-timestamp org-last-changed-timestamp org-entry-property-inherited-from org-blocked-by-checkboxes org-state org-agenda-headline-snapshot-before-repeat org-agenda-buffer-name org-agenda-start-on-weekday org-agenda-buffer-tmp-name org-priority-regexp org-mode-abbrev-table org-mode-syntax-table buffer-face-mode-face org-tbl-menu org-org-menu org-struct-menu org-entities org-last-state org-id-track-globally org-clock-start-time texmathp-why remember-data-file org-agenda-tags-todo-honor-ignore-options iswitchb-temp-buflist calc-embedded-open-mode calc-embedded-open-formula calc-embedded-close-formula align-mode-rules-list org-emphasis-alist org-emphasis-regexp-components org-export-registered-backends org-modules crm-separator org-babel-load-languages org-id-overriding-file-name org-indent-indentation-per-level org-element--timestamp-regexp org-element-paragraph-separate org-inlinetask-min-level t) nil (add-hook 'change-major-mode-hook 'org-show-all 'append 'local))   | (closure (org-src-window-setup *this* org-babel-confirm-evaluate-answer-no org-babel-tangle-uncomment-comments org-src-preserve-indentation org-src-lang-modes org-edit-src-content-indentation org-babel-library-of-babel t) nil (add-hook 'change-major-mode-hook #'org-babel-show-result-all 'append 'local)) | org-babel-result-hide-spec  | org-babel-hide-all-hashes |
+: #[256 "\301\242\302\305\300\306#\210\301\240*\207" [[67108896 3 14 134217847 16 25 3 16 3 16 134217848 111 114 103 45 116 114 97 110 115 99 108 117 115 105 111 110 45 100 101 97 tab return 16 11] (0) "%d" kmacro-counter-format-start kmacro-counter execute-kbd-macro kmacro-loop-setup-function] 5 kmacro]
+
+
+#+END_SRC
+
+#+RESULTS:
+: #[256 "\301\242\302\305\300\306#\210\301\240*\207" [[67108896 3 14 134217847 16 25 3 16 3 16 134217848 111 114 103 45 116 114 97 110 115 99 108 117 115 105 111 110 45 100 101 97 tab return 16 11] (0) "%d" kmacro-counter-format-start kmacro-counter execute-kbd-macro kmacro-loop-setup-function] 5 kmacro]
 
 * Org-Present
 #+BEGIN_SRC emacs-lisp
@@ -1624,19 +1929,67 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
                  (lambda ()
                    (org-present-big)
                    (org-display-inline-images)
-                   (org-present-hide-cursor)
-                   (org-present-read-only)))
+                   (hl-line-mode)
+                   ;; (org-present-hide-cursor)
+                   ;; (org-present-read-only)
+                   ))
+
        (add-hook 'org-present-mode-quit-hook
                  (lambda ()
                    (org-present-small)
                    (org-remove-inline-images)
-                   (org-present-show-cursor)
-                   (org-present-read-write)))))
+                   (hl-line-mode)
+                   ;; (org-present-show-cursor)
+                   ;; (org-present-read-write)
+                   ))))
 
 #+END_SRC
 
 #+RESULTS:
+| lambda | nil | (org-present-small) | (org-remove-inline-images) | (hl-line-mode)            |                          |
+| lambda | nil | (org-present-small) | (org-remove-inline-images) | (hl-line-mode)            | (org-present-read-write) |
+| lambda | nil | (org-present-small) | (org-remove-inline-images) | (org-present-read-write)  |                          |
 | lambda | nil | (org-present-small) | (org-remove-inline-images) | (org-present-show-cursor) | (org-present-read-write) |
+
+* Org-ql
+#+BEGIN_SRC emacs-lisp
+  (setq org-directory "~/Orgfiles")
+  (global-set-key (kbd "C-H-M-f") 'org-ql-find)
+  (global-set-key (kbd "C-H-M-s") 'org-ql-search)
+  (global-set-key (kbd "C-H-M-v") 'org-ql-view)
+
+  ;; example of an org-ql-search
+                                          ;  (org-ql-search (org-agenda-files)
+                                          ;    '(and
+                                          ;      (todo "TODO")
+                                          ;      (tags "GAMEDESIGN")))
+#+END_SRC
+
+#+RESULTS:
+: 1
+
+* calfw-org
+#+BEGIN_SRC emacs-lisp
+
+  (require 'calfw-org)
+  (require 'calfw-cal)
+  (require 'calfw-gcal)
+
+  (defun my-open-calendar ()
+    (interactive)
+    (cfw:open-calendar-buffer
+     :contents-sources
+     (list
+      (cfw:org-create-file-source "SEAS" "~/Orgfiles/SEAS.org" "#a0a0a0")  ; Work orgmode source
+      (cfw:org-create-file-source "PERSONAL" "~/Orgfiles/tasks.org" "Orange") ; Personal orgmode
+      )))
+
+  (global-set-key (kbd "<f17>") 'my-open-calendar)
+
+#+END_SRC
+
+#+RESULTS:
+: my-open-calendar
 
 * Ledger-Mode
 #+BEGIN_SRC emacs-lisp
@@ -1669,7 +2022,6 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
 | account        | %(binary) -f %(ledger-file) reg %(account)            |
 
 * IDE Setup
-
 ** Magit
 #+begin_src emacs-lisp
   (use-package magit
@@ -1753,8 +2105,6 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
       (set-process-filter proc #'comintoutput-filter)))
 #+end_src
 
-
-
 ** Projectile
 #+begin_src emacs-lisp
   (use-package projectile
@@ -1772,7 +2122,6 @@ Great article on Avy - https://karthinks.com/software/avy-can-do-anything/
     :config (counsel-projectile-mode))
 
   (global-set-key (kbd "H-x H-s") 'projectile-save-project-buffers)
-
 #+end_src
 
 #+RESULTS:
@@ -2052,6 +2401,39 @@ Following setup from here: https://www.chadstovern.com/javascript-in-emacs-revis
 #+END_SRC
 
 #+RESULTS:
+
+*** Ligatures
+#+BEGIN_SRC emacs-lisp
+  ;; This assumes you've installed the package via MELPA.
+  (use-package ligature
+    :config
+    ;; Enable the "www" ligature in every possible major mode
+    (ligature-set-ligatures 't '("www"))
+    ;; Enable traditional ligature support in eww-mode, if the
+    ;; `variable-pitch' face supports it
+    (ligature-set-ligatures 'eww-mode '("ff" "fi" "ffi"))
+    ;; Enable all Cascadia Code ligatures in programming modes
+    (ligature-set-ligatures 'prog-mode '("|||>" "<|||" "<==>" "<!--" "####" "~~>" "***" "||=" "||>"
+                                         ":::" "::=" "=:=" "===" "==>" "=!=" "=>>" "=<<" "=/=" "!=="
+                                         "!!." ">=>" ">>=" ">>>" ">>-" ">->" "->>" "-->" "---" "-<<"
+                                         "<~~" "<~>" "<*>" "<||" "<|>" "<$>" "<==" "<=>" "<=<" "<->"
+                                         "<--" "<-<" "<<=" "<<-" "<<<" "<+>" "</>" "###" "#_(" "..<"
+                                         "..." "+++" "/==" "///" "_|_" "www" "&&" "^=" "~~" "~@" "~="
+                                         "~>" "~-" "**" "*>" "*/" "||" "|}" "|]" "|=" "|>" "|-" "{|"
+                                         "[|" "]#" "::" ":=" ":>" ":<" "$>" "==" "=>" "!=" "!!" ">:"
+                                         ">=" ">>" ">-" "-~" "-|" "->" "--" "-<" "<~" "<*" "<|" "<:"
+                                         "<$" "<=" "<>" "<-" "<<" "<+" "</" "#{" "#[" "#:" "#=" "#!"
+                                         "##" "#(" "#?" "#_" "%%" ".=" ".-" ".." ".?" "+>" "++" "?:"
+                                         "?=" "?." "??" ";;" "/*" "/=" "/>" "//" "__" "~~" "(*" "*)"
+                                         "\\\\" "://"))
+    ;; Enables ligature checks globally in all buffers. You can also do it
+    ;; per mode with `ligature-mode'.
+    (global-ligature-mode t))
+#+END_SRC
+
+#+RESULTS:
+: t
+
 *** Haxe
 #+BEGIN_SRC emacs-lisp
   ;; This isn't really a package, it just provides a `haxe-mode' to work with
@@ -2109,16 +2491,15 @@ Following setup from here: https://www.chadstovern.com/javascript-in-emacs-revis
 Dap mode here: https://www.youtube.com/watch?v=0bilcQVSlbM
 
 * Macros, Functions and Keybinds
-A section for my personal macors functions and keybinds
-
+A section for my personal macors functions and keybinds  
 ** Dabbrev
 #+BEGIN_SRC emacs-lisp
   (global-set-key (kbd "M-=") 'dabbrev-expand)
-  (global-set-key (kbd "C-M-=") 'dabbrev-complete)
+  (global-set-key (kbd "C-M-=") 'dabbrev-completion)
 #+END_SRC
 
 #+RESULTS:
-: dabbrev-complete
+: dabbrev-completion
 
 ** next-tag - "C-x t" - Move inside the next tag set in web-mode
 #+BEGIN_SRC emacs-lisp
@@ -2150,25 +2531,27 @@ A section for my personal macors functions and keybinds
 : next-tag
 ** Window Movement
 Managing Windows, buffers etc
-*** General movement
-**** Keymap
-| action                          | key        |
-|---------------------------------+------------|
-| other-window                    | M-+        |
-| 'ace-window                     | M-[        |
-| 'treemacs-select-window         | M-]        |
-| 'treemacs                       | C-c s t    |
-| 'delete-window                  | H-<escape> |
-| 'delete-other-windows           | H-1        |
-| 'split-window-below             | H-2        |
-| 'split-window-right             | H-3        |
-| 'buffer-menu                    | C-H        |
-| 'buffer-quick-switch            | H-b        |
-| 'list-bookmarks                 | C-H-g      |
-| 'dired-jump                     | C-H-t      |
-| 'kill-current-buffer            | H-k        |
-| 'kill-current-buffer-and-window | C-H-k      |
+*** Window Movement Keymap
+| action                              | key        |
+|-------------------------------------+------------|
+| other-window                        | M-+        |
+| 'ace-window                         | M-[        |
+| 'treemacs-select-window             | M-]        |
+| 'treemacs                           | C-c s t    |
+| 'delete-window                      | H-<escape> |
+| 'delete-other-windows               | H-1        |
+| 'split-window-below                 | H-2        |
+| 'split-window-right                 | H-3        |
+| 'buffer-menu                        | C-H        |
+| 'buffer-quick-switch                | H-b        |
+| 'list-bookmarks                     | C-H-g      |
+| 'dired-jump                         | C-H-t      |
+| 'kill-current-buffer                | H-k        |
+| 'kill-current-buffer-and-window     | H-C-k      |
+| 'clone-indirect-buffer-other-window | H-C-i      |
+| 'buffer-menu                        | H-C-b      |
 
+*** General movement
 **** Functions and Bindings
 #+BEGIN_SRC emacs-lisp
   ;; Macros & commands
@@ -2194,10 +2577,11 @@ Managing Windows, buffers etc
 
 
   ;; Bindings
-  (global-set-key (kbd "M-+") 'other-window)
-  (global-set-key (kbd "M-]") 'ace-window)
-  (global-set-key (kbd "<C-M-tab>") 'treemacs-select-window)
-  (global-set-key (kbd "C-c s t") 'treemacs)
+  (global-set-key (kbd "M-[") 'other-window)
+  (global-set-key (kbd "M-]") 'other-frame)
+  (global-set-key (kbd "C-M-]") 'ace-window)
+  (global-set-key (kbd "<C-H-tab>") 'treemacs-select-window)
+  (global-set-key (kbd "C-M-[") 'treemacs)
   (global-set-key (kbd "H-<escape>") 'delete-window)
   (global-set-key (kbd "C-H-<escape>") 'delete-frame)
   (global-set-key (kbd "H-1") 'delete-other-windows)
@@ -2212,6 +2596,7 @@ Managing Windows, buffers etc
   (global-set-key (kbd "H-k") 'kill-current-buffer)
   (global-set-key (kbd "C-H-k") 'kill-current-buffer-and-window)
   (global-set-key (kbd "H-+") 'other-frame)
+  (global-set-key (kbd "C-H-i") 'clone-indirect-buffer-other-window)
 
 
 
@@ -2219,7 +2604,7 @@ Managing Windows, buffers etc
 #+END_SRC
 
 #+RESULTS:
-: other-frame
+: clone-indirect-buffer-other-window
 
 
 
@@ -2319,7 +2704,8 @@ Managing Windows, buffers etc
 : set-harpoon-f
 
 ** Cursor Movement
-*** Keylist
+Move the cursor
+*** Cursor Movement Keymap
 |-------------------------------------+-----|
 | Action                              | Key |
 |-------------------------------------+-----|
@@ -2351,6 +2737,75 @@ Managing Windows, buffers etc
        map))
     )
 
+  (defun my/shrink-current-window()
+    "Custom window shrink command with repetable key"
+    (interactive)
+    (shrink-window-horizontally 5)
+
+    (set-temporary-overlay-map
+     (let ((map (make-sparse-keymap)))
+       (define-key map (kbd "b") 'my/shrink-current-window)
+       (define-key map (kbd "{") 'my/shrink-current-window)
+       (define-key map (kbd "n") 'my/enlarge-current-window)       
+       (define-key map (kbd "}") 'my/enlarge-current-window)
+       (define-key map (kbd "g") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "(") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "h") 'my/enlarge-current-window-vertically)
+       (define-key map (kbd ")") 'my/enlarge-current-window-vertically)
+
+       map))
+    )
+
+  (defun my/enlarge-current-window()
+    "Custom window shrink command with repetable key"
+    (interactive)
+    (enlarge-window-horizontally 5)
+    (set-temporary-overlay-map
+     (let ((map (make-sparse-keymap)))
+       (define-key map (kbd "b") 'my/shrink-current-window)
+       (define-key map (kbd "{") 'my/shrink-current-window)
+       (define-key map (kbd "n") 'my/enlarge-current-window)       
+       (define-key map (kbd "}") 'my/enlarge-current-window)
+       (define-key map (kbd "g") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "(") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "h") 'my/enlarge-current-window-vertically)
+       (define-key map (kbd ")") 'my/enlarge-current-window-vertically)
+       map))
+    )
+
+  (defun my/shrink-current-window-vertically()
+    "Custom vertical window shrink"
+    (interactive)
+    (shrink-window 3)
+    (set-temporary-overlay-map
+     (let ((map (make-sparse-keymap)))
+       (define-key map (kbd "b") 'my/shrink-current-window)
+       (define-key map (kbd "{") 'my/shrink-current-window)
+       (define-key map (kbd "n") 'my/enlarge-current-window)       
+       (define-key map (kbd "}") 'my/enlarge-current-window)
+       (define-key map (kbd "g") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "(") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "h") 'my/enlarge-current-window-vertically)
+       (define-key map (kbd ")") 'my/enlarge-current-window-vertically)
+       map))
+    )
+
+  (defun my/enlarge-current-window-vertically()
+    "Custom vertical window shrink"
+    (interactive)
+    (enlarge-window 3)
+    (set-temporary-overlay-map
+     (let ((map (make-sparse-keymap)))
+       (define-key map (kbd "b") 'my/shrink-current-window)
+       (define-key map (kbd "{") 'my/shrink-current-window)
+       (define-key map (kbd "n") 'my/enlarge-current-window)       
+       (define-key map (kbd "}") 'my/enlarge-current-window)
+       (define-key map (kbd "g") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "(") 'my/shrink-current-window-vertically)
+       (define-key map (kbd "h") 'my/enlarge-current-window-vertically)
+       (define-key map (kbd ")") 'my/enlarge-current-window-vertically)
+       map))
+    )
 
   (defun my/insert-line-above-and-go ()
     ;;insert a line above the current one and move the cursor there
@@ -2362,7 +2817,7 @@ Managing Windows, buffers etc
 
 
   (defun wrap-sexp-backward-with-parenthesis()
-    "wrap the current expression backwards with parenthesis"
+    "wrap the current exppression backwards with parenthesis"
     (interactive)
     (backward-sexp)
     (mark-sexp) 
@@ -2383,8 +2838,15 @@ Managing Windows, buffers etc
   (global-set-key (kbd "C-;") 'indent-new-comment)                      
   (global-set-key (kbd "H-]") 'xref-find-references)
   (global-set-key (kbd "H-[") 'xref-go-back)
+  (global-set-key (kbd "C-{") 'my/shrink-current-window)
+  (global-set-key (kbd "C-}") 'my/enlarge-current-window)
+  (global-set-key (kbd "C-)") 'my/enlarge-current-window-vertically)
+  (global-set-key (kbd "C-(") 'my/shrink-current-window-vertically)
+
+
   (global-set-key (kbd "H-g") 'goto-line)
-  (global-set-key (kbd "C-(") 'wrap-sexp-backward-with-parenthesis)
+  ;; find a new binding
+  ;; (global-set-key (kbd "C-(") 'wrap-sexp-backward-with-parenthesis)
   ;; swap point and mark
   (global-set-key (kbd "M-m")  (kmacro-lambda-form [?\C-u ?\C-x ?\C-x] 0 "%d"))
   ;; cycle marks
@@ -2418,6 +2880,7 @@ Managing Windows, buffers etc
        map)))
 
   (defun duplicate-line-up-to-point()
+
     "Duplicates a line from start of indentation up to point. May be repeated with single 'd' presses."
     (interactive)
     (set-mark-command nil)
@@ -2431,6 +2894,8 @@ Managing Windows, buffers etc
      (let ((map (make-sparse-keymap)))
        (define-key map (kbd "y") 'duplicate-line-up-to-point)
        map)))
+
+
 
   (defun kill-word-at-point()
     "Kill the full word at point"
@@ -2515,6 +2980,8 @@ Narrowing is a powerful feature for focus and restricting macros, searching, rep
 
 
 
+
+
 #+END_SRC
 
 #+RESULTS:
@@ -2543,13 +3010,16 @@ Narrowing is a powerful feature for focus and restricting macros, searching, rep
 #+END_SRC
 ** Productivity
 #+BEGIN_SRC emacs-lisp
-  (fset 'my/create-morning-startup
-        (kmacro-lambda-form [?< ?m ?o ?r ?n ?i ?n ?g tab ?\M-x ?o ?r ?g ?- ?t ?r ?a ?n ?s ?c ?l ?u ?s ?i ?o ?n ?- ?m ?o ?d ?e return ?\M-x return] 0 "%d"))
+
+#+END_SRC
+*** Star Rating Insert
+#+BEGIN_SRC emacs-lisp
+
 
 #+END_SRC
 
 #+RESULTS:
-| lambda | (&optional arg) | Keyboard macro. | (interactive p) | (kmacro-exec-ring-item '([60 109 111 114 110 105 110 103 tab 134217848 111 114 103 45 116 114 97 110 115 99 108 117 115 105 111 110 45 109 111 100 101 return 134217848 return] 0 %d) arg) |
+: hydra-insert-rating/body
 
 * dired
 ** Keymap
@@ -2585,12 +3055,21 @@ Narrowing is a powerful feature for focus and restricting macros, searching, rep
 
 ** Icons
 #+BEGIN_SRC emacs-lisp
+
+  (use-package all-the-icons)
+  (add-to-list 'all-the-icons-extension-icon-alist
+               '("m3u"  all-the-icons-material "playlist_play"  :face all-the-icons-orange))
+  (add-to-list 'all-the-icons-extension-icon-alist
+               '("org_archive" all-the-icons-faicon "archive" :face all-the-icons-orange))
+
+
+
   (use-package all-the-icons-dired
     :hook (dired-mode . all-the-icons-dired-mode))
 #+END_SRC
 
 #+RESULTS:
-| all-the-icons-dired-mode | dired-hide-dotfiles-mode | dired-hide-dotfiles | doom-modeline-set-project-modeline |
+| all-the-icons-dired-mode |
 ** Hide Dot Files
 - hotkey: . (dot)
 #+BEGIN_SRC emacs-lisp
@@ -2601,102 +3080,140 @@ Narrowing is a powerful feature for focus and restricting macros, searching, rep
 
   ;; To toggle hiding
   (define-key dired-mode-map "." #'dired-hide-dotfiles-mode)
-  (add-hook 'dired-mode-hook #'my-dired-mode-hook)
+  ;;  (add-hook 'dired-mode-hook #'my-dired-mode-hook)
 
 #+END_SRC
 
 #+RESULTS:
-| my-dired-mode-hook | doom-modeline-set-project-modeline |
+: dired-hide-dotfiles-mode
 * Testing
 #+BEGIN_SRC emacs-lisp
 
-  ;;set load path for person elisp
+    ;;set load path for person elisp
 
-  ;; Removing iy-go-to-char
-                                          ;load the package iy-go-to-char
-                                          ;(load "iy-go-to-char")
-
-
-  (global-set-key (kbd "<f6>") 'browse-url-of-buffer)
-
-  ;;Calendar keys
-  (global-set-key (kbd "s-c") 'calendar)
-
-  ;; open
-  (fset 'my/org-insert-clean-link
-        (kmacro-lambda-form [?\[ ?\[ ?\C-d ?\C-y ?\C-f ?\[ ?l ?i ?n ?k ?\C-e ?\]] 0 "%d"))
-
-  (global-set-key (kbd "s-l") 'my/org-insert-clean-link)
-  (global-set-key (kbd "C-M-.") 'counsel-git-grep)
+    ;; Removing iy-go-to-char
+                                            ;load the package iy-go-to-char
+                                            ;(load "iy-go-to-char")
 
 
-  ;;indenting commands
-  (global-set-key (kbd "C-c i c") 'indent-to-column)
+    (global-set-key (kbd "<f6>") 'browse-url-of-buffer)
 
-  (global-set-key (kbd "M-SPC") 'cycle-spacing)   
+    ;;Calendar keys
+    (global-set-key (kbd "s-c") 'calendar)
 
-  ;; macros to set agenda categories
-  (fset 'my/org-agenda-set-category-project
-        (kmacro-lambda-form [?\C-c ?\C-x ?p ?C ?A ?T ?E ?G ?O ?R ?Y return ?P ?r ?o ?j ?e ?c ?t return ?r] 0 "%d"))
-  (fset 'my/org-agenda-set-category-task
-        (kmacro-lambda-form [?\C-c ?\C-x ?p ?C ?A ?T ?E ?G ?O ?R ?Y return ?T ?a ?s ?k return ?r] 0 "%d"))
+    ;; open
+    (fset 'my/org-insert-clean-link
+          (kmacro-lambda-form [?\[ ?\[ ?\C-d ?\C-y ?\C-f ?\[ ?l ?i ?n ?k ?\C-e ?\]] 0 "%d"))
+
+    (global-set-key (kbd "s-l") 'my/org-insert-clean-link)
+    (global-set-key (kbd "C-M-.") 'counsel-git-grep)
+
+    ;; create new scratch buffer
+  (defalias 'make-scratch
+     (kmacro "C-x C-f C-SPC C-a <backspace> * S C R A T C H SPC - SPC 0 <f3> * <return>" 1 "%d"))
+
+  (global-set-key (kbd "<f12>") 'make-scratch)
 
 
 
+    ;;indenting commands  
+    (global-set-key (kbd "C-c i c") 'indent-to-column)
 
+    (global-set-key (kbd "M-SPC") 'cycle-spacing)   
+
+    ;; macros to set agenda categories
+    (fset 'my/org-agenda-set-category-project
+          (kmacro-lambda-form [?\C-c ?\C-x ?p ?C ?A ?T ?E ?G ?O ?R ?Y return ?P ?r ?o ?j ?e ?c ?t return ?r] 0 "%d"))
+    (fset 'my/org-agenda-set-category-task
+          (kmacro-lambda-form [?\C-c ?\C-x ?p ?C ?A ?T ?E ?G ?O ?R ?Y return ?T ?a ?s ?k return ?r] 0 "%d"))
+
+
+
+    (global-set-key (kbd "M-+") 'embark-dwim)
+    (global-set-key (kbd "C-M-+") 'embark-act)
+
+    (use-package consult-dir
+      :ensure t
+      :bind (("C-x C-d" . consult-dir)
+             :map minibuffer-local-completion-map
+             ("C-x C-d" . consult-dir)
+             ("C-x C-j" . consult-dir-jump-file)))
+
+    (setq consult-dir-project-list-function #'consult-dir-projectile-dirs)
 
 #+END_SRC
 
 #+RESULTS:
-: #[256 "\211\301=\203
-: \301\300B\207\302\300\"\207" [([3 24 112 67 65 84 69 71 79 82 89 return 84 97 115 107 return 114] 0 "%d") kmacro--extract-lambda kmacro-exec-ring-item] 4 "Keyboard macro.
-: 
-: (fn &optional ARG)" "pkmacro"]
+: consult-dir-projectile-dirs
+
+** Org Bookmark Heading
+#+BEGIN_SRC emacs-lisp sdfs   
+  (require 'org-bookmark-heading)
+  (global-set-key (kbd "C-x r b") 'consult-bookmark)
+
+#+END_SRC
+
+#+RESULTS:
+: consult-bookmark
+
+** Org-Drill Fix
+#+BEGIN_SRC emacs-lisp
+(defun org-drill-time-to-inactive-org-timestamp (time)
+  "Convert TIME into org-mode timestamp."
+  (format-time-string
+   (concat "[" (cdr org-time-stamp-formats) "]")
+   time))
+#+END_SRC
+
+#+RESULTS:
+: org-drill-time-to-inactive-org-timestamp
 
 * Load Music
 #+BEGIN_SRC emacs-lisp
 
-  (defun play-retro-sax ()
-    "Launch a retro sax 3 hour video"
-    (interactive)
-    (browse-url "https://www.youtube.com/watch?v=001hXHNo-3w"))
+    (defun play-retro-sax ()
+      "Launch a retro sax 3 hour video"
+      (interactive)
+      (browse-url "https://www.youtube.com/watch?v=001hXHNo-3w"))
 
-  (defun play-high-bpm-trance ()
-    "Launch high bpm trance video"
-    (interactive)
-    (browse-url "https://youtu.be/q7gv9B4Kw44"))
+    (defun play-high-bpm-trance ()
+      "Launch high bpm trance video"
+      (interactive)
+      (browse-url "https://youtube/q7gv9B4Kw44"))
 
 
-  (defhydra Music (global-map "<f7>")
-    "Music Player"
-    ("s" play-retro-sax "Retro-Sax")
-    ("h" play-high-bpm-trance "High BPM Trance"))
+    (defhydra Music (global-map "<f7>")
+      "Music Player"
+      ("s" play-retro-sax "Retro-Sax")
+      ("h" play-high-bpm-trance "High BPM Trance"))
 
+  ;; EMPV Setup
+  (require 'empv)
+  (with-eval-after-load 'embark (empv-embark-initialize-extra-actions))
+  (bind-key "C-c e" empv-map)
+  (global-set-key (kbd "s-[") 'empv-volume-down)
+  (global-set-key (kbd "s-]") 'empv-volume-up)
+  ;; set the invidious instance
+  ;; Search with C-c e y
+  (setq empv-invidious-instance "https://invidious.nerdvpn.de/api/v1")
+  (setq empv-youtube-use-tabulated-results t)
+  (setq empv-radio-channels
+      '(("SomaFM - Groove Salad" . "http://www.somafm.com/groovesalad.pls")
+        ("SomaFM - Drone Zone" . "http://www.somafm.com/dronezone.pls")
+        ("SomaFM - Sonic Universe" . "https://somafm.com/sonicuniverse.pls")
+        ("SomaFM - Metal" . "https://somafm.com/metal.pls")
+        ("SomaFM - Vaporwaves" . "https://somafm.com/vaporwaves.pls")
+        ("YouTube Mix - Retrowave Sax" . "https://www.youtube.com/watch?v=001hXHNo-3w")
+        ("YouTube Mix - High BPM Trance" . "https://youtube/q7gv9B4Kw44"))
+        )
 
 
 
 #+END_SRC
 
 #+RESULTS:
-: Music/body
+: ((SomaFM - Groove Salad . http://www.somafm.com/groovesalad.pls) (SomaFM - Drone Zone . http://www.somafm.com/dronezone.pls) (SomaFM - Sonic Universe . https://somafm.com/sonicuniverse.pls) (SomaFM - Metal . https://somafm.com/metal.pls) (SomaFM - Vaporwaves . https://somafm.com/vaporwaves.pls) (YouTube Mix - Retrowave Sax . https://www.youtube.com/watch?v=001hXHNo-3w) (YouTube Mix - High BPM Trance . https://youtube/q7gv9B4Kw44))
 
-* Design Document Creation
-#+BEGIN_SRC emacs-lisp
-  (fset 'my/dired-create-game-design-structure
-        (kmacro-lambda-form [?\M-x ?m ?k ?d ?i ?r return ?d ?e ?s ?i ?g ?n return ?\M-x ?m ?d ?k backspace backspace ?k ?d ?i ?r return ?d ?e ?v ?e ?l ?o ?p ?m ?e ?n ?t return ?\M-x ?m ?k ?d ?i ?r return ?d ?o ?c ?u ?m ?e ?n ?t ?a ?t ?i ?o ?n return ?\M-x ?m ?k ?d ?i ?r return ?i ?m ?a ?g ?e ?s return ?\M-x ?m ?k ?d ?i ?r ?  ?p ?l ?a ?y ?t ?e ?s ?t ?s return backspace backspace backspace backspace backspace backspace backspace backspace backspace backspace return ?p ?l ?a ?y ?t ?e ?s ?t ?s return] 0 "%d"))
-
-  (fset 'my/dired-populate-design-docs
-        (kmacro-lambda-form [?\C-x ?\C-f ?R ?E ?A ?D ?M ?E ?. ?o ?r ?g return ?\C-x ?\C-s ?\H-k ?g ?\C-x ?\C-f ?d ?e ?s ?i ?g ?n ?/ ?D ?e ?s ?i ?g ?n ?- ?L ?o ?g ?. ?o ?r ?g return ?\C-x ?\C-s ?\H-k ?\C-x ?\C-f ?d tab ?D ?e ?s ?i ?g backspace backspace backspace backspace backspace ?M ?a ?s ?t ?e ?r ?- ?D ?e ?s ?i ?g ?n ?- ?D ?o ?c ?. ?o ?r ?g return ?\C-x ?\C-s ?\H-k ?\C-x ?\C-f ?p ?l ?a ?y tab ?P ?l ?a ?y ?t ?e ?s ?t ?s ?. ?o ?r ?g return ?\C-x ?\C-s ?\H-k ?\C-s ?\C-f ?\C-x ?\C-f ?d ?o ?c ?u tab ?R ?u ?l ?e ?s ?. ?o ?r ?g return ?\C-x ?\C-s ?\H-k] 0 "%d"))
-
-  (fset 'my/create-new-design
-        (kmacro-lambda-form [?\M-x ?m ?y ?/ return ?g ?\M-x ?m ?y ?/ ?\C-n ?\C-n ?\C-n ?\C-n return ?g] 0 "%d"))
-
-
-#+END_SRC
-q
-
-#+RESULTS:
-| lambda | (&optional arg) | Keyboard macro. | (interactive p) | (kmacro-exec-ring-item '([134217848 109 121 47 return 103 134217848 109 121 47 14 14 14 14 return 103] 0 %d) arg) |
 * Xah Lee Implementations
 Tried out Xah-fly-keys and didn't love his command mode but he has some really good helper rowing those below
 ** Hotkey Map
@@ -2757,8 +3274,8 @@ Tried out Xah-fly-keys and didn't love his command mode but he has some really g
 
 ** Bindings
 #+BEGIN_SRC emacs-lisp
-  (global-set-key (kbd "M-p") 'xah-beginning-of-line-or-block)
-  (global-set-key (kbd "M-n") 'xah-end-of-line-or-block)
+  (define-key global-map (kbd "M-p") 'xah-beginning-of-line-or-block)
+  (define-key global-map (kbd "M-n") 'xah-end-of-line-or-block)
 #+END_SRC
 
 #+RESULTS:
@@ -2778,11 +3295,12 @@ Tried out Xah-fly-keys and didn't love his command mode but he has some really g
 
   ;; set org agenda mode map commands 
   (define-key org-agenda-mode-map (kbd "H-,") 'org-agenda-remove-restriction-lock)
-  (define-key org-agenda-mode-map (kbd "H-.") 'org-agenda-set-restriction-lock-from-agenda)
+  (define-key org-agenda-mode-map (kbd "H-.") 'my/org-agenda-set-restriction-lock)
+  (define-key org-agenda-mode-map (kbd "H-/") 'my/toggle-org-agenda-restriction)
   (define-key org-agenda-mode-map (kbd "M-s o") 'org-occur-in-agenda-files)
   (define-key org-agenda-mode-map (kbd "[") 'my/org-agenda-set-category-project)
   (define-key org-agenda-mode-map (kbd "]") 'my/org-agenda-set-category-task)
-
+  
 
 
 
@@ -2805,3 +3323,15 @@ Tried out Xah-fly-keys and didn't love his command mode but he has some really g
 
 #+RESULTS:
 : ((vertical-scroll-bars) (left-fringe . 10) (right-fringe . 10) (fullscreen . maximized))
+
+#+BEGIN_SRC plantuml :filphoe test.png
+@startuml
+:user: -right-> (Right)
+:user: -up-> (Up)
+@enduml
+#+END_SRC
+
+#+RESULTS:
+[[file:test.png]]
+
+

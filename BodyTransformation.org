@@ -1,10 +1,9 @@
-#+Filetags: Persona lwxsdHEALTH
 
 * Notes                                                              :ATTACH:
 :PROPERTIES:
 :ID:       a610e25c-bcfc-4928-9162-8e728796221d
 :END:
-- [[https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03221-6][VLCKD Study]]
+- [[https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03221-6][VLCcKD Study]]
 - [[https://academic.oup.com/jcem/article/102/2/488/2972058][Descriptive Study]]
 
   #+attr_org: :width 900px
