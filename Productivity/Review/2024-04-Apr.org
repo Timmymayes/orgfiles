@@ -1,0 +1,196 @@
+#+FILETAGS :2024: :Apr: :Q2:
+#+transclude: [[file:~/Orgfiles/Productivity/Identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] :level 2
+* Week 14: Apr 01 - Apr 07
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [X] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** Actually cleaned my room
+*** Met with Nick and got things back on track for Octoraffe work
+** Week  Disappointments                                   :Disappointment:
+*** Still haven't cleaned my bathroom
+*** Not getting my walks in
+** Week  Highs                                                    :Highs:
+*** Had a nice massage
+*** Found a solid Runner deck in startup that I like
+** Week  Lows                                                     :Lows:
+*** Didn't get to go to Wondercon
+** Week  Learnings                                             :Learnings:
+*** I need to remember that if I call my mom 1x a week, that is 52 touches  a year. If she lives another 10 years that is 520 touches. Do the work.
+* Week 15: Apr 08 - Apr 14
+** Week 15 Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 15 Accomplishments][Week 15 Accomplishments]]
+- [X] Update Disapointments - [[*Week 15 Disappointments][Week 15 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 15 Highs, Lows and Learnings][Week 15 Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check saved emails
+    
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [X] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [X] Desktop & Download Folders (re-locate or delete)
+- [X] Clean Up Cloudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week 15 Accomplishments                                   :Accomplishment:
+*** Got Taxes done
+*** Did a bit of emacs not a ton but a bit
+*** Did a little bit of walking
+** Week 15 Disappointments                                   :Disappointment:
+*** Still haven't cleaned!! WTF
+*** Still overconsuming media and games
+
+
+** Week 15 Highs                                                    :Highs:
+***  Hung out with Julie (and Josh) for a birthday hang which was fun. 
+*** The product Julie got me for my hair is really nice!
+
+** Week 15 Lows                                                     :Lows:
+*** Not spending time as well as I could
+*** Lacking control still
+** Week 15 Learnings                                             :Learnings:
+*** I sometimes get side tracked
+
+
+
+* Week 16: Apr 15 - Arp 21
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+
+
+* Week 17: Arp 22 - Apr 29
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+
+

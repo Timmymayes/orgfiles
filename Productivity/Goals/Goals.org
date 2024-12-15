@@ -1,0 +1,275 @@
+# -*- visual-fill-column-width: 220; -*-
+#+STARTUP: showeverything
+[[file:~/Orgfiles/identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]]
+* Goals                                                                             :GOAL:
+:PROPERTIES:
+:COLUMNS:  %40ITEM %TIMELINE %GOAL_TYPE  %DUE_DATE %CUSTOM_ID
+:TIMELINE_ALL: "Immediate 1-2 weeks" "Short-Term: 3mo - 6mo" "Mid-Term: 6mo - 1yr" "Long-Term: 1yr+" "Lifetime"
+:END:
+** Active
+*** Become a Board Game Designer & Publisher                          :VALUE:GAMEDESIGN:
+:PROPERTIES:
+:TIMELINE: Long-Term: 1yr+
+:custom_id: ltg_become_game_designer
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Game Design][Game Design]]
+:goal_type: Value
+:DUE_DATE: --------
+:END:
+**** Prototype 6 new games in 2024 [0/6]                         :OUTCOME:
+DEADLINE: <2024-12-31 Thu -90d> 
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:CUSTOM_ID: stg_prototype_six_new_games
+:GOAL_TYPE: Outcome
+:DUE_DATE: 12/31/2024
+:END:
+:LINKS:
+
+:END:
+
+- [ ] Game 1 
+- [ ] Game 2 
+- [ ] Game 3 
+- [ ] Game 4
+- [ ] Game 5
+- [ ] Game 6
+  
+**** Kickstart Bagged & Boarded                                               :OUTCOME:
+DEADLINE: <2025-04-10 Mon -180d>
+:PROPERTIES:
+:TIMELINE: Mid-Term: 6mo - 1yr
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: mtg_ks_bagged_and_boarded
+:DUE_DATE: 09/30/24
+:END:
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+[]:CUSTOM_ID: stg_ks_bagged_and_boarded
+:END:
+:LINKS:
+:project:  [[file:~/Orgfiles/tasks.org::*Market Bagged & Boarded Launch][Market Bagged & Boarded Launch]]
+:END:
+
+**** Become Active on BGG                                                     :OUTCOME:
+DEADLINE: <2025-03-30 Sun -90d>
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_become_active_bgg
+:DUE_DATE: 08/30/24
+:END:
+:LINKS:
+:END:
+**** Start the Octoraffe  game design blog                       :OUTCOME:
+DEADLINE: <2025-02-28 Fri -90d>
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_start_game_design_blog
+:DUE_DATE: 05/30/2024
+:END:
+:LINKS:
+:END:
+
+*** Master Org Mode for productivity                                             :VALUE:
+:PROPERTIES:
+:TIMELINE: Lifetime
+:custom_id: ltg_master_org_mode
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Personal Admin][Personal Admin]]
+:GOAL_TYPE: Value
+:DUE_DATE: --------
+:END:
+*** Know Thyself                                             :VALUE:IDENTITY:PHILOSOPHY:
+:PROPERTIES:
+:timeline: Lifetime
+:custom_id: ltg_know_thyself
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Self Improvement][Self Improvement]]
+:GOAL_TYPE: Value
+:DUE_DATE: --------
+:END:
+
+**** Fully build out my value and outcome goals [0/2]            :OUTCOME:
+DEADLINE: <2024-12-31 Tue -90d>
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_buildout_all_goals
+:DUE_DATE: 06/30/24
+:END:
+- [ ] Complete all initial value goals
+- [ ] Complete all initial outcome goals
+  
+*** Become Healthy & Fit                             :VALUE:HEALTH:FITNESS:
+:PROPERTIES:
+:timeline: Lifetime
+:custom_id: ltg_healthy_fit
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Health & Fitness][Health & Fitness]]
+:GOAL_TYPE: Value
+:DUE_DATE: --------
+:END:
+**** Outline a full-fledged fitness and diet plan                             :OUTCOME:
+DEADLINE: <2024-12-31 Tue -30do>
+:PROPERTIES:
+:TIMELINE: Immediate 1-2 weeks
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_outline_fitness_plans
+:DUE_DATE: 04/21/24
+:END:
+
+**** Hit Stage 1 Weight Target: 200 Lbs                          :OUTCOME:
+DEADLINE: <2025-03-01 Sat -180d>
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_hit_200lbs
+:DUE_DATE: 09/31/24
+:END:
+[ ~200lbs~ ] =starting weight:= ~233lbs~
+
+**** Convert to a 95% WPFB Diet                                               :OUTCOME:
+DEADLINE: <2025-01-30 Thu -90>
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: stg_convert_to_wfpb
+:DUE_DATE: 07/31/24
+:END:
+
+**** Drop Blood Pressure to 120/70                                            :OUTCOME:
+DEADLINE: <2025-04-10 Thu>
+:PROPERTIES:
+:TIMELINE: Mid-term: 6mo - 1yr
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: mtg_drop_blood_pressure
+:DUE_DATE: 04/10/25
+:END:
+
+**** Run 5k (distance) 5x a week                                              :OUTCOME:
+DEADLINE: <2025-04-10 Thu>
+:PROPERTIES:
+:TIMELINE: Long-term: 1yr+
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: ltg_run_5k_weekly
+:DUE_DATE: 04/10/25
+:END:
+**** Establish Yearly Exam Schedule                                           :OUTCOME:
+DEADLINE: <2025-04-10 Thu>
+:PROPERTIES:
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: ltg_establish_yearly_exam_schedule
+:TIMELINE: Long-term: 1yr+
+:DUE_DATE: 04/10/25
+:END:
+**** Get Dental Situation Fully Under Control [0/4]                           :OUTCOME:
+DEADLINE: <2025-04-10 Thu>
+:PROPERTIES:
+:TIMELINE: Mid-Term: 6mo - 1yr
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: mtg_get_dental_situation_fixed
+:DUE_DATE: 04/10/25
+:END:
+- [ ] Get all cavities taken care of.
+- [ ] Develop a habit of flossing.
+- [ ] Move away from quarterly cleanings.
+- [ ] Get old fillings replaced.
+
+*** Gain Financial Intelligence                                          :VALUE:FINANCE:
+:PROPERTIES:
+:timeline: Lifetime
+:custom_id: ltg_financial_intelligence
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Finance][Finance]]
+:GOAL_TYPE: Value
+:DUE_DATE: ---------
+:END:
+**** Pay off debt [1/4]                                                       :OUTCOME:
+DEADLINE: <2025-04-10 Thu>
+:PROPERTIES:
+:timeline: Longterm: 1yr+
+:created:  [2001-11-08 Thu]
+:GOAL_TYPE: Outcome
+:CUSTOM_ID: ltg_pay_off_debt
+:DUE_DATE: 04/10/25
+:END:
+- [ ] Paypal ($1,185.07)
+- [ ] US Bank ($5,000)
+- [ ] Jessica ($1400)
+- [X] Car ($1,017.60) 
+**** Setup Ledger and build daily habit of use [1/2]                          :OUTCOME:
+DEADLINE: <2025-01-30 Thu -90>
+:PROPERTIES:
+:GOAL_TYPE: Outcome
+:TIMELINE: Short-Term: 3mo - 6mo
+:CUSTOM_ID: mtg_setup_and_use_ledger
+:DUE_DATE: 07/31/24
+:END:
+
+- [X] Setup ledger (~across all emacs installs~)
+- [ ] Build daily habit of use
+**** Determine a reliable monthly expenditure amount                          :OUTCOME:
+DEADLINE: <2025-03-30 Sun -90>
+:PROPERTIES:
+:GOAL_TYPE: Outcome
+:TIMELINE: Short-term: 3mo - 6mo
+:CUSTOM_ID: stg_determine_monthly_expenses
+:DUE_DATE: 07/31/24
+:END:
+**** Establish 3 Month Emergency Fund                            :OUTCOME:
+DEADLINE: <2025-06-30 Mon -90>
+:PROPERTIES:
+:GOAL_TYPE: Outcome
+:TIMELINE: Mid-Term: 6mo - 1yr
+:CUSTOM_ID: stg_est_3mo_emergency_fund
+:DUE_DATE: 10/31/24
+:END:
+
+*** Become Well Read                                :VALUE:MINDEXPANSION:
+:PROPERTIES:
+:timeline: Lifetime
+:custom_id: ltg_well_read
+:pillar: [[file:~/Orgfiles/identity/Pillars.org::*Mind Expansion][Mind Expansion]]
+:GOAL_TYPE: Value
+:DUE_DATE: --------
+:End:
+:LOGBOOK:
+- Note taken on [2023-10-22 Sun 23:40] \\
+  Test for where this goes
+:END:
+
+**** Read 2 new books in 2023 [0/2]                                           :OUTCOME:
+:PROPERTIES:
+:TIMELINE: Short-Term: 3mo - 6mo
+:CUSTOM_ID: stg_read_two_books
+:GOAL_TYPE: Outcome
+:END:
+:LINKS:
+:goal: [[#ltg_well_read]]
+:habit: [[file:~/Orgfiles/habits.org::*Read 30m][~Habit~ Read 30m]]
+:END:
+:LOGBOOK:
+:END:
+- [ ] Book 1 - Stillness is the key
+- [X] Book 2 - Peter Attia Outlive
+
+**** Read 12 new books in 2024 [0/12]                                         :OUTCOME:
+DEADLINE: <2024-12-31 Tue>
+:PROPERTIES:
+:GOAL_TYPE: Outcome
+:TIMELINE: Longterm: 1yr+
+:CUSTOM_ID: ltg_read_twelve_new_books
+:DUE_DATE: 12/31/24
+:END:
+- [ ] Book 1 - Pattern Language
+- [ ] Book 2 - Characteristics of games
+- [ ] Book 3 - Meditations (again)
+- [ ] Book 4 - Gulag Archipelago
+- [ ] Book 5 - The E Myth
+- [ ] Book 6 - The Lean Startup
+- [ ] Book 7 - Extreme Ownership
+- [ ] Book 8 - Uncertainty In Games
+- [ ] Book 9 - The Art of Game Design
+- [ ] Book 10 - I, Pencil
+- [ ] Book 11 - 
+- [ ] Book 12 - 
+** Waiting / Someday Maybe
+*** Become employed as a programmer

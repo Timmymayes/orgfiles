@@ -1,0 +1,6 @@
+#+FILETAGS: :DEC: :2023:
+* Week 48: Nov 27 - Dec 03                                               :Q4:
+* Week 49: Dec 04 - Dec 10                                               :Q4:
+* Week 50: Dec 11 - Dec 17                                               :Q4:
+* Week 51: Dec 18 - Dec 24                                               :Q4:
+* Week 52: Dec 25 - Dec 31                                               :Q4:

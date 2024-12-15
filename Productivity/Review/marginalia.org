@@ -1,0 +1,9 @@
+
+* 2023-Jan
+:PROPERTIES:
+:org-remark-file: 2023-Jan.org
+:END:
+
+** /view agenda and filter to regex 'DONE'
+
+** /view agenda and filter to regex 'DONE'

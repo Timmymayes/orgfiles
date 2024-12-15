@@ -1,0 +1,227 @@
+* Octoraffe Marketing
+** Overview & Goal
+Our priority goal is to generate launch marketing for Bagged & Boarded prior to the kickstarter release. Secondarily, 
+* Kickstarter
+** Media List
+- Intro Video
+- Gameplay sample animations
+- Graphics
+  - Section Headers
+  - Stretch Goals
+  - About us
+  - Reviews
+** Bagged & Boarded Kickstarter
+*** Outline
+**** Header
+***** Title + logline
+****** Logline
+****** Title examples
+******* Flamecraft
+:PROPERTIES:
+:ID:       bd65d561-93d0-4286-99b4-c00c39d86b70
+:END:
+#+attr_org: :width 800px
+r[[file:data/bd/65d561-93d0-4286-99b4-c00c39d86b70/Flamecraft hero image.png]]
+******* Root
+:PROPERTIES:
+:ID:       8ef13c7a-4e6b-4c05-8fb3-5996e72ce26e
+:END:
+#+attr_org: :width 800px
+[[file:data/8e/f13c7a-4e6b-4c05-8fb3-5996e72ce26e/Root Hero Image.png]]
+***** Intro cVideo                                      :MEDIA:OCTORAFFE:
+- Illustrated vs real video?
+- What length?
+  - ~10 minutes seems standard
+- What should we do here?
+  
+  I'm thinking we do a mixed media video with us sitting and talking to the camera with the game setup, this can help convey that we're a small team and our personality.  It should also be much cheaper overall production cost/time.  It could also leverage people who have seen us at conventions remembering us as well as show who we are so when people see us in the future they know who we are.
+
+  Example of a modern kickstarter doing just this: [[https://www.kickstarter.com/projects/ivstudios/tend-0?ref=discovery_category_ending_soon&total_hits=46447&category_id=34][Tend]] - 7,741 backers for $725,432 total. IV Studio has done several of these and I feel like it ends up being really authentic feeling and like you know the people behind the games.I
+
+  Alternatively we could do a fully animated one but time and cost might be an issue.
+
+  We can also go the [[https://www.kickstarter.com/projects/cardboardalchemy/flamecraft?ref=discovery_category_most_funded&total_hits=50605&category_id=34][Flamecraft]] route with more focus on the art.
+  
+***** Backing information
+- goal
+- location etc
+- Social Links
+**** Campaign Section
+/Note top level headings are on the side bar. Subheadings are sections within, usually containing graphical titling/
+
+***** Bagged & Boarded - (Introduction)
+***** Game Overview (key concepts)
+****** Overview
+Rummy inspired set collection economic game. 
+****** Action system
+****** Locations
+****** Comic Values and making money
+****** Super Powers
+****** End game Scoring
+****** 
+
+****** Media Ideas
+- Subtle animation - Multi-panel comic page  with subtle animation as a gif
+  - 
+****** 
+***** What's in the box / Game Components
+***** Pledges
+****** Casual Reader - $1
+- Access to pledge manager
+****** Hobby Store $5
+- Retailer Pledge
+****** Comic Geek $70
+- Access to pledge manager
+- Bagged & Boarded
+****** Inker $120
+- Access to pledge manager
+- Bagged & Boarded
+- Your name on an autograph token
+****** Origin Story
+- Access to pledge manager
+- Bagged & Boarded
+- Handmade prototype shipped to you immediately
+  - 
+****** Archetype
+- Access to pledge manager
+- Bagged & Boarded
+- Your name on an autograph token
+- Create a character
+***** Characters / Companies
+****** Monster Comics
+****** Inaction Comics
+****** Action Comics
+****** New World Comics
+****** J&K Comics
+****** Atomic Comics
+
+***** Add Ons
+***** What people are Saying
+****** Reviewers / Previews
+******* I sort of like root expansions look / design
+:PROPERTIES:
+:ID:       5b7f83f8-7c84-4edd-bd79-cc6ef44b6e0a
+:END:
+#+attr_org: :width 500px
+[[file:data/5b/7f83f8-7c84-4edd-bd79-cc6ef44b6e0a/Root - First Impressions KS section.png]]
+******* Knitting Cirle's interleaving is decent as well
+:PROPERTIES:
+:ID:       701954ae-558e-4c30-a8e0-2189bbc13d75
+:END:
+#+attr_org: :width 500px
+[[file:data/70/1954ae-558e-4c30-a8e0-2189bbc13d75/Knitting Circle - KS - What people are saying.png]]
+****** Octoraffe Fans Congoers
+***** Playthroughs
+***** Stetch Goals
+****** Improved card quality - plastic cards for better shuffling and stacking without sleeves
+******* Should we do normal cards and add a linen finish as an upgrade and unlock plastic cards?
+****** Inner box lining step & repeat featuring the 6 comic company logos
+****** Full Art Cosplay Variant for backs of playerboards
+****** Mini-Long Box Insert for organizing your comics with company dividers(with lid & handles small Bagged & Boarded logo on both box and lid)
+****** Origin Story Comic - One for each company document the origin stories and series highlights for your favorite characters. 
+****** End Game Scoring Promos
+****** Super Hero Promos
+****** Solo mode? Some large number if we get there and we hire david tsertzi?
+****** Triple Layer Board? Is there a number where this makes sense if we go "big" i know this would increase box size
+****** Custom Sleeves - So you can physically "bag & board" your comics
+****** An additional Hero set (big number here)
+****** Enamal Pin set featuring the company logos (6 set)
+****** Mini-expansion - Chores (card version)
+****** Unlock Issue #9 Company Comic Cover special art - (later used as team up card art)
+****** Art book - hardcover art book featuring  (offered as an add on) featuring the art of Richard walker - Art in various stages, 
+****** Mini-Expansion upgrade - upgrades to a tile/mini board instead of just a set of cards.
+****** Unlock metal coin add on
+****** 
+***** Rulebook
+Include a graphic with link the rule book. See if we have any quotes or comments about how everything clicked quickly or how the theme helps to inform the rules making it easier to learn. 
+***** Play Online
+****** TTS Mode
+****** Tabletopia
+****** BGA?
+***** Retailers
+***** Shipping
+****** Overview of shipping Info in text format
+****** Shipping Chart
+Here we breakdown specifics (sample below)
+| Region                   | Actual Cost | You Pay (discounted) | 2 Copies | 6+ copies |
+|--------------------------+-------------+----------------------+----------+-----------|
+| USA                      | $20         | $14                  | $20      | $42       |
+| Hawaii & Alaska          |             |                      |          |           |
+| Canada                   |             |                      |          |           |
+| UK                       |             |                      |          |           |
+| Europe (eu countries)    |             |                      |          |           |
+| Norway & Switzerland     |             |                      |          |           |
+| Rest of Europe           |             |                      |          |           |
+| China, Hong Kong & Macao |             |                      |          |           |
+| Rest of Asia*            |             |                      |          |           |
+| Indonesia                |             |                      |          |           |
+| Australia                |             |                      |          |           |
+| New Zealand              |             |                      |          |           |
+| Rest of world            |             |                      |          |           |
+
+
+***** Thank You
+Thank you section for the people who've helped us along the way. This is to call out people like Gary, Mark Swift, Jeremiah, Daniel, Josh from Grand trunk games, whomever we want to give a little give back to teh community.
+***** About The Team
+****** Octoraffe Games
+****** Richard Walker
+***** Refunds & Cancellations
+During the crowdfunding campaign, you can freely modify or cancel your order. After the campaign, you cannot cancel your order. However, if you happen to not like the game, you can use our money-back guarantee described above and ship your pledge back to us. 
+***** RIsks
+***** Environmental impact
+
+**** Rewards Section
+**** FAQ Section
+**** Comments Section
+**** Community Sections
+*** Media & Art Needs
+**** Technical Specs
+***** File Format - avif
+nice compression
+***** Sample tall image ar and size
+Key here is that 
+
+- 680w x 3440h
+- 17:86
+
+** Sections - Old
+*** Introduction
+*** Gameplay overview
+*** Reviews
+**** Start contacting people soon
+**** Forward ons for instagram people
+**** Bigger reviewers get paid
+* Design Diary Ideas
+** The Importance of Games
+** Bagged & Boarded Developement
+** Visual Design of Bagged & Boarded
+** The making of a classic
+* Email Newsletters
+** Gen Con and All Play Announce
+*** Gen Con Update!
+Hello!
+
+We wanted to send an update regarding Octoraffe's presence at Gen Con 2024. We were unsure that we would be able to attend and as such there was a delay getting game slots setup. We have confirmed we're able to attend and have setup the following demo events:
+
+<insert gaming window info>
+
+We're are still planning to launch the kickstarter for Bagged & Boarded this year and are focusing our demos on it. We will however have Brick & Mortar and Rat Race available to play outside of the official gaming slots.  If you'd like to connect with us and play one of these games please join our Discord channel, if you have not, and tag Nick there to coordinate a play session.
+
+<insert images of Brick & Mortar and Rat Race>
+
+*** Brick & Mortar Available at Gen Con and All Play  (not sure if it will be available so cut if not)
+We will have a limited supply of Brick & Mortar with us at Gen Con this year if you'd like to pick up a copy. As usual we'll also have some of the promo starting stores with us as well.
+
+If you're not attending Gen Con we're proud to announce that Octoraffe is partnering with ALL Play for game fulfilment and post Kickstarter sales. Brick & Mortar is available there already (link) and we will be using them for Bagged & Boarded as well. All Play has been a warm and welcoming partner and we're excited to work with them!
+
+*** Bagged & Boarded Kickstarter Update
+We do not have a set date for the kickstarter but do plan to launch this year. We've been working diligently on the art and are very excited. We have finalized art for all 24 characters, box art  and everything for the tokens and money. Currently we are finishing up bonus cards, scoring cards and player boards.  The final piece will be the rulebook and  game board. For the game board we're working hard to ensure we get the UI/UX as good as possible. Take a look at some of what we have ready below!
+
+<insert bagged & boarded art to share>
+
+*** Rat Race and beyond
+- Rat race is largely complete from a mechanical perspective and will only be needing art. This game might just be our personal favorite we've made so far.
+
+- We also have a yet untitled Zombie game that is a much earlier stage of production that we're really excited about. This one is a ways from having a lot to show but we're excited about it's potential. 
+
+While it has taken longer thatn we wanted to get Bagged and Boarded to kickstarter Tyler and I have working to  ensure we have games in the pipeline. We are a small company of just a few people so we're balancing life alongside building processes that enable us to design and produce games for the forseeable future. Your patience and support means mroe to us than you know.   

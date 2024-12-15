@@ -1,0 +1,74 @@
+* Annual Review & Planning Process
+
+** Overview
+Each year engage in an actionable and direct yearly review and planning process.
+
+The review process needs to take the aspects of the last year and contain the plans for the future year. The plan will be revisted quarterly. 
+
+** The Process
+
+*** Accomplishments & Dissapointments
+These should be captured weekly and monthly (likely via refile). This means the review cycles need to happen in the orgfiles main folder.
+
+*Goal:* Enable a relatively fast reconstruction of the year. 
+
+*** Conduct Deep Reflection, interpretation and visualization
+
+**** Reflect (~past 12 months~)
+Spend some real time thinking on each of these and fleshing them out. You can dig into journals, todos, projects, goals etc. 
+***** People - _Who mattered the most in life & how?_
+***** Places - _Where do meaningful things happen?_
+***** Experiences - _What were the most meaningful events & experiences?_
+***** Questions - _what are the best questions you could ask yourself to dig into?_
+**** Interpret
+Find the significance behind these meaningful people, places & experiences. Dig into the *why* behind them. 
+***** Why are the *people* important & impactful in your life?
+***** Why were these *places* important & impactful to you?
+***** Why are these *experiences* important & impactful to you?
+***** What themes & reasons keep coming up repeatedly? What are the patterns?
+**** Visualize (~next 12 months~)
+***** Describe what my life will be like in 12 months
+***** Who do I need to become to acieve that life?
+****** How do my habits & routines need to change?
+***** What is holding me back?
+***** How can I overcome these obstacles?
+
+*** Systems Review
+
+Review current state and adjsut for coming year
+
+**** Review Guiding Principles
+This sets you up from a mindset perspective to be thinking about where you want to go. 
+
+**** Review & Adjust Pillars
+Need to implement this but remember pillars are an organizational system. There is a meta organization structure which contains:
+
+- Growth
+- Business
+- Home / Life
+
+**** Review  and update Value Goals
+
+Value goals are the big feelings based goals that tie into the being the person you want to be. These will not change often, but can.
+
+**** Review Habits & Routines
+
+- Review habits success on the monthly. 
+- Decide if any habits are ingrained enough to stop active tracking (unlikely to start)
+- Decide if any habits no longer serve you
+
+**** Review Goal Outcomes
+Goal outcomes are the measurable and trackable goals that stem from your value goals.
+
+- Review quarter by quarter which goals you achieved or pushed forward.
+- Setup new goals if needed. 
+
+**** Review Projects
+- What projects did I complete?
+- What projects did I move forward?
+- What new projects would I like to start?
+
+** Resources
+- [[https://www.youtube.com/watch?v=cpVrqXxyuE0][4 Steps to Reboot and Rest]]
+- [[https://www.youtube.com/watch?v=bnoV0Gepg2w][Annual Review Ultimate Guide]]
+- [[https://www.youtube.com/watch?v=VbtI_3cDdYw][Annual Planning Ultimate Guide]]

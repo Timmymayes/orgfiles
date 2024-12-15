@@ -1,0 +1,148 @@
+
+* Annual Plan
+:PROPERTIES:
+:org-remark-file: Annual Plan.org
+:END:
+
+** Accomplishments
+
+** #+ Accomplishment & Disappointment List
+:PROPERTIES:
+:org-remark-beg: 149
+:org-remark-end: 188
+:org-remark-id: ac479801
+:org-remark-label: orange-fg
+:org-remark-link: [[file:Annual Plan.org::6]]
+:END:
+
+** Disappointments
+:PROPERTIES:
+:org-remark-beg: 189
+:org-remark-end: 344
+:org-remark-id: 647e8136
+:org-remark-label: pink-fg
+:org-remark-link: [[file:Annual Plan.org::7]]
+:END:
+
+** Accomplishments
+:PROPERTIES:
+:org-remark-beg: 191
+:org-remark-end: 206
+:org-remark-id: a7bbd666
+:org-remark-label: cyan-fg
+:org-remark-link: [[file:Annual Plan.org::7]]
+:END:
+
+** **** People
+
+** * People
+
+** * People
+
+** People
+
+** People
+
+** People
+:PROPERTIES:
+:org-remark-beg: 3050
+:org-remark-end: 3056
+:org-remark-id: ed2a878e
+:org-remark-label: orange-fg
+:org-remark-link: [[file:Annual Plan.org::28]]
+:END:
+
+** *
+
+** * Communities
+
+** *Notable People*
+
+** *Notable People*
+:PROPERTIES:
+:org-remark-beg: 5840
+:org-remark-end: 5856
+:org-remark-id: a92f5fb5
+:org-remark-label: blue-fg
+:org-remark-link: [[file:Annual Plan.org::59]]
+:END:
+
+** Notable People*
+:PROPERTIES:
+:org-remark-beg: 5954
+:org-remark-end: 5969
+:org-remark-id: 290e9353
+:org-remark-label: blue-fg
+:org-remark-link: [[file:Annual Plan.org::68]]
+:END:
+
+** *Notable People*
+:PROPERTIES:
+:org-remark-beg: 5695
+:org-remark-end: 5711
+:org-remark-id: 55f59ae4
+:org-remark-label: blue-fg
+:org-remark-link: [[file:Annual Plan.org::48]]
+:END:
+
+** **** Places
+
+** * Places
+
+** Santee & Mira Mesa
+:PROPERTIES:
+:org-remark-beg: 6671
+:org-remark-end: 6689
+:org-remark-id: e38ef029
+:org-remark-label: cyan-fg
+:org-remark-link: [[file:Annual Plan.org::85]]
+:END:
+
+** * Experiences
+
+** Designing & Printing
+
+** Designing & Printing
+:PROPERTIES:
+:CATEGORY: important
+:END:
+
+** Designing & Printing
+
+** * Communities
+
+** Communities
+:PROPERTIES:
+:org-remark-beg: 5615
+:org-remark-end: 5626
+:org-remark-id: 23f130c0
+:org-remark-label: orange-fg
+:org-remark-link: [[file:Annual Plan.org::44]]
+:END:
+
+** Places
+:PROPERTIES:
+:org-remark-beg: 6194
+:org-remark-end: 6200
+:org-remark-id: f07737f0
+:org-remark-label: orange-fg
+:org-remark-link: [[file:Annual Plan.org::80]]
+:END:
+
+** Experiences
+:PROPERTIES:
+:org-remark-beg: 7350
+:org-remark-end: 7361
+:org-remark-id: 7be73cf4
+:org-remark-label: orange-fg
+:org-remark-link: [[file:Annual Plan.org::91]]
+:END:
+
+** Systems Review & Building
+:PROPERTIES:
+:org-remark-beg: 9490
+:org-remark-end: 9515
+:org-remark-id: 91598818
+:org-remark-label: pink-fg
+:org-remark-link: [[file:Annual Plan.org::110]]
+:END:

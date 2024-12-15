@@ -1,0 +1,43 @@
+How to use this
+- Link into Value Goals, Goal Outcomes and Knowledge topics (roam), routines
+
+* Growth                                                             :Growth:
+** Health & Fitness
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::*Become Healthy & Fit][Become Healthy & Fit]]
+*** Goal Outcomes
+** Mind Expansion
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::#ltg_well_read][Become Well Read]]
+** Self Improvement
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::*Know Thyself][Know Thyself]]
+** Travel & Exploration                                          
+** Creativity                                                       
+** Philosophy
+* Business                                                         :Business:
+** Content Creation                                                 
+** Game Design
+*** Habits & Routines
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::*Become a Board Game Designer & Publisher][Become a Board Game Designer & Publisher]]
+* Personal                                                         :Personal:
+** Investing                                                      
+** Finance
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::*Gain Financial Intelligence][Gain Financial Intelligence]]
+** Friends & Social                                       
+** Personal Admin
+*** Value Goals
+- [[file:~/Orgfiles/goals/Goals.org::*Master Org Mode for productivity][Master Org Mode for productivity]]
+** Home                                                           
+** Family
+* Work                                                                 :Work:
+** Marketing                                                    
+** Web Dev                                                    
+** Content Marketing                                
+** PPC                                                             
+** Paid Advertising                                    
+** Work Admin                                           
+** SEO                                                           
+** Marketing Automation                     

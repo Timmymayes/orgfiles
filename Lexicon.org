@@ -1,0 +1,22 @@
+* New Words
+** Masticate  :drill:
+SCHEDULED: <2024-12-13 Fri>
+:PROPERTIES:
+:ID:       23cc3961-a66f-475e-a5f4-6d98f9021505
+:DRILL_LAST_INTERVAL: 4.14
+:DRILL_REPEATS_SINCE_FAIL: 2
+:DRILL_TOTAL_REPEATS: 1
+:DRILL_FAILURE_COUNT: 0
+:DRILL_AVERAGE_QUALITY: 5.0
+:DRILL_EASE: 2.6
+:DRILL_LAST_QUALITY: 5
+:DRILL_LAST_REVIEWED: [Y-12-13 Fri 17:%]
+:END:
+*Pronunciation:*
+
+*Definition:*
+[to chew your food]
+
+Ex:
+*** Synonyms
+- chew

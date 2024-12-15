@@ -1,0 +1,203 @@
+
+* Goals
+:PROPERTIES:
+:org-remark-file: Goals.org
+:END:
+
+** What I Value:
+
+** Where I find purpose in life:
+
+** How will I live to maximize this value and meaning in life:
+
+** - Humor and Silliness
+- Emotional Support and Stability
+- Honesty, Integrity and Authenticity
+- History
+- Competency
+- Dependability
+- Creativity
+- Learning
+- Novelty
+- Shared Experiences
+- People and Nature
+- Achievement and Progress
+
+** - Humor and Silliness
+- Emotional Support and Stability
+- Honesty, Integrity and Authenticity
+- History
+- Competency
+- Dependability
+- Creativity
+- Learning
+- Novelty
+- Shared Experiences
+- People and Nature
+- Achievement and Progress
+
+** - Humor and Silliness
+- Emotional Support and Stability
+- Honesty, Integrity and Authenticity
+- History
+- Competency
+- Dependability
+- Creativity
+- Learning
+- Novelty
+- Shared Experiences
+- People and Nature
+- Achievement and Progress
+
+** - Humor and Silliness
+- Emotional Support and Stability
+- Honesty, Integrity and Authenticity
+- History
+- Competency
+- Dependability
+- Creativity
+- Learning
+- Novelty
+- Shared Experiences
+- People and Nature
+- Achievement and Progress
+
+** - Humor and Silliness
+- Emotional Support and Stability
+- Honesty, Integrity and Authenticity
+- History
+- Competency
+- Dependability
+- Creativity
+- Learning
+- Novelty
+- Shared Experiences
+- People and Nature
+- Achievement and Progress
+
+** Where I find purpose in life
+
+** How will I live to maximize this value and meaning in life:
+
+** What I Value
+
+** ** Active
+
+** *** ~Become a Game Designer & Publisher~                 :VALUE:GAMEDESIGN:
+
+** *** ~Become a Game Designer & Publisher~                 :VALUE:GAMEDESIGN:
+
+** * ~Become a Game Designer & Publisher~                 :VALUE:GAMEDESIGN:
+
+** * ~Become a Game Designer & Publisher~                 :VALUE:GAMEDESIGN:
+
+** ** Prototype 3 new games in 2023 [0/3]                         :OUTCOME:
+
+** * ~Master Org Mode for productivity~                              :VALUE:
+
+** * ~Become Healthy & Fit~                           :VALUE:HEALTH:FITNESS:
+
+** * ~Gain Financial Intelligence~                             :VALUE:FINANCE:
+
+** * ~Become Well Read~                                :VALUE:MINDEXPANSION:
+
+
+
+
+
+** * Goals                                                                :GOAL:
+
+** * Goals                                                                :GOAL:
+:PROPERTIES:
+:org-remark-beg: 108
+:org-remark-end: 185
+:org-remark-id: 7883ac7f
+:org-remark-label: blue-bg
+:org-remark-link: [[file:Goals.org::3]]
+:END:
+
+** * ~Know Thyself~                              :VALUE:IDENTITY:PHILOSOPHY:
+
+** der Control [0/4]              :OUTCOME:
+:PROPERTIES:
+:timeline: Midterm: 6mo - 1yr
+:END:
+- [ ] Get all cavities taken care of.
+- [ ] Develop a habit of flossing.
+- [ ] Move away from quarterly cleanings.
+- [ ] Get old fillings replaced.
+
+*** ~Gain Financial Intelligence~                             :VALUE:FINANCE:
+**** Pay off debt [1/4]                                          :OUTCOME:
+:PROPERTIES:
+:timeline: Longterm: 1yr+
+:created:  [2001-11-08 Thu]
+:END:
+- [ ] Paypal ($1,185.07)
+- [ ] US Bank ($5,000)
+- [ ] Jessica ($1400)
+- [X] Car ($1,017.60) 
+**** Setup Ledger and build daily habit of use [1/2]             :OUTCOME:
+
+- [X] Setup ledger (~across all emacs installs~)
+- [ ] Build daily habit of use
+**** Determine a reliable monthly expenditure amount             :OUTCOME:
+**** Establish 3 Month Emergency Fund (Seperate from poker bankroll) :OUTCOME:
+
+
+
+** * ~Gain Financial Intelligence~                             :VALUE:FINANCE:
+
+** * ~Become Well Read~                                :VALUE:MINDEXPANSION:
+
+** ** Start a game design blog                                                 :OUTCOME:
+
+** **** Become Active on BGG                                                     :OUTCOME:
+
+** * Become Active on BGG
+
+** * Become Active on BGG
+
+** * Become Active on BGG                                                     :OUTCOME
+
+** * Become Active on BGG                                                     :OUTCOME:
+
+** * Goals                                                                             :GOAL:
+
+** *** Become a Board Game Designer & Publisher                          :VALUE:GAMEDESIGN:
+
+** *** Become a Board Game Designer & Publisher                          :VALUE:GAMEDESIGN:
+
+** * Become a Board Game Designer & Publisher                          :VALUE:GAMEDESIGN
+
+** * Prototype 3 new games in 2023
+
+** * Prototype 3 new games in 2023
+
+** * Become Healthy & Fit
+
+** * Outline a full-fledged fitness and diet plan                             :OUTCOME:
+
+** * Hit Stage 1 Weight Target [ ~200lbs~ ] =starting weight:= ~233lbs~ :OUTCOME:
+
+** * Convert to a 95% WPFB Diet                                               :OUTCOME:
+
+** * Hit Stage 1 Weight Target [ ~200lbs~ ] =starting weight:= ~233lbs~ :OUTCOME:
+
+** * Convert to a 95% WPFB Diet                                               :OUTCOME:
+
+** * Drop Blood Pressure to 120/70                                            :OUTCOME:
+
+** * Hit Stage 1 Weight Target: 200 Lbs                          :OUTCOME:
+
+** * Kickstart Bagged & Boarded
+
+** * Become Active on BGG
+
+** * Become Active on BGG
+
+** * Become Healthy & Fit                                          :VALUE:HEALTH:FITNESS:
+
+** * Master Org Mode for productivity                                             :VALUE:
+
+** * Kickstart Bagged & Boarded

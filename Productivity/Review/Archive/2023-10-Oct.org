@@ -1,0 +1,6 @@
+#+FILETAGS: :OCT: :2023:
+* Week 1: Oct 02 - Oct 08                                                :Q4:
+* Week 2: Oct 09 - Oct 15                                                :Q4:
+* Week 3: Oct 16 - Oct 22                                                :Q4:
+* Week 4: Oct 23 - Oct 29                                                :Q4:
+

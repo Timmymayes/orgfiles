@@ -1,0 +1,230 @@
+#+FILETAGS: :Aug: :2023:
+#+transclude: [[file:~/Orgfiles/Productivity/Identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] :level 2
+
+
+* Week 1: Jul 30 - Aug 06                                                :Q3:
+
+** Overview
+#+NAME: Week 1 Overview
+|---------------+------------------------------------------|
+| Focus         | Work on sleeping with CPAP               |
+| Objectives    | Build my CPAP routine                    |
+|---------------+------------------------------------------|
+| Effectiveness | 50%                                      |
+| Gratitude     | Grateful for feeling ok with bing single |
+|---------------+------------------------------------------|
+| Improvements  | more considtent daily use of emacs       |
+|---------------+------------------------------------------|
+
+** Metrics
+*** Morning
+#+Name: Health
+| Day | Weight | BP SYS | BP DIA | Sleep Time |  AHI | Mood       |
+|-----+--------+--------+--------+------------+------+------------|
+| Mon |  221.5 |    135 |     92 |        7.5 |  0.4 | Chill      |
+| Tue |  221.6 |    123 |     87 |        8.5 |  0.6 | Content    |
+| Wed |  223.2 |    121 |     74 |        7.5 |  0.1 | Distracted |
+|-----+--------+--------+--------+------------+------+------------|
+| Avg | 222.10 | 126.33 |  84.33 |       7.83 | 0.37 | ---        |
+#+TBLFM: @$2..$6=vmean(@I..@II);%.2f
+
+*** Evening
+#+Name: Evening
+| Day | Output % | On Schedule % | Mood         |
+|-----+----------+---------------+--------------|
+| Mon |       35 |            25 | Tired        |
+| Tue |       55 |            60 | Accomplished |
+| Sun |       30 |            50 | Chill        |
+|-----+----------+---------------+--------------|
+| Avg |    40.00 |         45.00 | ---          |
+#+TBLFM: @$2..$3=vmean(@I..@II);%.2f
+
+*** Improvements List
+**** Mon
+- Check my emacs as soon as I'm home and get right to work.
+- Don't eat food on way home
+
+**** Tues
+- Properly schedule evening tasks and clock/log them
+- look forward at my projects a bit more
+
+**** Sun
+- Start your moning off right.
+
+** 1. Review the week
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 1 Accomplishments][Week 1 Accomplishments]]
+- [X] Update Disapointments - [[*Week 1 Disappointments][Week 1 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 1 Highs, Lows and Learnings][Week 1 Highs, Lows and Learnings]]
+  
+**** Week 1 Accomplishments                               :Accomplishment:
+***** Hit almost 30 hours of poker for August already. 
+***** Sleeping very consistently with my CPAP
+***** Got a lot of great food at the farmers market
+***** Got a ton of stuff done for the apt. Re-organized + hung a bunch of things
+**** Week 1 Disappointments                               :Disappointment:
+***** Win rate on poker isn't quite where I want it to be. 
+***** Almost lost my phone and that was really crappy
+***** Not getting enough sleep
+***** Not doing my daily habits well yet
+
+**** Week 1 Highs                                                  :Highs:
+***** Got a cool satchel for poker
+***** Had a huge win streak where was running hot at poker
+**** Week 1 Lows                                                    :Lows:
+***** Immediately lost the money from my nice streak the same day.
+**** Week 1 Learnings                                          :Learnings:
+***** I need to stay humble and patient with my poker learnings. 
+
+
+
+** 2. Review Actions & Projects
+=Moving your goals forward=
+- [X] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+** 3. Process  Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check saved emails
+    
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+** 4. Clean Up
+=A fresh start for the week=
+- [X] Desktop & Download Folders (re-locate or delete)
+- [X] Clean Up Cloudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+
+* Week 2: Aug 07 - Aug 13                                                :Q3:
+** Week 2 Checklist
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [X] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [X] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [X] Update Accomplisments - [[*Week 2 Accomplishments][Week 2 Accomplishments]]
+- [X] Update Disapointments - [[*Week 2 Disappointments][Week 2 Disappointments]]
+- [X] Fill out Highs Lows and Learnings -  [[* Week 2 Highs, Lows and Learnings][Week 2 Highs, Lows and Learnings]]
+
+*** Pipelines
+=Process driven Actions=
+- [X] Clean Email
+  - [X] Inbox Zero
+  - [X] Check saved emails
+    
+- [X] Calendar
+  - [X] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [X] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [X] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [X] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [X] Desktop & Download Folders (re-locate or delete)
+- [X] Clean Up Cloudapp saved screenshots
+- [X] Transfer relevant high value notes and clippings to org-roam
+** Overview
+#+NAME: Week 1 Overview
+|---------------+-----------------------------------------------|
+| Focus         | Jump start new habit routines                 |
+| Objectives    | 100% compliance with morning startup and omad |
+|---------------+-----------------------------------------------|
+| Effectiveness | 5%                                            |
+| Gratitude     | Grateful for family                           |
+|---------------+-----------------------------------------------|
+| Improvements  | Focus hard on morning startup                 |
+|---------------+-----------------------------------------------|
+
+** Metrics
+*** Morning
+#+Name: Health
+| Day | Weight | BP SYS | BP DIA | Sleep Time |  AHI | Mood        |
+|-----+--------+--------+--------+------------+------+-------------|
+| Mon |  222.6 |    131 |     81 |        7.5 |  0.8 | Even Keeled |
+|-----+--------+--------+--------+------------+------+-------------|
+| Avg | 222.60 | 131.00 |  81.00 |       7.50 | 0.00 | ---         |
+#+TBLFM: @$2..$5=vmean(@I..@II);%.2f
+
+*** Evening
+#+Name: Evening
+| Day | Output % | On Schedule % | Mood |
+|-----+----------+---------------+------|
+|-----+----------+---------------+------|
+| Avg |     0.00 |          0.00 | ---  |
+#+TBLFM: @$2..$3=vmean(@I..@II);%.2f
+
+*** Improvements List
+
+** Week 2 Accomplishments                                   :Accomplishment:
+*** Got over my sickness pretty quickly
+** Week 2 Disappointments                                   :Disappointment:
+*** Busted out pretty hard for about 3 buyins at a loose 1/3 table
+*** Barely did my morning stuff. 
+*** Got sick
+*** Felt really lazy and umotivated (probalby due to sickness.)
+
+
+** Week 2 Highs                                                    :Highs:
+*** Playing tons of poker
+** Week 2 Lows                                                     :Lows:
+*** Losing 3 buy ins when I didn't need to. 
+** Week 2 Learnings                                             :Learnings:
+*** Realizing I'm really bored stuck at home. 
+
+* Week 3: Aug 14 - Aug 20                                                :Q3:
+** Week  Checklist
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+
+
+
+
+

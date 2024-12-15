@@ -1,0 +1,68 @@
+
+* mindset-and-identity
+:PROPERTIES:
+:org-remark-file: mindset-and-identity.org
+:END:
+
+** I AM...
+
+** My Name is Tyler 
+
+** * My Name is Tyler I AM...
+:PROPERTIES:
+:org-remark-beg: 119
+:org-remark-end: 145
+:org-remark-id: 59cd9ca4
+:org-remark-label: orange-fg
+:org-remark-link: [[file:mindset-and-identity.org::5]]
+:END:
+
+** * Mindset & Identity Sculpting
+
+** * Mindset & Identity Sculpting
+
+** * Mindset & Identity Sculpting
+
+** * Mindset & Identity Sculpting
+:PROPERTIES:
+:org-remark-beg: 1
+:org-remark-end: 31
+:org-remark-id: 7a1d20be
+:org-remark-label: blue-bg
+:org-remark-link: [[file:mindset-and-identity.org::1]]
+:END:
+
+** * Mindset & Identity Sculpting
+:PROPERTIES:
+:org-remark-beg: 1
+:org-remark-end: 31
+:org-remark-id: fd332e9e
+:org-remark-label: light-blue-bg
+:org-remark-link: [[file:mindset-and-identity.org::1]]
+:END:
+
+** Current Focus
+
+** Focus
+
+**  Current Focus
+:PROPERTIES:
+:org-remark-beg: 148
+:org-remark-end: 162
+:org-remark-id: eccf5263
+:org-remark-label: pink-fg
+:org-remark-link: [[file:mindset-and-identity.org::6]]
+:END:
+
+** Not in Focus
+:PROPERTIES:
+:org-remark-beg: 463
+:org-remark-end: 475
+:org-remark-id: a9cac8eb
+:org-remark-label: grey-fg
+:org-remark-link: [[file:mindset-and-identity.org::21]]
+:END:
+
+** *** Focused, Thoughtful and Present *** Determined and doggedly on task *** Healthy and fit *** Frugal *** An Early Riser *** A Stoic *** Organized *** A Game Designer *** Depedable and Reliable *** Consistent *** A Programmer *** A Marketer *** A Photographer *** A Clean Person *** Well Read
+
+**  *** Determined and doggedly on task *** Healthy and fit *** Frugal *** An Early Riser *** A Stoic *** Organized *** A Game Designer *** Depedable and Reliable *** Consistent *** A Programmer *** A Marketer *** A Photographer *** A Clean Person **

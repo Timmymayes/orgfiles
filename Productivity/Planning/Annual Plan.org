@@ -1,0 +1,117 @@
+# -*- visual-fill-column-width: 220; -*-
+* 2023 Annual Review & Planning Process
+** Overview
+*** The Process
+**** Accomplishments & Dissapointments
+#+ Accomplishment & Disappointment List
+| Accomplishments                                                               | Disappointments                                                        |
+|-------------------------------------------------------------------------------+------------------------------------------------------------------------|
+| Started very solidly down the path of learning to code                        | Didn't save very much $$$ and am in some debt                          |
+| Credit score went above 700                                                   | Not maintaining diet & exercies                                        |
+| Did a several month run of a very solid morning routine                       | Still overweight                                                       |
+| Pushed myself upto being able to jog for 3 miles                              | Played too many video games                                            |
+| Developed Bagged & Boarded and got a great reception at SHUX convention       | Played a bit too much board games (only because I need to focus study) |
+| Designed 2 more designs that might got o publishing with Ocotoraffe           | Not making great use of time                                           |
+| Did some fasting                                                              | Inconsistent Journaling                                                |
+| Switched away from software where I do not own my data                        | Wasted too much time on reddit and youtube                             |
+| Started utilizing less mobile data via downloaded media                       | Didn't do much photography                                             |
+| Tried out a physical Zettlekasten                                             | watched a bit too much tv                                              |
+| Read quite a lot (mostly fiction)                                             | Didn't do enough growing of foods/sprouts                              |
+| Made my own keyboard (Dactyl Manuform)                                        | Wasted time with deviant activities                                    |
+| Met new people and maintained friendships through board games                 |                                                                        |
+| Rallied my relationship with Jess. Feeling really good about things with her. |                                                                        |
+| Got back to the dentist and am getting my teeth fixed                         |                                                                        |
+| Made progress on 2 new designs with Nick                                      |                                                                        |
+
+**** Conduct Deep Reflection, interpretation and visualization
+
+***** People
+****** Josh H.
+My longest, oldest friend. I always enjoy our conversation and hanging out. We come from the same place, poor ass Kentucky boys in California. I need to spend more time connecting with this man.
+****** Jess
+She is my everything. She laughs at my jokes, makes me laugh (usually by trolling me). She'll call me on my bullshit and take care of me when I'm sick, or just feeling down. She makes me want to be a better person and I do not want to ever lose her. 
+****** My Family
+They have always had my back and loved and accepted me. They might not share all of my interest but they fully support me.  I really should spend much more time with them or talking to them. If an opportunity to move back and be closer comes up I'd happily take it. My family also had a huge hand in shaping me and making me the person I am today. 
+****** Nick
+A new found friend in the last few years. He believed in my game enough to want to publish it and before that wanted me as a friend, initiating to invite me into the fold. He's foot the bill for me to travel with him to various Octoraffe related events. Look forward to many years working with and getting to know him. 
+****** Josh/Jordan/Frank
+A great group of people. Them and their families are awesome. If I was younger I could see myself becoming great friends with Jordan. If I had kids I'd probably bring mine out to play with Josh's and Franks sons. As it stands they are a positive element in my life that I get to  immerse myself with every Tuesday. 
+****** Gary K
+I met Gary at Dice Tower West and while he's more of a casual acquaintence I do enjoy having him as a connection. He's smart as a whip and a solid programmer. More importantly he makes great games and designs and produces them "progromattically" using scripts which I think is really cool. He's also diving into a project about determining the complexity of board games which is also awesome. 
+****** Chris G
+Chris is an unexpected person to connect with. If i'm honest I initially held a bit of a judgmental disdain against him as he's quite fat, a fault we share and I think my repugnant reaction to him was a reflection of my own self hate regarding my weight. I barely connected with Chris the first time I met him (at the first LememCon in 2022). However, on the car ride from having picked him up, headed to an OC game day, I learned he's a long time emacs user. He even sent me his dot files and gave me some encouragmenet on my learn to code journey. He works at AirBnb and even worked at Blizzard once upon a time. 
+
+***** Communities
+****** Discord
+******* Heavy Involvement
+******** Grand Trunk Games
+*Notable People*
+- Nick
+- Jordan
+- Josh
+- Frank
+- Raph
+- Waymost (Matt)
+- Chris
+- Garett
+- Toby (Captiantobs)
+******** Splotter Games Unofficial
+*Notable People*
+- Juriaan - splotter person
+- Burmer
+- Zezzene
+- Das Boom
+- Cheap
+- Greg
+- Olyball
+******** TGZ
+*Notable People*
+- Burmer
+- Vraid
+- Steveth
+- Siddhig
+- Zezzene
+******* Medium Involvement
+******* Light Involvement
+******** The Primeagen
+******* System Crafters
+****** SD Board Gamers
+Not really a community but one i'd like to grow
+***** Places
+****** Home
+As a home body I really love being home and being able to do everything from there. Working from home is the pinnacle of success for me. If I can mostly be home then just travel out for game conventions etc then it could be quite ok. 
+****** Parents Home
+This is my origin. It is where I feel most connected to my past, my youth, and my family. I really love spending time there. It's spartan but familiar, utilitarian but unwanting. 
+****** The Game Table (Santee & Mira Mesa)
+My regular gaming tables are places to laugh, connect, compete. I feel at home here and I don't relish the inevitable end of my time at these places with these people. 
+****** Game Conventions
+The community of gaming at large is fantastic. I really enjoy connecting with other gamers at conventions, wether its chatting in general, playing games or eating. Perhaps one day I'll try to start a game convention.
+****** Outside / Nature
+Wether its running around the block or being out at a park with Jess, I love nature. It's peaceful to be out in the world. I prefer this to being in a work office. I really need to explore more and capture photography.
+***** Experiences
+****** Showing off my games
+Showing people my games is affirming and validating. Experiencing others enjoy my games makes me feel happy and fulfilled. 
+****** Learning Programming
+I enjoy everything about programming.  Problem solving, learning, math, systems etc. I enjoy doing it and need to really get past tutorial / learning into actual projects. 
+****** Running / Stretching / Exercising
+I have come to enjoy running, in the sense of enjoying pushing myself. I'm eager to start running in my minimilist shoes but I need to be careful on pushing it. Stretching and increasing my flexibility is also a point of pride that I enjoy. Next up I really need to layer in body weight training to get strong. 
+****** Becoming an emacs user
+In finding emacs I feel like I've found myself, my people. Customizing my tools is a top tier aspect for me. Between coding, productivity and creative uses this program will be with me for life. It's all open source and I completely own the software and my data. It did come with some setup time and learning curve but more than worth it. 
+****** 3d Printing (Designing & Printing)
+Finding 3d printing was a revelation. It's such a cool and useful hobby. It blends function and creativity so well. I especially love designing. At the moment my printer is out of commission but its on the list to fix. 
+****** Design Discussion (With Nick, Josh, Jordan and others)
+Design discussions with my fellow board game people is revitalizing. It fuels my soul. 
+****** Learning & Applying Stoicism
+Stoicism is the value system I most align with. I get fulfilment from learning and applying it. 
+****** Meditation
+Meditation is something I've been practicing off and on for a year and I feel as though I've glimpsed a bit of what Sam Harris talks about. I gained a lot of clarity from the recent podcast he did with Andrew Huberman. That conversation really pushed me to want to apply meditation to my whole life not just the practice sessions. 
+****** Cooking
+Cooking in general is a skill I enjoy having, and I'm not utilizing it enough these days. I also really love sharing cooking with Jess. 
+**** Systems Review & Building
+***** Review Guiding Principles
+***** Review & Adjust Pillars
+***** Review  and update Value Goals
+***** Review Habits & Routines
+***** Review Goal Outcomes
+***** Review Projects
+** Notes 

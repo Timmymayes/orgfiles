@@ -1,0 +1,185 @@
+#+FILETAGS: :2024: :Mar: :Q1:
+#+transclude: [[file:~/Orgfiles/Productivity/Identity/Guiding Principles.org::*Guiding Principles][Guiding Principles]] :level 2
+* Week 10: Mar 04 - Mar 10
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+* Week 11: Mar 11 - Mar 17
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+* Week 12: Mar 18 - Mar 24
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+* Week 13: Mar 25 - Mar 31
+** Week  Checklist
+
+*** Review the Week and Reflect
+=What did we learn? Did we grow?=
+- [ ] Review Completed Actions Items (~View agenda and regex filter to 'done'~)
+- [ ] Review Guiding Principles - [[*Guiding Principles][Guiding Principles]]
+- [ ] Update Accomplisments - [[*Week  Accomplishments][Week  Accomplishments]]
+- [ ] Update Disapointments - [[*Week  Disappointments][Week  Disappointments]]
+- [ ] Fill out Highs Lows and Learnings -  [[* Week  Highs, Lows and Learnings][Week  Highs, Lows and Learnings]]
+*** Pipelines
+=Process driven Actions=
+- [ ] Clean Email
+  - [ ] Inbox Zero
+  - [ ] Check saved emails
+    
+- [ ] Calendar
+  - [ ] Review last two (2) weeks calendar (~Does anything need follow up~)
+  - [ ] Review coming three (3) weeks calendar (~Need to start prepping for anything?~)
+    
+*** Review Actions & Projects
+=Moving your goals forward=
+- [ ] Check ~Waiting~ actions (~Assign do dates to anything needing follow up~)
+- [ ] Review Projects (~valuate where they stand and ensure at least one Next action for each~)
+  
+*** Clean Up
+=A fresh start for the week=
+- [ ] Desktop & Download Folders (re-locate or delete)
+- [ ] Clean Up Cloudapp saved screenshots
+- [ ] Transfer relevant high value notes and clippings to org-roam
+
+
+
+** Week  Accomplishments                                   :Accomplishment:
+*** 
+** Week  Disappointments                                   :Disappointment:
+*** 
+
+
+** Week  Highs                                                    :Highs:
+*** 
+** Week  Lows                                                     :Lows:
+*** 
+** Week  Learnings                                             :Learnings:
+*** 
+
+
+

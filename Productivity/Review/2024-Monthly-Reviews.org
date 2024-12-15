@@ -1,0 +1,142 @@
+#+FILETAGS: 2024
+* January                                                               :Jan:
+* February                                                              :Feb:
+* March                                                                 :Mar:
+** Overview
+
+*** Looking Forward
+**** What would make this month great?
+Push through to actually getting things done.
+**** Theme
+Regaining purpose
+*** Looking Backwards
+**** Gratitude                                                 :Gratitude:
+Grateful for all of the amazing people I have in my life. 
+**** Wins/Highs                                                    :Highs:
+***** Crushed creative project for carolyn stern
+***** Still haven't missed a podcast release
+***** Started planning the week
+**** Losses/Lows                                                    :Lows:
+***** Stressed by data backup situation at work
+***** Didn't get much done for board game projects
+**** Learnings                                                 :Learnings:
+***** I'm really bad at self control. Like REALLY bad
+
+
+** Review
+- [X] Review Month's Action Items [[org-ql-search:closed%3Afrom%3D-30%2Cto%3D0?buffers-files=%22org-agenda-files%22&super-groups=%28%28%3Aauto-parent%20t%29%20%28%3Aauto-todo%20t%29%29&sort=%28todo%20priority%20date%29&title=%22Completed%20Items%20-%20Last%2030%20days%22][Completed Items - Last 30 days]]
+- [X] Review Accomplishments (='C-c w'= ~Then filter for~ )
+- [X] Review Dissapointments  (='C-c w'= ~Then filter for~ )
+
+** Assessment
+*** Breakthroughs                                            :Breakthrough:
+**** I need to focus on planning to fewer things, and actually do them.
+*** Discoveries                                                  :Disovery:
+**** I enjoy being active. I need to make sure I'm actually doing it though.
+*** Activiites                                                   :Activity:
+**** Hung out with co-workers and had a lot of fun.
+*** Improvements                                              :Improvement:
+**** 
+
+** Pillars
+/Review & Update/
+- [X] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [X] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [X] Review Performance (check habit's in agenda)
+- [X] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+  
+** Pipelines
+*** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [X] Mark any /Completed/ goals as done
+- [X] Update Goal Timelines (Dates & Quarters)
+- [X] Any new goals to add?
+  
+*** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [X] Review / Update Status's
+- [X] Update Review Dates (Deadline)
+- [X] Update otucome/goal for each project
+- [X] Prioritize Projects
+- [X] Update next actions to reflect above
+  
+
+** Vaults
+- [X] Import any errant hand written notes into Roam
+- [X] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+** Bookkeeping
+- [ ] Reconcile and fully update Ledger ([[file:~/Ledgers/2023.ledger][Ledger]])
+- [ ] Plan next months money usage
+* April                                                                 :Apr:
+** Overview
+
+*** Looking Forward
+**** What would make this month great?
+
+**** Theme
+
+*** Looking Backwards
+**** Gratitude                                                 :Gratitude:
+
+**** Wins/Highs                                                    :Highs:
+***** 
+**** Losses/Lows                                                    :Lows:
+***** 
+**** Learnings                                                 :Learnings:
+***** 
+
+
+** Review
+- [ ] Review Month's Action Items (='C-c a spc'= ~Then filter for~ =done=)
+- [ ] Review Accomplishments (='C-c w'= ~Then filter for~ )
+- [ ] Review Dissapointments  (='C-c w'= ~Then filter for~ )
+
+** Assessment
+*** Breakthroughs                                            :Breakthrough:
+**** 
+*** Discoveries                                                  :Disovery:
+**** 
+*** Activiites                                                   :Activity:
+**** 
+*** Improvements                                              :Improvement:
+**** 
+
+** Pillars
+/Review & Update/
+- [ ] Review & Refine [[file:~/Orgfiles/identity/Pillars.org][Pillars]]
+- [ ] Review & Update [[file:~/Orgfiles/goals/Habits-And-Routines.org][Habits & Routines]]
+- [ ] Review Performance (check habit's in agenda)
+- [ ] Review & Refine the [[file:~/Orgfiles/identity/mindset-and-identity.org][Mindset & Identity]] ritual
+
+** Pipelines
+*** [[file:~/Orgfiles/goals/Goals.org][Goals]]
+- [ ] Mark any /Completed/ goals as done
+- [ ] Update Goal Timelines (Dates & Quarters)
+- [ ] Any new goals to add?
+  
+*** Projects (='C-c a SPC'= ~then look at all projects in the list~)
+- [ ] Review / Update Status's
+- [ ] Update Review Dates (Deadline)
+- [ ] Update otucome/goal for each project
+- [ ] Prioritize Projects
+- [ ] Update next actions to reflect above
+
+
+** Vaults
+- [ ] Import any errant hand written notes into Roam
+- [ ] Do a 30 second review/takeaway for all current books you're reading (eventual book list link)
+
+
+** Bookkeeping
+- [ ] Reconcile and fully update Ledger ([[file:~/Ledgers/2023.ledger][Ledger]])
+- [ ] Plan next months money usage
+
+
+* May                                                                   :May:
+* June                                                                  :Jun:
+* July                                                                  :Jul:
+* August                                                                :Aug:
+* September                                                             :Sep:
+* October                                                               :Oct:
+* November                                                              :Nov:
+* December                                                              :Dec:
