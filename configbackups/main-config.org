@@ -5,6 +5,7 @@
 * Config Overview
 This config is my personal config and is evolving over time. You can find the updated version here: [[https://github.com/Timmymayes/emacsone/blob/main/OrgFiles/emacsconf.org][Emacsone]].
 
+*Trying to push this update to git*
 
 This is my first run through configuring emacs so there is probably a lot of inefficiency in the layout and possibly some redundancy that needs cleaning up. That being said, this is a living document that will probably be evolving for some time before it gets a pure reboot. 
 
